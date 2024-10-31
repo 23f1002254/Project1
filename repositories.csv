@@ -1,0 +1,2736 @@
+login,full_name,created_at,stargazers_count,language,has_projects,has_wiki,license_name
+,badass-conference-talks,2019-08-05T16:42:39.000Z,488,NA,true,true,NA
+,blog,2020-03-24T19:21:47.000Z,16,JavaScript,true,true,MIT License
+,bluemix-example,2017-02-23T21:37:24.000Z,0,CSS,true,true,NA
+,boilerplate-code,2017-01-04T02:44:57.000Z,0,JavaScript,true,true,NA
+,building-a-portfolio-with-gatsby,2019-08-24T18:42:42.000Z,12,CSS,true,true,MIT License
+,chameleon-styleguide,2019-04-17T12:10:45.000Z,3,CSS,true,true,MIT License
+,coding-coach,2018-10-30T15:53:17.000Z,0,JavaScript,true,true,NA
+,complete-intro-to-react,2019-04-01T07:50:25.000Z,9,JavaScript,true,true,MIT License
+,component-library,2020-01-23T12:27:45.000Z,5,JavaScript,true,true,NA
+,create-react-library-with-styled-components,2020-01-27T10:21:24.000Z,2,NA,true,true,NA
+,css-animations,2019-03-18T14:36:55.000Z,15,CSS,true,true,NA
+,design-inspiration,2019-03-26T08:58:16.000Z,1031,NA,true,true,NA
+,dev.to,2019-04-14T06:43:34.000Z,5,Ruby,true,true,GNU Affero General Public License v3.0
+,developer-portfolios,2019-09-13T14:18:58.000Z,7353,NA,true,true,NA
+,eb-component-library-test,2020-01-27T09:28:07.000Z,2,NA,true,true,MIT License
+,emmabostian,2020-07-28T09:33:51.000Z,5,NA,true,true,NA
+,emmas-awesome-portfolio,2019-08-14T09:04:57.000Z,9,CSS,true,true,MIT License
+,fem-css-foundations,2023-04-15T06:27:55.000Z,81,HTML,true,false,NA
+,fem-design-systems,2020-02-17T17:26:11.000Z,520,JavaScript,true,true,NA
+,FEM-design-systems-docs,2020-03-10T14:23:16.000Z,18,JavaScript,true,true,Other
+,find-a-mentor,2019-02-26T14:28:36.000Z,12,JavaScript,true,true,MIT License
+,flexbox-vs-grid,2018-09-25T10:17:26.000Z,3,JavaScript,true,true,MIT License
+,Front-End-FAQ,2018-11-01T07:47:51.000Z,694,NA,true,true,Other
+,gatsby,2018-11-13T19:30:03.000Z,1,JavaScript,true,false,MIT License
+,gatsby-blog,2018-10-11T15:44:19.000Z,33,JavaScript,true,true,MIT License
+,gatsby-blog-tutorial,2019-12-22T10:02:48.000Z,13,JavaScript,true,true,MIT License
+,gatsby-intro,2019-07-08T11:52:15.000Z,2,JavaScript,true,true,MIT License
+,gatsby-theme-styleguide,2019-07-09T07:35:50.000Z,14,JavaScript,true,true,NA
+,gulp-template,2017-01-05T01:10:57.000Z,3,JavaScript,true,true,NA
+,how-to-become-a-web-developer,2018-03-06T16:40:05.000Z,32,JavaScript,true,true,MIT License
+,aHash,2022-09-07T14:08:40.000Z,3,NA,true,true,Apache License 2.0
+,alignify,2013-01-16T11:19:01.000Z,7,Python,true,true,NA
+,areweguiyet,2020-11-15T14:14:43.000Z,1,NA,true,true,NA
+,arrow,2019-10-28T09:43:49.000Z,1,NA,true,false,Apache License 2.0
+,atomic_refcell,2022-01-08T12:14:33.000Z,0,NA,true,true,NA
+,bevy,2022-03-07T15:28:18.000Z,1,NA,true,false,Other
+,bevy_egui,2022-02-25T10:30:24.000Z,0,NA,true,true,MIT License
+,binandlib,2023-01-25T14:44:00.000Z,2,Rust,true,true,Apache License 2.0
+,blog,2018-08-07T07:06:31.000Z,10,HTML,true,true,NA
+,bon,2013-03-07T17:48:12.000Z,21,C++,true,true,Other
+,cargo-deny,2023-03-02T14:29:53.000Z,1,NA,true,true,Apache License 2.0
+,cargo-geiger,2020-01-20T09:25:28.000Z,0,NA,true,true,NA
+,Configuru,2015-11-08T18:36:50.000Z,141,C++,true,true,NA
+,document-features,2022-06-10T12:17:06.000Z,2,NA,true,false,Other
+,drop-merge-sort,2016-12-27T16:39:29.000Z,172,Rust,true,true,MIT License
+,Dual-Contouring,2015-09-09T06:34:39.000Z,87,C++,true,true,NA
+,econtext,2020-06-07T10:52:34.000Z,6,Rust,true,true,Apache License 2.0
+,eframe_template,2020-12-19T20:54:21.000Z,801,Rust,true,true,Apache License 2.0
+,egui,2019-01-13T15:39:15.000Z,22251,Rust,false,true,Apache License 2.0
+,egui-macroquad,2021-08-24T15:17:50.000Z,0,NA,true,true,Apache License 2.0
+,egui-miniquad,2021-01-22T20:13:34.000Z,1,Rust,true,true,NA
+,egui-pure-glow,2023-01-27T08:01:08.000Z,3,Rust,true,true,NA
+,egui_dock,2022-12-11T14:30:15.000Z,8,NA,true,true,MIT License
+,egui_plot,2024-07-15T13:26:48.000Z,89,Rust,false,true,Apache License 2.0
+,egui_presentation,2023-08-23T14:47:22.000Z,16,Rust,true,true,NA
+,egui_winit_ash_vk_mem,2021-07-28T23:32:16.000Z,0,NA,true,true,Apache License 2.0
+,ehttp,2021-09-03T18:26:44.000Z,322,Rust,true,true,Apache License 2.0
+,emath,2017-03-27T18:03:51.000Z,12,C++,true,true,NA
+,emilib,2016-02-20T10:09:05.000Z,349,C++,true,true,NA
+,emilk,2022-10-03T18:35:46.000Z,3,NA,true,true,NA
+,alladin,2015-04-11T17:23:24.000Z,2,JavaScript,true,true,NA
+,allmaktisverige,2010-06-29T16:26:58.000Z,2,Ruby,true,true,NA
+,ardodnu,2014-11-19T20:47:07.000Z,1,JavaScript,true,true,MIT License
+,as3-gettext,2010-09-22T16:27:26.000Z,2,ActionScript,true,true,GNU Lesser General Public License v3.0
+,as3corelib,2011-10-21T09:05:24.000Z,1,ActionScript,true,true,NA
+,auth0-nodejs-webapp-sample,2017-02-06T20:12:10.000Z,3,JavaScript,true,true,NA
+,B02,2012-04-14T08:43:44.000Z,1,NA,true,true,NA
+,beautiful-lies,2012-10-25T00:00:02.000Z,3,CoffeeScript,true,true,MIT License
+,better-playlists,2017-08-21T12:25:50.000Z,72,JavaScript,true,true,NA
+,BigText,2012-10-07T15:11:10.000Z,0,JavaScript,true,true,Other
+,boiler-bay,2015-05-03T08:31:48.000Z,0,Java,true,true,MIT License
+,boiler-bay-client-js,2015-08-13T15:06:07.000Z,0,JavaScript,true,true,MIT License
+,bootstrap,2013-08-22T06:10:44.000Z,0,JavaScript,true,false,Apache License 2.0
+,brainwallet.github.com,2013-08-26T20:37:55.000Z,0,JavaScript,true,true,Other
+,bus-thing,2014-02-09T21:57:05.000Z,1,JavaScript,true,true,MIT License
+,caloriestreak,2012-06-27T20:52:40.000Z,1,JavaScript,true,true,NA
+,cannonville,2015-05-10T17:16:55.000Z,5,JavaScript,true,true,MIT License
+,coffee-mocha-npm-template,2014-07-25T13:56:43.000Z,0,CoffeeScript,true,true,NA
+,collabplay,2012-04-21T12:21:33.000Z,1,JavaScript,true,true,NA
+,cookingwith,2013-06-23T17:38:47.000Z,0,JavaScript,true,true,NA
+,cors-funfunforum,2018-02-12T14:56:44.000Z,1,JavaScript,true,true,NA
+,create-react-app,2016-11-28T16:38:56.000Z,7,JavaScript,true,true,Other
+,docs,2016-10-30T12:10:26.000Z,0,HTML,true,true,NA
+,eddystone,2016-09-23T12:25:27.000Z,0,C,true,false,Apache License 2.0
+,errorii,2011-11-13T18:09:28.000Z,1,JavaScript,true,true,NA
+,eventthing,2015-04-03T21:24:22.000Z,0,JavaScript,true,true,NA
+,fff-graphql-example,2017-09-16T07:45:43.000Z,5,JavaScript,true,true,NA
+,fff-graphql-goodreads,2017-09-16T13:01:19.000Z,116,JavaScript,true,true,MIT License
+,fffish,2011-11-20T20:47:03.000Z,1,JavaScript,true,true,NA
+,ffforumautomator,2017-08-18T16:59:16.000Z,25,JavaScript,true,true,NA
+,AltSoftSerial,2018-02-03T10:56:51.000Z,1,C,true,true,NA
+,armips,2014-11-29T10:28:53.000Z,1,C++,true,true,MIT License
+,besserwisser,2018-03-05T16:03:30.000Z,4,C++,true,true,MIT License
+,boatrage,2012-05-24T21:16:12.000Z,7,C++,true,true,NA
+,cc-rs,2019-11-01T10:28:25.000Z,3,NA,true,false,Apache License 2.0
+,citra,2016-04-24T11:32:36.000Z,5,C++,true,true,GNU General Public License v2.0
+,collada-dom,2016-12-11T13:34:06.000Z,0,C++,true,true,NA
+,Cxbx-Reloaded,2017-03-23T20:39:59.000Z,4,C++,true,true,GNU General Public License v2.0
+,dirtree-json,2023-01-17T13:57:48.000Z,7,Rust,true,true,NA
+,dolphin,2018-03-12T22:40:14.000Z,8,C++,true,true,GNU General Public License v2.0
+,dotfiles,2012-01-21T09:23:53.000Z,3,VimL,true,true,NA
+,egui,2021-06-30T08:41:03.000Z,1,NA,true,true,Apache License 2.0
+,egui-gizmo,2022-03-20T11:12:24.000Z,0,NA,true,true,MIT License
+,glam-rs,2019-12-19T16:52:35.000Z,0,NA,true,true,Apache License 2.0
+,glslang,2016-12-09T14:58:34.000Z,2,C++,true,true,Other
+,gpu-allocator,2022-01-15T14:48:18.000Z,1,NA,true,true,Apache License 2.0
+,HLSLcc,2016-11-16T22:35:11.000Z,0,C++,true,true,Other
+,hrydgard,2021-06-09T22:08:15.000Z,3,NA,true,false,NA
+,image-png,2020-12-27T14:35:04.000Z,1,NA,true,true,Apache License 2.0
+,ImGuizmo,2018-11-19T13:08:49.000Z,0,C++,true,true,MIT License
+,libchdr,2023-09-22T16:09:04.000Z,1,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,lyon,2024-03-08T10:29:57.000Z,1,NA,true,true,Other
+,LZMA-SDK,2014-10-20T20:05:57.000Z,1,C++,true,true,NA
+,lzmaSDK,2014-10-21T19:54:58.000Z,1,NA,true,true,NA
+,martian-dice,2014-07-13T17:32:51.000Z,1,Go,true,true,NA
+,minidx9,2013-09-15T14:00:24.000Z,37,C++,true,true,NA
+,minimal-site-generator,2017-03-28T14:55:30.000Z,7,Makefile,true,true,NA
+,minitrace,2014-03-26T15:05:16.000Z,372,C++,true,true,MIT License
+,miniupnp,2020-07-21T21:31:02.000Z,2,C,true,true,Other
+,mod_player,2022-04-04T09:52:36.000Z,3,NA,true,true,MIT License
+,Action-Recognition,2019-04-06T12:25:12.000Z,181,Python,true,true,NA
+,awesome-machine-learning,2017-08-19T20:58:37.000Z,31,Python,true,true,Other
+,eriklindernoren.se,2015-05-10T14:55:14.000Z,20,CSS,true,true,NA
+,eth-circle,2015-10-03T12:31:25.000Z,0,CSS,true,true,NA
+,eth-moodi,2015-11-18T18:21:03.000Z,0,PHP,true,true,NA
+,Fast-Neural-Style-Transfer,2019-04-11T19:02:48.000Z,345,Python,true,true,MIT License
+,GoogleTTS,2016-11-30T11:18:38.000Z,6,Shell,true,true,NA
+,HomeAssistant,2016-11-26T21:07:07.000Z,15,JavaScript,true,true,NA
+,Keras-GAN,2017-07-11T16:24:53.000Z,9183,Python,true,true,MIT License
+,MapApp,2015-05-26T22:15:20.000Z,0,Objective-C,true,true,NA
+,ML-From-Scratch,2017-02-05T12:11:23.000Z,23949,Python,true,true,MIT License
+,NapkinML,2018-01-25T15:56:30.000Z,557,Python,true,true,MIT License
+,Object-Detection,2017-11-30T11:09:57.000Z,6,Python,true,true,NA
+,PFTA-Final-Assignment,2017-12-16T16:56:36.000Z,4,Jupyter Notebook,true,true,MIT License
+,PyTorch-Deep-Dream,2019-03-23T19:17:11.000Z,146,Python,true,true,MIT License
+,PyTorch-GAN,2018-04-21T13:06:40.000Z,16393,Python,true,true,MIT License
+,PyTorch-YOLOv3,2018-05-21T16:05:55.000Z,7320,Python,true,true,GNU General Public License v3.0
+,SemSegGUI,2019-06-08T17:19:48.000Z,11,C++,true,true,NA
+,Sonus-JFugueUI,2015-05-26T21:53:04.000Z,2,Java,true,true,NA
+,SSD-Tensorflow,2019-02-08T22:03:25.000Z,2,Jupyter Notebook,true,true,NA
+,TAOP33-Combinatorial-Optimization,2016-12-09T15:52:04.000Z,0,Matlab,true,true,NA
+,TBMI26-Neural-Networks,2017-02-03T09:37:40.000Z,5,Matlab,true,true,NA
+,TDDB68-PintOS,2016-05-27T12:40:33.000Z,0,C,true,true,NA
+,TDDC17-Artificial-Intelligence,2016-09-29T17:24:53.000Z,3,JavaScript,true,true,NA
+,.github,2019-04-25T02:03:08.000Z,0,NA,false,false,NA
+,aioshumway,2018-01-24T18:17:17.000Z,3,Python,true,true,Apache License 2.0
+,android-auth,2016-10-17T18:58:26.000Z,143,HTML,true,true,Apache License 2.0
+,android-sdk,2018-02-12T19:36:41.000Z,470,HTML,true,false,Apache License 2.0
+,android-store-service,2020-12-10T15:14:09.000Z,6,Python,true,true,Apache License 2.0
+,annoy,2013-04-01T20:29:40.000Z,13212,C++,true,true,Apache License 2.0
+,annoy-java,2015-01-30T21:07:30.000Z,138,Java,true,true,Apache License 2.0
+,apollo,2015-11-05T22:40:39.000Z,1649,Java,true,true,Apache License 2.0
+,apollo-elide,2016-10-26T09:31:48.000Z,1,Java,true,true,Apache License 2.0
+,apollo-metrics,2016-03-17T19:02:53.000Z,0,NA,true,true,NA
+,apps-tutorial,2012-01-24T19:31:42.000Z,627,NA,true,true,NA
+,async-datastore-client,2015-06-16T09:29:00.000Z,72,Java,true,true,Apache License 2.0
+,async-google-pubsub-client,2015-06-29T03:24:39.000Z,158,Java,true,true,Apache License 2.0
+,backup-utils,2014-10-01T09:41:02.000Z,5,Shell,true,false,MIT License
+,basic-pitch,2022-05-03T09:10:03.000Z,3435,Python,true,true,Apache License 2.0
+,basic-pitch-ts,2022-06-03T10:46:32.000Z,238,TypeScript,true,true,Apache License 2.0
+,batty,2014-09-26T09:15:28.000Z,0,Python,true,true,NA
+,bazel,2024-05-28T18:09:06.000Z,0,NA,true,true,Apache License 2.0
+,bazel-tools,2017-11-09T13:52:36.000Z,166,Java,true,true,Apache License 2.0
+,beam,2019-04-15T15:24:23.000Z,3,Java,true,false,Apache License 2.0
+,big-data-rosetta-code,2016-02-18T22:29:36.000Z,290,Scala,true,true,Apache License 2.0
+,bigtable-autoscaler,2018-09-07T08:53:48.000Z,68,Java,true,true,Apache License 2.0
+,boilerplate-app,2013-05-20T11:33:49.000Z,78,NA,true,true,NA
+,bucket-runner,2016-10-04T20:34:44.000Z,18,JavaScript,true,true,Apache License 2.0
+,cartography,2019-06-27T08:40:17.000Z,9,Python,true,false,Apache License 2.0
+,cassandra-extra,2015-06-11T08:48:16.000Z,6,Java,true,true,Apache License 2.0
+,cassandra-medusa,2019-09-24T13:46:53.000Z,25,Python,true,true,Apache License 2.0
+,cassandra-opstools,2014-11-20T15:31:07.000Z,56,Java,true,true,Apache License 2.0
+,cassandra-reaper,2014-11-24T08:30:06.000Z,235,NA,true,true,NA
+,causify,2024-07-10T08:53:39.000Z,0,NA,true,true,NA
+,access_profiler,2013-12-07T21:23:19.000Z,74,C++,true,true,GNU General Public License v3.0
+,aiosqlite,2021-09-17T14:15:06.000Z,0,NA,true,false,MIT License
+,asio,2019-11-09T16:35:17.000Z,1,NA,true,true,NA
+,bdecode,2015-03-08T07:35:39.000Z,17,C++,true,true,BSD 3-Clause "New" or "Revised" License
+,beast,2018-05-08T18:37:40.000Z,0,C++,true,true,Boost Software License 1.0
+,bitcoin,2018-09-06T01:31:11.000Z,0,C++,true,false,Other
+,bittorrent-multi-have,2016-05-29T22:23:07.000Z,2,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,bittorrent-trace,2020-01-29T12:29:51.000Z,6,C++,true,true,MIT License
+,bittorrent.org,2016-05-24T23:06:49.000Z,2,HTML,true,true,NA
+,boost-asio-gnutls,2021-11-28T09:18:19.000Z,2,NA,true,true,Boost Software License 1.0
+,bootstrap-dht,2016-08-08T22:46:42.000Z,3,C++,true,true,MIT License
+,btfs,2014-11-22T21:09:57.000Z,68,C++,true,true,GNU General Public License v3.0
+,build,2016-07-07T04:24:45.000Z,0,C,true,true,NA
+,codecov-python,2015-12-16T03:42:56.000Z,0,Python,true,false,NA
+,conan,2017-09-26T23:32:15.000Z,0,Python,true,true,MIT License
+,conan-boost-build-gen,2017-02-12T23:24:33.000Z,1,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,cppkafka,2017-10-24T10:59:03.000Z,1,C++,true,true,BSD 2-Clause "Simplified" License
+,ebb,2013-11-06T18:12:25.000Z,0,C++,true,true,MIT License
+,ed25519,2019-02-04T00:48:26.000Z,1,C,true,false,zlib License
+,elements,2017-09-07T21:55:31.000Z,1,C++,true,false,MIT License
+,endian,2017-11-04T11:57:02.000Z,0,C++,true,true,NA
+,flags,2018-03-28T10:08:08.000Z,7,C++,true,true,BSD 3-Clause "New" or "Revised" License
+,hash_complete_prefix,2012-12-23T00:05:57.000Z,1,C++,true,true,NA
+,hffix,2017-09-11T11:03:34.000Z,1,C++,true,true,Other
+,inline-namespace-abi-versioning,2017-04-06T00:06:36.000Z,6,C++,true,true,GNU General Public License v3.0
+,kcov,2020-01-19T13:37:03.000Z,2,NA,true,true,GNU General Public License v2.0
+,lcov,2015-06-02T21:24:48.000Z,0,Perl,true,false,GNU General Public License v2.0
+,libdatachannel,2021-04-14T05:50:31.000Z,1,C++,true,true,GNU Lesser General Public License v2.1
+,libsimulator,2015-07-04T20:54:59.000Z,21,C++,true,true,GNU General Public License v3.0
+,libtorrent,2015-06-03T05:22:03.000Z,5236,C++,true,true,Other
+,aladdin,2021-03-28T10:12:53.000Z,13,Python,true,true,MIT License
+,aladdinpersson.github.io,2020-10-14T08:58:28.000Z,6,SCSS,true,true,MIT License
+,Algorithms-Collection-Python,2019-02-15T20:49:02.000Z,219,Python,true,true,MIT License
+,coding-environment,2023-11-24T23:20:48.000Z,3,Shell,true,true,NA
+,Courses,2020-04-15T11:41:16.000Z,64,Jupyter Notebook,true,true,MIT License
+,HelloMnist,2021-01-04T10:35:46.000Z,19,Dart,true,true,NA
+,Machine-Learning-Collection,2020-03-26T07:02:40.000Z,7603,Python,true,true,MIT License
+,.github,2020-04-17T18:26:39.000Z,0,NA,false,false,NA
+,advanced-patterns-workshop,2023-04-04T17:26:01.000Z,0,NA,true,true,NA
+,aks-gh-actions-demo,2020-06-15T21:57:00.000Z,2,NA,false,false,MIT License
+,algo-customer-counter,2023-12-06T19:44:58.000Z,0,JavaScript,true,true,NA
+,apicon-serverless-framework,2018-03-20T02:38:25.000Z,0,JavaScript,true,true,MIT License
+,apps40-scalingdemo-frontend,2020-03-24T20:00:31.000Z,1,TypeScript,false,false,NA
+,article-cover-creator,2023-01-02T21:47:26.000Z,15,TypeScript,true,true,GNU Affero General Public License v3.0
+,Backup,2024-06-28T13:02:08.000Z,0,NA,true,true,NA
+,bash-AMI,2017-04-06T18:03:28.000Z,2,Shell,true,true,MIT License
+,blog-assets,2020-07-23T03:13:21.000Z,1,NA,false,false,GNU General Public License v3.0
+,blog-post-workflow,2020-07-21T18:25:33.000Z,0,JavaScript,true,true,GNU Affero General Public License v3.0
+,blog-theme,2020-07-08T19:58:57.000Z,2,Handlebars,false,false,MIT License
+,brazilian-states,2017-05-23T21:23:01.000Z,0,JavaScript,true,true,MIT License
+,cdc-kubernetes-sources,2018-10-01T03:58:40.000Z,41,JavaScript,true,true,GNU General Public License v3.0
+,cf-auth-azuread,2023-04-09T15:35:48.000Z,0,NA,true,true,MIT License
+,cf-auth-oauth2,2022-12-17T14:06:38.000Z,0,JavaScript,true,true,MIT License
+,Codename,2017-08-12T00:23:21.000Z,2,JavaScript,false,false,MIT License
+,codename-greek,2017-08-12T18:40:40.000Z,0,JavaScript,true,true,MIT License
+,codename-greek-gods,2017-08-12T18:50:34.000Z,1,JavaScript,true,true,MIT License
+,codename-nordic,2017-08-12T18:52:01.000Z,0,JavaScript,true,true,MIT License
+,codename-titans,2017-08-12T18:51:24.000Z,0,JavaScript,true,true,MIT License
+,codename-universe,2017-08-12T17:33:44.000Z,0,JavaScript,true,true,MIT License
+,codename-zodiac,2017-08-12T17:31:28.000Z,0,JavaScript,true,true,MIT License
+,codename-zodiac-warriors,2017-08-12T17:33:07.000Z,0,JavaScript,true,true,MIT License
+,codespace-kubernetes,2020-05-22T15:03:18.000Z,1,Shell,true,true,GNU General Public License v3.0
+,containerd-integration-example,2021-01-22T12:34:06.000Z,4,Go,true,false,MIT License
+,crud-serverless-mongodb,2019-08-26T14:34:56.000Z,0,JavaScript,true,true,MIT License
+,curso-performancenode,2018-02-14T22:05:13.000Z,1,JavaScript,true,true,MIT License
+,DefinitelyTyped,2023-03-21T19:41:06.000Z,0,TypeScript,true,false,Other
+,delay.css,2016-09-26T22:59:33.000Z,6,JavaScript,true,true,MIT License
+,AccountsClient,2013-10-10T11:47:00.000Z,115,Java,true,true,NA
+,acpplinter,2019-10-18T22:26:23.000Z,2,Rust,true,true,NA
+,appboy-ios-sdk,2018-10-03T18:54:18.000Z,2,Objective-C,true,true,Other
+,appcenter-sdk-android-breakpad,2020-05-20T17:55:26.000Z,2,C++,true,true,Other
+,auto-request-review,2024-01-25T23:42:07.000Z,0,JavaScript,true,true,MIT License
+,auto-reviewer-labeler-action,2024-04-05T00:46:20.000Z,0,TypeScript,true,true,Apache License 2.0
+,aws-elasticache-cluster-client-memcached-for-java,2016-04-20T11:49:42.000Z,2,Java,true,false,Other
+,azure-notificationhubs,2018-10-15T19:54:56.000Z,3,Objective-C,true,true,Apache License 2.0
+,azure-notificationhubs-ios,2020-05-18T21:22:50.000Z,2,NA,true,true,Apache License 2.0
+,bedrock-protocol-docs,2024-02-06T18:33:12.000Z,326,HTML,false,false,Other
+,bedrock-samples,2022-09-22T19:03:38.000Z,863,NA,true,true,Other
+,blixtser,2013-11-04T08:37:51.000Z,66,Java,true,true,MIT License
+,breakpad,2020-05-08T21:59:45.000Z,6,C++,true,true,Other
+,brigadier,2014-09-15T08:48:24.000Z,3440,Java,false,false,MIT License
+,brotli,2015-09-28T12:15:48.000Z,3,C,true,false,Apache License 2.0
+,cef,2018-09-12T11:58:56.000Z,3,C++,true,true,Other
+,concurrentqueue,2017-10-05T20:51:24.000Z,5,C++,true,true,Other
+,cortex-v2-example,2020-07-10T16:18:05.000Z,2,C#,true,true,MIT License
+,cotire,2019-02-01T18:27:30.000Z,4,CMake,true,true,MIT License
+,cpprestsdk,2018-09-13T21:49:38.000Z,4,NA,true,true,Other
+,DataFixerUpper,2018-06-28T11:18:13.000Z,1187,Java,false,false,MIT License
+,dcpu-16,2012-10-13T11:53:15.000Z,16,NA,true,true,NA
+,DefinitelyTyped,2021-07-28T17:05:53.000Z,2,TypeScript,true,false,Other
+,EducationContent,2020-02-19T21:05:33.000Z,35,TypeScript,true,true,NA
+,entt,2018-05-14T21:51:18.000Z,49,C++,true,true,MIT License
+,FakeIt,2018-06-26T17:19:17.000Z,5,C++,true,true,MIT License
+,fcpp,2018-10-17T15:54:41.000Z,3,C,true,true,BSD 3-Clause "New" or "Revised" License
+,freetype2,2019-03-29T23:31:25.000Z,2,C,true,true,NA
+,gelfj,2012-04-13T08:02:21.000Z,4,Java,true,true,Other
+,geojson2fbx,2020-02-14T22:50:40.000Z,4,NA,true,true,NA
+,adapter_pattern,2012-02-17T14:09:39.000Z,26,Erlang,true,true,NA
+,bertie,2013-02-23T14:10:11.000Z,7,Erlang,true,true,NA
+,chandler,2013-02-17T21:50:06.000Z,12,Erlang,true,true,NA
+,cocoa,2012-08-07T20:13:27.000Z,8,C,true,true,NA
+,contentEditableDemo,2009-06-29T10:50:57.000Z,24,JavaScript,true,true,NA
+,courses,2018-05-16T08:35:11.000Z,30,TeX,true,true,MIT License
+,cowboy_examples,2012-04-07T15:04:24.000Z,9,Erlang,true,true,NA
+,crypto_tutorial,2015-08-31T10:11:04.000Z,362,Erlang,true,true,MIT License
+,ebpm,2013-02-28T10:35:21.000Z,2,NA,true,true,NA
+,eep,2013-05-13T08:57:40.000Z,3,Perl,true,true,NA
+,elib1,2009-12-09T18:35:09.000Z,206,Erlang,true,true,MIT License
+,elixir,2013-05-24T17:03:24.000Z,4,Elixir,true,true,Other
+,enet,2010-01-22T08:10:08.000Z,12,Erlang,true,true,Other
+,erl2,2012-02-26T16:48:25.000Z,164,Erlang,true,true,NA
+,erlmediaserver,2010-09-21T16:16:38.000Z,13,Erlang,true,true,NA
+,erlog,2010-01-19T20:17:10.000Z,4,Erlang,true,true,BSD 2-Clause "Simplified" License
+,erl_img,2012-08-31T16:43:41.000Z,5,Erlang,true,true,NA
+,esdl,2010-08-20T15:41:14.000Z,4,Erlang,true,true,Other
+,ezwebframe,2012-12-11T12:27:21.000Z,184,Erlang,true,true,Other
+,joearms.github.io,2017-09-12T14:49:51.000Z,61,HTML,true,true,MIT License
+,lambdapad,2015-07-15T18:49:00.000Z,2,Erlang,true,true,NA
+,music_experiments,2016-01-24T15:55:02.000Z,82,Erlang,true,true,MIT License
+,nexusUI,2016-01-27T08:05:13.000Z,3,JavaScript,true,true,NA
+,old.blog,2013-03-27T09:07:41.000Z,72,HTML,true,true,NA
+,openembedded,2013-04-15T13:28:57.000Z,2,C,true,false,MIT License
+,otp,2010-10-13T07:57:28.000Z,10,Erlang,true,true,NA
+,paradis,2014-01-17T08:56:55.000Z,20,Erlang,true,true,MIT License
+,paradis_jan_2016,2016-01-15T10:41:09.000Z,7,Erlang,true,true,MIT License
+,ponyc,2017-08-20T20:21:05.000Z,2,C++,true,true,BSD 2-Clause "Simplified" License
+,SEBG,2011-02-11T17:54:23.000Z,82,JavaScript,true,true,MIT License
+,A-New-Channel-Subspace-Characterization-for-Channel-Estimation-in-RIS-Aided-Communications,2024-03-05T16:28:55.000Z,4,MATLAB,true,true,GNU General Public License v2.0
+,backward-crosstalk,2020-05-01T11:07:43.000Z,6,MATLAB,true,true,NA
+,Book-Chapter-on-ELAA,2022-12-23T17:01:50.000Z,17,NA,true,true,NA
+,book-resource-allocation,2014-07-24T07:20:45.000Z,84,Matlab,true,true,NA
+,capacity-limits-transceiver-impairments,2014-03-20T21:38:30.000Z,11,Matlab,true,true,NA
+,cell-free-book,2021-02-01T14:40:12.000Z,104,MATLAB,true,true,NA
+,cell-free-survey,2022-04-06T06:39:48.000Z,8,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,CF-LPZF,2022-04-06T06:38:33.000Z,2,NA,true,true,MIT License
+,CF_CA_Correlated,2022-04-06T06:37:41.000Z,2,NA,true,true,MIT License
+,CF_HST,2022-04-06T06:37:09.000Z,2,NA,true,true,MIT License
+,competitive-cell-free,2019-09-11T06:45:19.000Z,41,MATLAB,true,true,NA
+,deep-learning-channel-estimation,2020-01-13T09:28:29.000Z,91,Python,true,true,NA
+,distortion-correlation,2018-10-15T07:03:45.000Z,11,Matlab,true,true,NA
+,dual-polarization,2022-09-06T21:04:12.000Z,10,MATLAB,true,true,NA
+,duality,2024-03-11T06:43:26.000Z,2,NA,true,true,GNU General Public License v2.0
+,Efficient-LOS-Channel-Estimation-for-RIS-Aided-Communications-Under-Non-Stationary-Mobility,2024-03-05T16:28:29.000Z,5,MATLAB,true,true,GNU General Public License v2.0
+,EMI-RIS-Communications,2021-11-05T16:52:59.000Z,11,NA,true,true,NA
+,energy_consumption_in_MU_MIMO_with_mobility,2019-01-28T18:40:18.000Z,4,MATLAB,true,true,NA
+,fronthaul-quantization-precoding,2024-04-05T12:53:04.000Z,1,NA,true,true,NA
+,grant-free,2021-07-27T07:13:52.000Z,17,MATLAB,true,true,NA
+,hardware-scaling-laws,2015-03-23T12:31:42.000Z,5,Matlab,true,true,NA
+,how-energy-efficient,2018-12-06T10:22:54.000Z,13,Matlab,true,true,NA
+,IEEE_SP_CUP_2021-SIPL_TEAM,2022-09-28T09:52:40.000Z,1,NA,true,true,NA
+,IRS-continuous,2020-09-23T11:14:30.000Z,14,NA,true,true,NA
+,IRS-modeling,2020-04-08T17:57:43.000Z,69,MATLAB,true,true,NA
+,IRS-relaying,2019-10-28T22:02:42.000Z,106,MATLAB,true,true,NA
+,is-massive-MIMO-the-answer,2014-03-21T20:40:50.000Z,15,Matlab,true,true,NA
+,large-scale-fading-decoding,2018-12-14T19:15:56.000Z,19,MATLAB,true,true,NA
+,massive-mimo-book-chapter,2016-10-24T19:17:30.000Z,37,Matlab,true,true,NA
+,massive-MIMO-hardware-impairments,2014-08-26T19:46:18.000Z,26,Matlab,true,true,NA
+,Bukkit-1,2012-01-15T16:59:49.000Z,4,Java,true,true,GNU General Public License v3.0
+,BukkitFullOfMoon,2011-06-06T17:45:17.000Z,34,Java,true,true,NA
+,compose,2019-09-17T07:25:18.000Z,1,NA,true,false,Apache License 2.0
+,CraftIRC,2010-11-17T19:12:04.000Z,6,Java,true,true,NA
+,dinnerbone.github.io,2024-01-08T18:22:30.000Z,1,TypeScript,true,true,NA
+,egui,2024-01-09T21:52:34.000Z,2,NA,true,true,Apache License 2.0
+,ESLint-Formatter,2016-08-03T20:15:15.000Z,1,Python,true,true,MIT License
+,Gambot,2015-07-11T02:29:10.000Z,2,Perl,true,true,GNU General Public License v3.0
+,GreppyPie,2014-05-29T12:49:52.000Z,8,Python,true,true,NA
+,GrumpyPie,2016-04-05T17:46:11.000Z,14,JavaScript,true,true,MIT License
+,Guild-Roster-Manager,2022-10-20T20:25:20.000Z,0,Lua,true,true,Other
+,icey,2016-08-03T17:19:48.000Z,11,JavaScript,true,true,NA
+,libtest-mimic,2023-01-27T13:12:45.000Z,0,NA,true,true,Apache License 2.0
+,mcstatus,2011-11-06T05:56:40.000Z,1105,NA,true,true,NA
+,mcstatus-1,2022-02-27T19:56:16.000Z,1,NA,true,true,Apache License 2.0
+,Minecraft-Server-Mod,2010-11-19T01:56:45.000Z,24,Java,true,false,NA
+,naga_oil,2023-01-07T11:06:21.000Z,1,Rust,true,true,Apache License 2.0
+,name-your-shark,2021-03-15T00:48:33.000Z,10,ShaderLab,true,true,MIT License
+,PyGithub,2018-09-14T07:45:12.000Z,1,Python,true,false,GNU Lesser General Public License v3.0
+,ruffle,2019-08-26T19:05:50.000Z,14,ActionScript,true,true,Other
+,ruffle-android,2024-03-12T20:55:50.000Z,3,NA,true,true,NA
+,ruffle-swf-tests-on-web,2024-02-04T22:14:13.000Z,0,HTML,true,true,NA
+,rust-flash-lso,2024-07-05T10:51:28.000Z,1,NA,true,true,MIT License
+,SampleBukkit,2011-01-02T15:23:00.000Z,8,Java,true,true,NA
+,serde-reflection,2021-07-05T20:11:56.000Z,0,Rust,true,false,Apache License 2.0
+,serenity,2021-06-23T20:55:34.000Z,2,NA,true,false,ISC License
+,sg1-rpg-ruleset,2022-04-26T14:39:44.000Z,3,Lua,true,true,Other
+,ShareX,2014-05-31T15:07:44.000Z,6,C#,true,false,GNU General Public License v3.0
+,slow-firefox-bug,2024-02-03T22:01:03.000Z,0,TypeScript,true,true,NA
+,splitflap,2021-07-15T04:34:31.000Z,0,NA,true,true,Other
+,actionlint,2021-09-23T09:38:21.000Z,1,NA,true,true,MIT License
+,actions-demo,2019-03-13T23:42:33.000Z,2,Java,true,true,Apache License 2.0
+,advent-of-code,2019-11-28T16:41:48.000Z,43,Rust,false,false,NA
+,advent-of-code-java-user,2021-12-10T15:13:23.000Z,0,Java,false,false,NA
+,advent-of-code-js-user,2022-11-05T10:38:57.000Z,0,Python,true,true,NA
+,advent-of-code-luau,2023-02-05T09:30:29.000Z,1,NA,true,true,NA
+,advent-of-code-python-user,2021-12-12T21:53:12.000Z,0,Python,true,true,NA
+,afl.rs,2023-02-11T09:08:56.000Z,0,NA,true,false,Apache License 2.0
+,allocation-counter,2020-12-06T20:05:13.000Z,17,Rust,false,false,Apache License 2.0
+,android-activity,2023-09-24T21:38:48.000Z,1,Rust,true,true,NA
+,android-vulkan-tutorials,2023-11-16T14:35:51.000Z,1,NA,true,true,NA
+,android-vulkan-validation,2023-11-05T00:32:57.000Z,1,Java,false,false,MIT License
+,apksigner,2014-08-07T15:34:55.000Z,111,Java,true,false,NA
+,app-engine-demo-docker,2020-07-23T09:26:36.000Z,1,Python,true,true,NA
+,ash,2023-10-14T07:08:10.000Z,1,Rust,true,true,Apache License 2.0
+,async-backtrace,2024-02-05T22:52:58.000Z,1,NA,true,true,MIT License
+,autometrics-rs,2024-02-11T13:50:33.000Z,0,NA,true,false,Apache License 2.0
+,awesome-quads,2023-09-19T16:01:18.000Z,0,NA,true,true,NA
+,bevy,2023-08-18T06:07:19.000Z,0,Rust,true,false,Apache License 2.0
+,broot,2024-09-19T23:12:46.000Z,2,NA,true,false,MIT License
+,cap-sys-nice-docker,2023-10-20T06:36:06.000Z,0,C,false,false,NA
+,cargo-manifest,2024-01-08T17:29:05.000Z,2,NA,true,true,Apache License 2.0
+,cargo-public-api,2024-01-08T14:48:43.000Z,0,NA,true,false,MIT License
+,cargo-quad-apk,2023-09-18T18:28:24.000Z,0,NA,true,true,Apache License 2.0
+,chatpusher,2010-10-29T23:03:36.000Z,2,Java,true,false,NA
+,check-ignore,2020-09-16T10:03:56.000Z,5,Shell,true,true,MIT License
+,cmake-example,2017-08-23T18:53:10.000Z,1,CMake,true,true,NA
+,commonmark-java,2019-09-08T08:48:54.000Z,1,NA,true,true,BSD 2-Clause "Simplified" License
+,copypasta,2024-01-24T22:16:59.000Z,0,NA,true,false,Apache License 2.0
+,cpal,2024-03-01T07:20:23.000Z,0,Rust,true,true,Apache License 2.0
+,apifirst,2021-04-01T09:00:31.000Z,1,CSS,true,true,NA
+,app_basic,2024-05-09T14:14:15.000Z,0,Elixir,true,true,NA
+,ash_phoenix,2023-03-28T08:03:21.000Z,0,Elixir,true,true,MIT License
+,basic_app,2024-05-08T12:24:06.000Z,0,Elixir,true,true,NA
+,CV-pretrained-model,2020-10-13T06:51:26.000Z,2,NA,true,true,MIT License
+,demo_ash_auth,2024-06-06T08:24:13.000Z,0,JavaScript,true,true,NA
+,docs,2020-12-30T19:18:37.000Z,0,NA,true,false,NA
+,docs-1,2022-11-25T16:02:14.000Z,0,NA,true,false,Apache License 2.0
+,example_app,2024-03-01T09:32:22.000Z,0,Elixir,true,true,NA
+,export,2021-12-06T14:37:34.000Z,0,NA,true,true,MIT License
+,gitpod-vscode-mjml,2022-05-23T15:07:53.000Z,0,NA,true,true,MIT License
+,google-searchconsole,2021-10-18T19:11:06.000Z,0,Python,true,false,MIT License
+,google_sheets,2022-03-18T17:53:00.000Z,0,NA,true,true,NA
+,notifyapp-bug-example,2022-06-08T13:34:54.000Z,1,JavaScript,true,true,NA
+,open-faas-node12-template,2020-10-13T19:38:29.000Z,0,NA,true,true,NA
+,open-vsx-vscode-phoenix,2022-04-08T08:45:34.000Z,2,NA,true,true,MIT License
+,phoenix-liveview-chat-example,2022-04-08T16:45:52.000Z,0,NA,true,true,NA
+,postgres-operator-examples,2021-08-23T03:01:27.000Z,0,NA,true,true,Apache License 2.0
+,prisma,2020-12-31T10:51:23.000Z,1,NA,true,false,Apache License 2.0
+,sauna,2021-01-05T20:32:15.000Z,1,JavaScript,true,true,MIT License
+,scb_ex,2024-06-28T17:19:35.000Z,0,Elixir,true,true,NA
+,shopifex,2024-03-04T13:59:00.000Z,0,Elixir,true,true,Apache License 2.0
+,simple_app,2024-05-16T09:04:46.000Z,0,Elixir,true,true,NA
+,svelte-algolia,2021-09-28T17:00:04.000Z,0,JavaScript,true,false,MIT License
+,tailwind,2021-12-26T21:55:49.000Z,0,NA,true,true,MIT License
+,test-gatsby,2021-01-25T22:44:32.000Z,1,HTML,true,true,NA
+,victorbjorklund,2020-09-11T13:58:15.000Z,1,NA,true,true,NA
+,advent-of-jq,2021-12-02T11:04:46.000Z,0,jq,true,true,NA
+,aes-arraybuffer,2013-02-16T18:32:12.000Z,13,JavaScript,true,true,NA
+,angular-ui-tree,2014-05-02T09:38:20.000Z,0,JavaScript,true,true,MIT License
+,ansisvg,2021-09-30T07:54:20.000Z,90,Go,true,true,MIT License
+,app-client-macos,2022-01-16T14:52:40.000Z,1,Go,true,true,NA
+,appsnax,2010-11-17T13:31:25.000Z,5,PHP,true,true,NA
+,asn1-ber,2022-01-13T14:14:15.000Z,0,NA,true,true,MIT License
+,awesome-jq,2022-08-17T21:08:59.000Z,1,NA,true,false,NA
+,basium,2017-07-17T15:28:48.000Z,0,Python,true,true,NA
+,Bento4,2017-07-03T12:50:08.000Z,0,C++,true,true,NA
+,bettercap,2024-01-31T20:42:23.000Z,1,NA,true,false,Other
+,binary-parsing,2024-02-15T09:17:20.000Z,0,NA,true,true,MIT License
+,build-multiarch-on-aws-spots,2024-04-23T09:46:08.000Z,1,HCL,true,true,NA
+,bump,2019-10-22T18:06:13.000Z,66,Go,true,true,MIT License
+,caddy,2017-08-08T17:52:52.000Z,0,Go,true,true,Apache License 2.0
+,caddy-webdav,2020-04-22T22:57:06.000Z,0,NA,true,true,NA
+,caddy2-webdav,2020-04-19T13:09:09.000Z,0,Go,true,true,NA
+,catgolf,2021-10-15T10:20:25.000Z,43,NA,true,true,NA
+,chrome-search-spotify,2015-01-16T21:47:36.000Z,1,JavaScript,true,true,NA
+,chrome-transmission-remote-plus,2015-05-30T16:11:39.000Z,0,JavaScript,true,false,Apache License 2.0
+,chromesthesia,2016-10-02T19:11:22.000Z,16,JavaScript,true,true,MIT License
+,citris,2011-01-02T19:52:43.000Z,1,C,true,true,GNU General Public License v2.0
+,community-knowledge-base,2023-07-05T14:00:03.000Z,0,NA,true,true,NA
+,compose-hook,2015-08-11T21:27:49.000Z,1,Shell,true,true,MIT License
+,crxreload,2013-08-29T19:44:56.000Z,10,JavaScript,true,false,NA
+,Dash-User-Contributions,2021-01-09T20:50:02.000Z,0,NA,true,true,NA
+,devd,2018-03-31T22:23:52.000Z,0,Go,true,true,MIT License
+,disable_sendfile_vbox_linux,2015-12-26T15:29:32.000Z,11,Go,true,true,NA
+,docker-api,2013-11-08T09:32:04.000Z,0,Ruby,true,true,NA
+,docker-gen,2016-11-19T19:40:00.000Z,0,Go,true,true,MIT License
+,adventofcode,2020-12-01T10:14:30.000Z,1,JavaScript,true,true,NA
+,cordova-diagnostic-plugin,2016-01-26T16:39:14.000Z,0,JavaScript,true,true,NA
+,cordova-plugin-redirect,2016-01-26T16:11:35.000Z,0,Objective-C,true,true,NA
+,dojoSelenium,2015-06-09T17:11:16.000Z,0,Java,true,true,NA
+,face-recognition-demo,2018-05-16T21:14:23.000Z,79,HTML,true,true,NA
+,image-recognition,2016-11-30T03:12:14.000Z,52,Python,true,true,NA
+,memoization-demo,2019-04-28T09:00:03.000Z,6,JavaScript,true,true,MIT License
+,mulheres-palestrantes,2017-04-17T15:02:19.000Z,1,HTML,true,true,NA
+,react-native-3dcube-navigation,2018-04-26T19:19:23.000Z,1,JavaScript,true,true,MIT License
+,styleguide-website,2015-09-29T16:17:17.000Z,1,JavaScript,true,true,MIT License
+,caffe-tensorflow,2016-12-06T20:42:53.000Z,26,Python,true,true,Other
+,estool,2020-10-24T15:43:51.000Z,0,NA,true,true,Other
+,facenet,2016-02-12T22:14:40.000Z,13796,Python,false,true,MIT License
+,imagination-augmented-agents-tf,2018-12-26T22:23:20.000Z,0,Jupyter Notebook,true,true,NA
+,LadderVAE,2019-09-06T20:05:13.000Z,6,Jupyter Notebook,true,true,MIT License
+,LVAE,2019-08-09T14:24:23.000Z,0,Python,true,true,Apache License 2.0
+,MTCNN_face_detection_alignment,2016-12-19T20:23:26.000Z,18,Matlab,true,true,MIT License
+,probabilistic_dnns,2018-10-13T18:13:59.000Z,2,Jupyter Notebook,true,true,MIT License
+,rl_ssms,2019-01-20T13:17:44.000Z,17,Jupyter Notebook,true,true,MIT License
+,unsupervised,2019-09-07T12:36:23.000Z,26,Jupyter Notebook,true,true,MIT License
+,WorldModelsExperiments,2018-11-27T20:47:15.000Z,1,Jupyter Notebook,true,true,NA
+,1d34-3v4l-pl4g1n,2016-09-08T11:49:19.000Z,0,Kotlin,true,true,Apache License 2.0
+,2017-talks,2017-11-21T05:50:02.000Z,0,NA,true,true,NA
+,acache,2016-01-02T15:39:15.000Z,0,PHP,true,false,MIT License
+,adapter-client,2015-10-03T15:06:17.000Z,0,PHP,true,true,MIT License
+,address-format,2014-10-15T05:00:08.000Z,0,NA,true,false,MIT License
+,AlertifyBundle,2018-10-13T09:51:22.000Z,0,CSS,true,true,MIT License
+,algoliasearch-client-php,2014-08-22T05:19:09.000Z,0,NA,true,true,Other
+,AliceBundle,2018-06-19T09:48:21.000Z,0,PHP,true,false,MIT License
+,AltoRouter,2014-09-25T06:21:01.000Z,0,NA,true,true,NA
+,amqp-tools,2018-03-15T09:35:42.000Z,0,PHP,true,false,MIT License
+,analytics-php,2014-09-14T05:45:08.000Z,0,NA,true,true,NA
+,Any.Serializer,2014-09-15T08:14:19.000Z,0,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,apai-io,2014-07-31T11:34:47.000Z,0,NA,true,true,NA
+,ApcBundle,2014-12-22T14:47:14.000Z,0,PHP,true,false,MIT License
+,api,2015-09-14T07:46:13.000Z,0,PostScript,true,false,NA
+,append_query_string,2020-01-28T11:51:33.000Z,20,PHP,false,false,NA
+,Archive,2014-08-04T05:03:27.000Z,0,NA,true,true,NA
+,AspectMock,2017-11-18T14:01:10.000Z,0,PHP,true,true,MIT License
+,assert,2016-08-06T14:53:56.000Z,0,PHP,true,false,MIT License
+,asset-pipeline,2014-07-21T05:28:15.000Z,0,NA,true,true,MIT License
+,assetic-minifier,2014-09-20T09:28:21.000Z,0,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,AsseticBundle,2014-07-09T06:56:47.000Z,0,NA,true,true,MIT License
+,async-aws-laravel,2020-05-09T07:24:20.000Z,0,NA,true,true,NA
+,Asynchronous,2016-03-30T12:49:05.000Z,0,PHP,true,true,MIT License
+,AsynchronousBundle,2016-03-30T12:48:27.000Z,0,PHP,true,true,MIT License
+,Aura.Http,2014-10-04T06:22:58.000Z,0,NA,true,false,BSD 2-Clause "Simplified" License
+,auth0-bundle,2020-12-01T09:09:16.000Z,0,NA,true,false,MIT License
+,auth0-PHP,2017-03-30T08:03:05.000Z,1,PHP,true,false,MIT License
+,auth0.js,2019-09-10T07:59:52.000Z,0,NA,true,false,MIT License
+,AutoLogin,2017-12-14T21:12:12.000Z,1,PHP,true,false,MIT License
+,dark,2014-08-25T20:40:24.000Z,362,Dart,true,true,MIT License
+,twgl.js,2015-05-28T12:09:29.000Z,9,JavaScript,true,true,BSD 3-Clause "New" or "Revised" License
+,10-websites,2022-07-28T07:20:13.000Z,16,HTML,true,true,NA
+,3-simple-js-projects,2022-09-28T16:17:48.000Z,4,HTML,true,true,NA
+,admin-dashboard,2022-10-27T05:51:39.000Z,3,JavaScript,true,true,NA
+,airbnb-clone,2023-01-21T21:03:42.000Z,258,JavaScript,true,true,NA
+,antal-jobb,2022-10-20T20:11:51.000Z,1,JavaScript,true,true,NA
+,bg-slideshow,2013-05-08T09:09:49.000Z,1,PHP,true,true,NA
+,btc-table,2023-08-30T07:02:51.000Z,7,TypeScript,true,true,NA
+,buymeacoffee,2024-04-26T08:48:43.000Z,16,TypeScript,true,true,NA
+,calendix,2024-07-25T18:24:21.000Z,37,TypeScript,true,true,NA
+,case-atg,2023-10-19T13:02:16.000Z,0,JavaScript,true,false,NA
+,case-atg-ejected,2023-10-19T13:20:36.000Z,0,JavaScript,true,true,NA
+,cryptopay-server,2024-08-14T16:08:30.000Z,2,TypeScript,true,true,NA
+,dalle-image-generation,2024-06-25T19:34:34.000Z,1,Python,true,false,NA
+,devblog,2018-11-02T11:38:50.000Z,1,JavaScript,true,true,MIT License
+,ecommerce-admin,2023-04-11T19:19:43.000Z,364,JavaScript,true,true,NA
+,ecommerce-front,2023-04-11T19:17:20.000Z,319,JavaScript,true,true,NA
+,epic-captions,2023-10-02T14:07:46.000Z,33,JavaScript,true,true,NA
+,ff-filmer,2022-01-26T21:22:22.000Z,1,JavaScript,true,true,NA
+,food-ordering,2023-11-08T17:57:58.000Z,297,JavaScript,true,true,NA
+,instagram-clone,2024-10-27T14:32:43.000Z,11,TypeScript,true,true,NA
+,javascript-password-generator,2022-07-06T04:18:35.000Z,2,HTML,true,true,NA
+,job-board,2024-06-14T19:56:45.000Z,87,TypeScript,true,true,NA
+,js-typing-game,2022-09-30T15:51:31.000Z,11,JavaScript,true,true,NA
+,linklist,2023-12-09T14:37:20.000Z,93,JavaScript,true,true,NA
+,marketplace,2024-04-05T17:04:51.000Z,25,TypeScript,true,true,NA
+,mern-auth-example,2021-07-08T05:51:33.000Z,4,JavaScript,true,true,NA
+,mern-auth-todo,2021-11-27T13:44:47.000Z,6,JavaScript,true,true,NA
+,mern-blog,2023-01-08T13:29:48.000Z,218,JavaScript,true,true,NA
+,mern-chat,2023-02-17T18:35:47.000Z,124,JavaScript,true,true,NA
+,mern-chunked-upload,2021-08-09T16:30:42.000Z,46,JavaScript,true,true,NA
+,a-simple-triangle,2023-01-03T14:56:24.000Z,0,C++,true,true,MIT License
+,Alfred,2018-08-27T18:08:19.000Z,0,C#,true,true,NA
+,all-contributors,2020-06-04T08:01:25.000Z,0,NA,true,false,MIT License
+,amora-angular-app,2018-02-13T14:43:13.000Z,16,TypeScript,true,true,Apache License 2.0
+,apa,2017-11-12T18:46:58.000Z,0,C#,true,true,NA
+,aspnet-api-versioning,2019-09-21T16:56:08.000Z,4,C#,true,true,MIT License
+,aspnetconf,2014-05-04T18:53:01.000Z,0,JavaScript,true,true,NA
+,awesome-dotnet,2019-03-16T21:05:43.000Z,4,NA,true,false,Creative Commons Zero v1.0 Universal
+,awesome-dotnet-core,2019-03-16T20:48:02.000Z,17,C#,true,true,NA
+,azure-bootcamp,2017-04-16T19:25:45.000Z,0,C#,true,true,NA
+,betsson-meetup-ddd-tdd,2018-08-20T16:17:00.000Z,7,C#,true,true,Apache License 2.0
+,blogengineazure,2017-08-03T19:49:03.000Z,0,NA,true,true,NA
+,carthage-demo,2019-02-04T21:24:34.000Z,0,Swift,true,true,NA
+,carthage-swinject,2019-02-04T21:45:24.000Z,0,Swift,true,true,NA
+,clean-architecture-kata-dojo,2018-07-25T18:08:35.000Z,23,C#,true,true,Apache License 2.0
+,clean-architecture-manga,2017-12-27T11:58:03.000Z,4004,C#,true,true,Apache License 2.0
+,clean-architecture-video-tutorials,2018-10-12T09:48:25.000Z,51,C#,false,false,Apache License 2.0
+,clean-architecture-webapi-ef-core,2018-11-11T13:21:11.000Z,134,C#,true,true,NA
+,CleanArchitectureRxSwift,2019-03-05T07:50:38.000Z,0,Swift,true,true,MIT License
+,CleanArchitectureVSCodeSnippets,2020-06-10T06:19:48.000Z,10,TypeScript,true,true,MIT License
+,coolstore-microservices,2019-03-12T10:32:43.000Z,7,C#,true,true,MIT License
+,cqrs-clean-eventual-consistency,2018-07-17T20:31:12.000Z,9,C#,true,true,MIT License
+,crust,2023-01-03T14:56:49.000Z,1,NA,true,true,MIT License
+,ddd-tdd-rich-domain-model-dojo-kata,2018-06-16T10:15:12.000Z,146,C#,true,true,Apache License 2.0
+,dotfiles,2022-07-13T19:13:56.000Z,3,Shell,true,true,MIT License
+,dotnet-certificate-tool,2021-11-19T08:30:41.000Z,0,C#,true,true,Apache License 2.0
+,dotnet-new-caju,2017-12-11T11:56:28.000Z,249,C#,false,false,Apache License 2.0
+,dotnet-new-on-the-web,2018-04-27T08:09:03.000Z,2,C#,true,true,NA
+,dotnet-tools,2019-04-07T15:30:39.000Z,3,NA,true,false,NA
+,event-sourcing-castanha,2017-11-02T11:12:16.000Z,82,C#,true,true,NA
+,bmchelix-datasource,2021-04-09T15:05:47.000Z,0,NA,true,true,Apache License 2.0
+,dddelivery-angularjs,2014-10-02T12:55:54.000Z,38,HTML,true,true,MIT License
+,dotfiles,2015-01-05T18:12:20.000Z,3,Vim script,true,true,MIT License
+,dts-docs,2021-10-10T16:04:08.000Z,12,TypeScript,true,true,MIT License
+,edith,2020-04-01T06:52:44.000Z,27,JavaScript,true,true,MIT License
+,edith-template,2020-05-11T05:40:05.000Z,0,JavaScript,true,true,MIT License
+,encoredev-examples,2024-06-09T20:20:53.000Z,0,TypeScript,true,false,MIT License
+,exp,2015-10-12T20:26:06.000Z,0,Go,true,true,NA
+,fides,2024-09-18T16:19:19.000Z,0,Python,true,false,Apache License 2.0
+,focus,2015-07-24T11:38:35.000Z,2,Go,true,true,MIT License
+,freq,2019-10-18T21:35:37.000Z,4,Go,true,true,MIT License
+,gatsby-starter-edith-default,2020-04-12T17:01:58.000Z,0,JavaScript,true,true,MIT License
+,gatsby-starter-edith-dinosaurs,2020-04-12T17:32:47.000Z,0,JavaScript,true,true,MIT License
+,go-workshop,2017-04-06T12:44:28.000Z,7,Go,true,true,MIT License
+,go-workshop-exercises,2017-04-13T16:44:43.000Z,3,Go,true,true,NA
+,goddd,2014-10-02T12:51:19.000Z,2401,Go,true,true,MIT License
+,gointro,2015-01-29T19:02:54.000Z,1,Go,true,true,MIT License
+,gophers,2017-08-06T18:48:16.000Z,223,NA,true,true,Other
+,gouk16-slides,2016-08-18T16:06:26.000Z,14,NA,true,true,NA
+,grafana,2019-08-03T15:53:32.000Z,1,TypeScript,true,true,GNU Affero General Public License v3.0
+,grafana-awesome,2022-01-10T13:12:51.000Z,0,NA,true,true,NA
+,grafana-carpetplot,2020-05-20T07:46:37.000Z,0,NA,true,true,NA
+,grafana-datasource,2021-04-08T08:15:08.000Z,0,NA,true,true,Apache License 2.0
+,grafana-datasource-plugin-groonga,2020-12-04T16:11:48.000Z,0,NA,true,true,Apache License 2.0
+,grafana-diagram,2021-02-16T14:15:22.000Z,1,NA,true,true,Apache License 2.0
+,grafana-gantt-panel,2021-01-08T13:45:01.000Z,26,TypeScript,false,false,Apache License 2.0
+,grafana-hexmap-panel,2020-12-03T09:47:00.000Z,18,TypeScript,false,false,Apache License 2.0
+,grafana-hourly-heatmap-panel,2020-05-25T18:26:34.000Z,35,TypeScript,false,false,Apache License 2.0
+,grafana-plugin-action,2020-11-27T09:27:33.000Z,0,NA,true,true,NA
+,grafana-plugin-repository,2020-06-01T08:22:23.000Z,0,JavaScript,true,true,NA
+,.github,2019-10-23T10:50:22.000Z,1,NA,true,true,NA
+,action-auto-review-by-label,2023-03-03T17:15:47.000Z,0,TypeScript,false,false,MIT License
+,action-git-diff-suggestions,2023-01-30T17:05:59.000Z,0,TypeScript,true,true,MIT License
+,actix-web,2019-05-03T15:27:26.000Z,0,Rust,true,true,Apache License 2.0
+,advisory-db,2019-12-18T22:50:12.000Z,0,NA,true,true,Other
+,agones,2019-09-23T08:59:50.000Z,0,Go,true,false,Apache License 2.0
+,alsa-rs,2020-12-11T15:35:38.000Z,0,NA,true,true,NA
+,android-activity,2023-08-08T10:29:51.000Z,0,NA,true,true,NA
+,android-ndk-rs,2021-11-11T15:55:34.000Z,0,Rust,true,true,Apache License 2.0
+,anyhow,2019-10-07T20:05:08.000Z,0,NA,true,true,Apache License 2.0
+,APIv3-go-library,2022-03-17T07:35:34.000Z,0,Go,true,true,MIT License
+,app_dirs2,2019-09-20T20:13:54.000Z,1,Rust,true,true,MIT License
+,arboard,2023-08-24T10:30:44.000Z,0,NA,true,false,Apache License 2.0
+,ash,2021-03-26T14:33:30.000Z,0,Rust,true,true,Apache License 2.0
+,ash-molten,2019-05-02T15:19:27.000Z,96,Rust,true,true,Apache License 2.0
+,async-backtrace,2022-11-03T11:52:01.000Z,0,Rust,true,true,MIT License
+,autocxx,2023-01-31T09:03:53.000Z,0,Rust,true,true,Apache License 2.0
+,automerge-action,2020-04-30T13:38:07.000Z,0,NA,true,false,MIT License
+,aws-lambda-rust-runtime,2019-01-10T18:47:24.000Z,0,Rust,true,true,Apache License 2.0
+,axum,2021-10-29T08:20:15.000Z,0,Rust,true,false,MIT License
+,axum-flash,2023-05-17T09:07:57.000Z,0,NA,true,true,MIT License
+,axum-live-view,2022-02-10T14:34:10.000Z,3,Rust,true,false,NA
+,backtrace-rs,2021-11-10T14:08:31.000Z,0,Rust,true,false,Apache License 2.0
+,bitflags,2023-04-03T12:53:27.000Z,0,Rust,true,false,Apache License 2.0
+,BLAKE3,2020-08-03T08:35:25.000Z,1,Assembly,true,true,Other
+,blender-tools,2019-12-04T14:34:12.000Z,411,Python,false,false,Apache License 2.0
+,blender_addons,2019-01-09T09:09:29.000Z,3,Python,true,true,GNU General Public License v3.0
+,bloblock,2022-02-03T08:44:18.000Z,0,Rust,true,true,NA
+,boh,2022-12-20T09:11:28.000Z,5,Rust,true,false,Apache License 2.0
+,breakpad,2020-11-27T08:56:44.000Z,1,C++,true,false,Other
+,angular.js,2020-11-18T08:13:31.000Z,0,NA,true,true,MIT License
+,asimov-deploy,2013-07-17T08:07:33.000Z,0,JavaScript,true,true,Other
+,asimov-deploy-winagent,2013-07-19T08:03:22.000Z,1,C#,true,true,Other
+,BBoneTrader,2012-05-22T09:36:47.000Z,2,PowerShell,true,true,NA
+,boolangstudio,2008-05-21T07:59:08.000Z,3,C#,true,true,Other
+,cloudflare-grafana-app,2019-02-13T08:05:07.000Z,0,JavaScript,true,true,Apache License 2.0
+,coding-tutorial,2021-01-22T08:30:52.000Z,1,TypeScript,true,true,NA
+,dashboards,2016-06-21T14:20:58.000Z,53,NA,true,true,NA
+,devops-against-humanity,2014-06-04T12:39:39.000Z,0,NA,true,true,Other
+,dieterblog,2016-01-11T08:42:13.000Z,0,HTML,true,true,NA
+,docker-elk,2015-10-08T12:59:15.000Z,0,Shell,true,true,MIT License
+,dockerfiles,2014-03-17T18:24:46.000Z,0,NA,true,true,NA
+,docs-base,2016-10-01T15:39:59.000Z,0,CSS,true,false,Apache License 2.0
+,docs-test,2015-03-08T20:34:19.000Z,0,CSS,true,true,Apache License 2.0
+,dotnet-metrics-demo,2017-11-02T12:53:41.000Z,0,TypeScript,true,true,NA
+,drop,2016-12-16T10:04:46.000Z,1,JavaScript,true,true,MIT License
+,druidplugin,2016-07-08T13:31:35.000Z,0,HTML,true,true,NA
+,eran-dotfiles,2014-07-12T08:07:03.000Z,1,NA,true,true,NA
+,fake-data-gen,2014-04-28T15:53:54.000Z,1,JavaScript,true,true,Apache License 2.0
+,fake-simple-json-datasource,2017-09-07T11:12:59.000Z,0,JavaScript,true,true,MIT License
+,FiraCode,2017-07-31T10:54:32.000Z,0,Clojure,true,true,Other
+,fleet,2013-11-23T11:30:54.000Z,0,JavaScript,true,true,NA
+,flot,2015-05-09T17:18:11.000Z,1,JavaScript,true,true,MIT License
+,fluent-nhibernate,2009-09-18T09:23:46.000Z,1,C#,true,false,BSD 3-Clause "New" or "Revised" License
+,FuAsync,2010-10-30T14:28:09.000Z,2,C#,true,true,NA
+,fubumvc,2010-03-26T19:08:40.000Z,1,C#,true,true,Other
+,github-actions-testrepo,2020-10-19T06:42:24.000Z,0,NA,true,true,Apache License 2.0
+,grafana,2014-05-29T15:33:34.000Z,112,JavaScript,true,true,Other
+,grafana-build-container,2020-11-30T11:50:48.000Z,0,NA,true,true,Apache License 2.0
+,grafana-datasource-plugin-test,2015-11-19T17:47:35.000Z,0,JavaScript,true,true,NA
+,100-days-of-code,2017-10-05T21:00:30.000Z,0,NA,true,true,NA
+,ahsanayaz,2019-09-06T11:57:10.000Z,1,JavaScript,true,true,MIT License
+,angucomplete,2015-01-20T12:20:56.000Z,0,JavaScript,true,true,NA
+,angular,2017-10-08T07:33:50.000Z,1,TypeScript,true,false,MIT License
+,angular-attribute-directive-example,2021-11-17T14:37:42.000Z,0,HTML,true,true,NA
+,angular-calendar-year-view,2019-03-04T13:16:42.000Z,0,TypeScript,true,true,NA
+,angular-cfi,2023-08-30T19:05:30.000Z,2,TypeScript,true,true,NA
+,angular-change-detection,2020-03-25T12:03:08.000Z,1,TypeScript,true,true,NA
+,angular-cli,2021-08-12T09:31:34.000Z,0,NA,true,false,MIT License
+,angular-deploy-gh-pages-actions,2020-03-16T09:59:25.000Z,56,HTML,true,true,MIT License
+,angular-elements,2017-10-16T16:42:45.000Z,0,TypeScript,true,true,NA
+,angular-elements-demos,2017-10-17T14:34:28.000Z,14,HTML,true,true,MIT License
+,angular-fastify-starter,2017-09-09T01:17:03.000Z,8,JavaScript,true,true,MIT License
+,angular-google-maps,2018-01-19T17:15:23.000Z,0,TypeScript,true,false,MIT License
+,angular-in-90ish,2024-10-05T16:46:42.000Z,3,TypeScript,true,true,MIT License
+,Angular-In120,2019-12-25T14:08:52.000Z,0,NA,true,true,NA
+,angular-perfect-scrollbar-ext,2015-10-27T07:44:26.000Z,0,JavaScript,true,true,NA
+,angular-timeline,2015-09-18T10:23:44.000Z,0,CSS,true,true,Other
+,angular-timer,2016-11-07T20:10:13.000Z,0,HTML,true,true,MIT License
+,angular-timezone-selector-ext,2016-02-22T12:19:40.000Z,1,CSS,true,true,MIT License
+,angular-update-guide,2019-05-29T20:17:55.000Z,0,TypeScript,true,true,NA
+,angular2-img-cropper,2017-07-13T06:21:50.000Z,0,TypeScript,true,true,MIT License
+,angular2-tour-of-heroes,2016-05-04T16:24:40.000Z,0,TypeScript,true,true,Apache License 2.0
+,angular4-rockstar-chat,2017-05-19T23:43:00.000Z,2,TypeScript,true,true,MIT License
+,angular4-rockstar-chat-ngrx,2017-05-20T13:54:33.000Z,6,TypeScript,true,true,MIT License
+,angularfire,2022-10-18T18:43:27.000Z,0,NA,true,false,MIT License
+,astro-starlight-code-highlight,2023-11-10T09:09:31.000Z,0,Astro,true,true,NA
+,async-await-node-example,2018-05-12T18:16:19.000Z,3,JavaScript,true,true,MIT License
+,authors-web-components,2023-11-07T15:54:49.000Z,0,JavaScript,true,true,BSD 3-Clause "New" or "Revised" License
+,awesome,2022-08-18T21:58:12.000Z,0,NA,true,false,Creative Commons Zero v1.0 Universal
+,aircrack-ng,2021-01-05T18:16:42.000Z,8,NA,true,false,GNU General Public License v2.0
+,android_device_samsung_chagallwifi,2020-09-12T19:06:33.000Z,0,C,true,true,NA
+,android_device_samsung_exynos5420-common,2020-08-03T13:15:26.000Z,4,C,true,true,NA
+,android_device_samsung_gt510wifi,2021-06-27T13:46:08.000Z,0,Makefile,true,true,NA
+,android_device_samsung_gte-common,2021-06-27T13:45:40.000Z,0,Makefile,true,true,NA
+,android_device_samsung_gts2-common,2021-03-30T11:53:20.000Z,0,NA,true,false,NA
+,android_device_samsung_msm8916-common,2021-05-30T12:56:41.000Z,1,C++,true,true,NA
+,android_device_samsung_universal5420-common,2021-03-05T20:20:31.000Z,1,NA,true,true,NA
+,android_device_samsung_universal7420-common,2021-03-19T08:49:12.000Z,1,C++,true,true,Apache License 2.0
+,android_device_samsung_universal8895-common,2020-08-08T20:07:48.000Z,0,Makefile,true,true,NA
+,android_kernel_samsung_exynos5420,2020-08-03T13:14:42.000Z,1,C,true,true,Other
+,android_kernel_samsung_msm8916,2021-04-12T09:15:36.000Z,0,NA,true,true,Other
+,android_kernel_samsung_universal5420,2021-04-07T20:08:35.000Z,1,NA,true,true,Other
+,android_kernel_samsung_universal5433,2021-02-27T19:35:57.000Z,0,C,true,true,Other
+,android_kernel_samsung_universal8895,2019-11-08T12:50:18.000Z,3,C,true,true,Other
+,android_vendor_samsung_gt510wifi,2021-06-27T13:43:07.000Z,1,Makefile,true,true,NA
+,android_vendor_samsung_gte-common,2021-06-27T13:44:00.000Z,0,Makefile,true,true,NA
+,android_vendor_samsung_msm8916-common,2021-06-27T13:43:11.000Z,0,Makefile,true,true,NA
+,android_vendor_samsung_universal5420-common,2021-03-26T22:50:08.000Z,0,Makefile,true,true,NA
+,apt-mirror-docker,2020-04-25T17:23:22.000Z,1,Perl,true,true,GNU General Public License v2.0
+,calcurse,2020-12-03T16:44:26.000Z,0,NA,true,false,BSD 2-Clause "Simplified" License
+,chezmoi,2020-08-06T21:45:02.000Z,0,Go,true,false,MIT License
+,dopewars,2021-02-13T14:39:41.000Z,1,C,true,true,GNU General Public License v2.0
+,electrum,2020-09-09T08:58:25.000Z,1,Python,true,false,MIT License
+,exynos5410-firmware,2022-01-07T21:18:35.000Z,0,NA,true,true,GNU General Public License v2.0
+,frida,2018-06-13T20:40:07.000Z,1,Makefile,true,true,Other
+,game-packages,2021-02-28T06:51:25.000Z,2,Shell,true,false,Other
+,GarminDB,2020-06-11T08:55:50.000Z,1,Python,true,true,GNU General Public License v2.0
+,gnuplot.py-py3k,2020-12-03T15:41:59.000Z,1,Python,true,true,GNU Lesser General Public License v2.1
+,imagej2,2021-09-10T12:03:23.000Z,0,NA,true,false,Other
+,artem-pizza,2020-11-01T22:10:21.000Z,0,JavaScript,true,true,NA
+,artem-pizza-1,2021-05-01T14:16:18.000Z,0,JavaScript,true,true,MIT License
+,artem-pizza-server,2020-11-29T15:06:05.000Z,0,JavaScript,true,true,NA
+,artem-sandwich,2020-11-12T18:54:19.000Z,0,JavaScript,true,true,NA
+,atem-mini,2020-10-04T13:25:38.000Z,0,NA,true,true,NA
+,awesome-css-animations,2018-06-02T12:25:56.000Z,0,NA,true,true,NA
+,basic-react-course,2018-03-06T19:04:11.000Z,2,JavaScript,true,true,MIT License
+,binance-tracker,2018-02-10T15:08:48.000Z,10,JavaScript,true,true,NA
+,boids,2019-12-04T10:43:46.000Z,0,NA,true,true,NA
+,calendar-vanilla-js,2022-09-06T07:18:39.000Z,0,JavaScript,true,true,NA
+,challenges-app,2020-05-16T19:45:59.000Z,1,JavaScript,true,true,NA
+,cheatsheet,2018-09-25T16:11:53.000Z,0,NA,true,true,NA
+,cityville-disney,2012-02-10T08:08:32.000Z,1,ActionScript,true,true,NA
+,code-splitting,2020-06-01T07:38:48.000Z,0,JavaScript,true,true,NA
+,codeownerrs,2024-02-12T09:15:43.000Z,0,Rust,true,true,NA
+,context-demo,2019-11-05T21:38:33.000Z,1,JavaScript,true,true,NA
+,context-example,2020-06-19T12:19:11.000Z,2,JavaScript,true,true,NA
+,cra-dynamic-meta-tags,2020-06-30T12:27:10.000Z,7,JavaScript,true,true,NA
+,cra-example,2021-04-19T10:05:57.000Z,0,JavaScript,true,true,NA
+,cross-stitch,2015-01-01T12:09:03.000Z,0,JavaScript,true,true,NA
+,custom-react-generator,2019-03-25T13:47:53.000Z,0,JavaScript,true,true,MIT License
+,custom-tslint-rule,2018-11-06T23:36:20.000Z,2,TypeScript,true,true,NA
+,data-suspense,2019-11-10T11:21:52.000Z,4,JavaScript,true,true,NA
+,dema,2024-04-30T13:44:24.000Z,0,TypeScript,true,true,NA
+,dependabot-overlord,2021-11-06T11:10:48.000Z,0,JavaScript,true,true,NA
+,Digger,2011-12-22T11:29:44.000Z,1,ActionScript,true,true,NA
+,drawing-react-canvas,2020-05-22T08:46:44.000Z,54,JavaScript,true,true,NA
+,e2e-tests-stream,2021-03-02T18:45:03.000Z,0,TypeScript,true,true,NA
+,ethereum-token-tutorial,2018-02-28T06:39:19.000Z,26,JavaScript,true,true,NA
+,fikajs-website,2019-03-17T11:27:51.000Z,0,CSS,true,true,MIT License
+,AsyncDisplayKit,2015-07-09T12:53:28.000Z,2,Objective-C++,true,true,Other
+,awesome-ios,2016-02-17T07:59:18.000Z,12,Swift,true,false,MIT License
+,awesome-swift,2015-10-28T13:39:52.000Z,33,Swift,true,false,Creative Commons Zero v1.0 Universal
+,FileBrowser,2016-02-07T13:40:57.000Z,1521,Swift,true,true,MIT License
+,Format,2015-11-16T16:19:47.000Z,1178,Swift,true,true,MIT License
+,HandsOnWithSwiftData,2023-09-06T09:40:43.000Z,0,NA,true,true,MIT License
+,HubFramework,2016-12-19T21:46:46.000Z,0,Objective-C,true,false,Apache License 2.0
+,Interpolate,2016-03-24T07:28:03.000Z,1831,Swift,true,true,MIT License
+,iOS-Goodies,2016-01-21T00:03:58.000Z,5,NA,true,true,NA
+,JSQMessagesViewController,2017-07-18T14:26:06.000Z,0,Objective-C,true,false,Other
+,Keyframes,2016-12-06T15:50:03.000Z,1,Java,true,true,Other
+,libPhoneNumber-iOS,2015-08-04T16:36:13.000Z,1,Objective-C,true,true,Apache License 2.0
+,Localize-Swift,2015-08-05T10:19:09.000Z,3074,Swift,true,true,MIT License
+,marmelroy.github.io,2016-02-06T09:56:46.000Z,0,JavaScript,true,true,NA
+,minizip,2016-01-14T21:58:10.000Z,1,C,true,true,NA
+,Mobius.swift,2019-11-25T06:40:13.000Z,1,NA,true,true,Apache License 2.0
+,ObjectiveKit,2016-11-13T20:16:31.000Z,850,Swift,true,true,MIT License
+,PeekPop,2016-02-23T06:57:38.000Z,1953,Swift,true,true,MIT License
+,PhoneNumberKit,2015-09-26T14:37:36.000Z,5135,Swift,true,true,MIT License
+,SPTDataLoader,2020-07-24T13:38:45.000Z,0,NA,true,false,Apache License 2.0
+,SPTPersistentCache,2022-09-23T13:15:33.000Z,0,NA,true,false,Apache License 2.0
+,SwiftPlate,2016-11-21T07:29:11.000Z,2,Swift,true,true,MIT License
+,SwiftTweaks,2016-05-10T06:26:49.000Z,1,Swift,true,true,MIT License
+,Talks,2016-01-28T23:37:03.000Z,13,NA,true,true,NA
+,TVButton,2015-11-07T23:20:29.000Z,1157,Swift,true,true,MIT License
+,XCDLumberjackNSLogger,2016-09-28T10:19:32.000Z,0,Objective-C,true,true,MIT License
+,Zip,2015-12-13T18:34:14.000Z,2510,Swift,true,true,MIT License
+,abab,2019-08-23T16:32:07.000Z,0,JavaScript,true,false,Other
+,achievement-server,2012-09-09T15:46:07.000Z,0,CoffeeScript,true,true,NA
+,addons-linter,2018-03-08T10:43:25.000Z,0,JavaScript,true,false,Mozilla Public License 2.0
+,advent-of-code-2019,2019-12-16T19:02:15.000Z,0,Rust,true,true,NA
+,advent-of-code-2021,2021-12-07T16:29:37.000Z,0,Rust,true,true,NA
+,advent-of-code-2022,2022-12-01T08:32:07.000Z,1,Rust,true,true,NA
+,advent-of-code-2023,2023-12-01T14:03:14.000Z,0,Rust,true,true,NA
+,aedes-persistence,2020-04-26T11:12:48.000Z,0,NA,true,true,MIT License
+,aerospike-client-nodejs,2020-04-26T10:17:49.000Z,0,NA,true,true,Apache License 2.0
+,aglio,2015-06-02T14:05:59.000Z,0,HTML,true,true,NA
+,airsonos,2015-02-17T08:40:18.000Z,1,JavaScript,true,true,MIT License
+,ajv,2021-02-16T15:50:08.000Z,0,NA,true,false,MIT License
+,alexa-voice-service.js,2019-02-13T12:56:06.000Z,0,JavaScript,true,true,MIT License
+,ambient-attx4,2015-07-23T10:21:09.000Z,0,JavaScript,true,true,Other
+,amethyst_sokoban,2019-04-22T16:55:49.000Z,0,Rust,true,true,NA
+,android-hello-world,2018-06-26T14:13:59.000Z,1,Kotlin,true,true,NA
+,ansible,2015-09-30T15:03:04.000Z,0,Python,true,false,GNU General Public License v3.0
+,ansible-modules-core,2016-04-27T08:50:56.000Z,0,Python,true,false,GNU General Public License v3.0
+,ansible-modules-extras,2015-09-16T13:28:30.000Z,0,Python,true,false,GNU General Public License v3.0
+,api-blueprint,2015-05-19T13:52:29.000Z,0,NA,true,true,MIT License
+,api-blueprint-ast,2015-05-19T09:18:02.000Z,0,NA,true,true,MIT License
+,api-error-handler,2017-08-30T14:07:42.000Z,0,JavaScript,true,true,MIT License
+,app-builder,2021-04-23T08:45:12.000Z,0,NA,true,true,MIT License
+,appveyor-node,2016-05-04T21:36:13.000Z,0,NA,true,false,NA
+,arduino-zumo,2015-09-12T13:37:12.000Z,0,Arduino,true,true,NA
+,are-feross-and-mafintosh-stuck-in-an-elevator,2015-08-05T15:57:24.000Z,0,JavaScript,true,true,MIT License
+,array-buffer-from-string,2016-08-15T21:03:09.000Z,0,JavaScript,true,true,MIT License
+,array-buffer-to-hex,2017-10-19T10:58:16.000Z,6,JavaScript,true,true,MIT License
+,array-contains,2015-06-05T09:33:08.000Z,0,JavaScript,true,true,MIT License
+,artify-macos,2018-06-26T21:35:03.000Z,0,Swift,true,true,GNU Lesser General Public License v3.0
+,after-dark,2022-08-18T13:36:54.000Z,1,SCSS,true,true,MIT License
+,angular-camera,2014-06-04T10:21:04.000Z,0,CoffeeScript,true,true,GNU General Public License v2.0
+,angular-clock,2014-08-15T09:57:45.000Z,3,JavaScript,true,true,NA
+,angular-dashboard,2014-08-23T16:11:44.000Z,0,JavaScript,true,true,MIT License
+,angular-input-hints,2014-05-08T20:08:51.000Z,7,JavaScript,true,true,MIT License
+,angular-route-wizard,2014-08-06T19:55:49.000Z,1,JavaScript,true,true,NA
+,angular-slugify,2014-06-10T17:53:25.000Z,5,JavaScript,true,true,MIT License
+,apollo-link-rest,2018-10-26T08:51:29.000Z,0,TypeScript,true,true,MIT License
+,astrocommunity,2023-05-31T09:27:09.000Z,1,NA,true,false,GNU General Public License v3.0
+,awesome-neovim,2021-08-21T07:52:32.000Z,5,NA,true,true,MIT License
+,awesome-osx,2015-09-11T12:29:59.000Z,0,NA,true,true,NA
+,azure-pipelines-language-server,2023-03-29T20:52:38.000Z,1,NA,true,true,NA
+,babel-errors,2015-11-11T13:16:51.000Z,0,NA,true,true,NA
+,backstage,2020-10-09T19:20:41.000Z,0,NA,true,false,Apache License 2.0
+,basic-http-healthcheck,2018-07-01T18:48:33.000Z,0,JavaScript,true,true,NA
+,bcrypt-benchmark,2017-03-22T16:11:41.000Z,0,Java,true,true,Other
+,bostadskon,2017-04-16T12:49:25.000Z,0,Smarty,true,true,MIT License
+,botman,2022-07-11T01:04:50.000Z,5,Rust,true,true,Other
+,bro,2015-03-26T16:25:16.000Z,3,Ruby,true,true,Other
+,browser-laptop,2016-04-22T22:16:11.000Z,0,JavaScript,true,true,Mozilla Public License 2.0
+,cbfmt,2022-08-22T01:38:35.000Z,1,NA,true,true,MIT License
+,chimp,2017-06-20T12:33:57.000Z,0,JavaScript,true,true,MIT License
+,cmp-git,2022-05-28T20:58:58.000Z,1,NA,true,true,MIT License
+,coc-deno,2021-12-25T18:20:56.000Z,0,NA,true,true,MIT License
+,compat-table,2015-08-27T20:11:16.000Z,0,HTML,true,true,Other
+,coq_nvim,2022-04-29T00:50:16.000Z,0,NA,true,true,GNU General Public License v3.0
+,deepmerge,2017-01-27T15:10:40.000Z,0,JavaScript,true,true,MIT License
+,DefinitelyTyped,2019-03-16T11:21:59.000Z,0,TypeScript,true,true,Other
+,deno_docs,2021-11-11T13:35:23.000Z,0,NA,true,true,MIT License
+,diff-so-fancy,2016-05-17T00:55:13.000Z,0,Shell,true,true,NA
+,ansible,2018-10-15T03:19:24.000Z,0,Python,true,false,GNU General Public License v3.0
+,ansible-role-provision-vm,2019-07-02T06:21:58.000Z,0,Shell,true,true,MIT License
+,ansible-wasm-buildbot,2023-01-28T11:41:24.000Z,0,NA,true,false,BSD 3-Clause "New" or "Revised" License
+,asaman,2021-10-03T14:04:35.000Z,18,Python,true,true,MIT License
+,audiocraft,2023-08-04T05:47:34.000Z,0,NA,true,false,MIT License
+,autocloud,2015-07-14T14:31:38.000Z,10,Python,true,true,GNU Affero General Public License v3.0
+,autotunir,2015-04-17T16:51:08.000Z,0,NA,true,true,NA
+,bedevere,2017-06-23T03:05:32.000Z,0,Python,true,false,Apache License 2.0
+,bedrock,2012-11-06T08:36:35.000Z,0,Python,true,false,Other
+,bft,2021-08-13T05:07:06.000Z,1,Rust,true,true,NA
+,bodhi,2017-05-15T17:15:56.000Z,0,Python,true,true,GNU General Public License v2.0
+,bomcapture,2019-08-18T12:41:41.000Z,0,Go,true,true,NA
+,bomkesh,2019-02-09T02:39:03.000Z,1,Python,true,true,NA
+,bomkesh-backend,2020-08-23T13:46:48.000Z,0,Python,true,true,NA
+,brume,2015-08-04T06:14:29.000Z,0,NA,true,true,NA
+,bugspad,2013-08-18T18:11:44.000Z,4,Go,true,true,NA
+,build,2016-09-12T16:51:45.000Z,0,Go,true,true,Apache License 2.0
+,buildmaster-config,2023-11-16T19:35:09.000Z,0,NA,true,true,NA
+,cdns,2022-10-19T09:13:19.000Z,1,Go,true,true,GNU General Public License v3.0
+,cgcloud,2016-02-04T11:24:53.000Z,0,Python,true,true,Other
+,chalchitra,2020-04-07T14:02:57.000Z,2,Python,true,true,GNU General Public License v3.0
+,cl-git,2012-04-11T07:30:39.000Z,1,Common Lisp,true,false,NA
+,community,2020-04-14T15:06:59.000Z,0,NA,true,true,NA
+,computepipfilehash,2018-09-25T19:10:01.000Z,0,Python,true,true,GNU General Public License v3.0
+,cpython,2017-05-22T23:48:52.000Z,8,Python,true,false,Other
+,cssmin,2019-02-27T11:11:30.000Z,0,Python,true,false,Other
+,curl,2022-04-21T08:54:21.000Z,0,NA,true,true,Other
+,darkclient,2011-11-11T10:36:51.000Z,1,Python,true,true,NA
+,darkserver,2011-11-10T02:55:21.000Z,14,Python,true,true,NA
+,django-ca,2024-02-19T11:29:05.000Z,0,Python,true,false,GNU General Public License v3.0
+,ai-city-simulation,2018-03-04T07:53:43.000Z,7,JavaScript,true,true,MIT License
+,awesome-javascript,2019-02-20T18:52:28.000Z,6,NA,true,false,NA
+,Bogdan-Lyashenko,2021-04-27T17:29:13.000Z,3,NA,true,true,NA
+,codecrumbs,2018-05-01T15:00:36.000Z,2711,JavaScript,true,true,BSD 3-Clause "New" or "Revised" License
+,codecrumbs-io-content,2021-03-14T17:22:52.000Z,3,NA,true,true,NA
+,codetour,2020-05-24T09:09:33.000Z,0,NA,true,true,MIT License
+,cphalcon,2019-02-20T19:28:36.000Z,0,PHP,true,true,BSD 3-Clause "New" or "Revised" License
+,Data-layer-for-UI,2017-05-07T14:52:57.000Z,11,NA,true,true,NA
+,excalidraw,2020-05-24T09:08:52.000Z,0,NA,true,false,MIT License
+,fullstack-ai-nextjs,2024-04-07T13:04:15.000Z,0,NA,true,true,NA
+,graphql-api,2019-02-20T19:05:44.000Z,0,TypeScript,true,true,NA
+,js-algorithms,2016-10-25T11:00:51.000Z,80,JavaScript,true,true,NA
+,js-code-to-svg-flowchart,2017-07-30T20:34:13.000Z,7055,JavaScript,true,true,MIT License
+,lemon-squeezy-helpers,2024-01-06T14:03:16.000Z,0,NA,true,false,NA
+,overreacted.io,2019-11-01T15:29:53.000Z,1,NA,true,true,Other
+,react,2017-02-16T17:18:52.000Z,0,JavaScript,true,true,Other
+,react-redux-game-starter,2017-02-22T09:19:02.000Z,11,JavaScript,true,true,NA
+,reactjsconsulting,2023-06-23T08:30:31.000Z,0,NA,true,true,NA
+,Real-iterator-usage,2016-09-25T10:09:51.000Z,2,NA,true,true,MIT License
+,redux,2017-01-02T15:32:51.000Z,0,JavaScript,true,false,MIT License
+,remix,2022-01-06T13:43:23.000Z,0,TypeScript,true,false,MIT License
+,remote-frames,2019-09-09T09:09:16.000Z,0,NA,true,true,Apache License 2.0
+,shapes-builder,2016-12-12T19:48:30.000Z,2,JavaScript,true,true,NA
+,todomvc-react-hooks,2021-04-21T09:19:44.000Z,0,NA,true,true,MIT License
+,ui-dev-tool,2016-10-17T06:59:15.000Z,7,JavaScript,true,true,MIT License
+,Under-the-hood-ReactJS,2017-06-22T20:46:16.000Z,6516,JavaScript,true,true,MIT License
+,vs-code-codecrumbs,2019-02-02T16:42:00.000Z,14,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,vscode-bookmarks,2020-12-05T11:19:37.000Z,1,NA,true,false,MIT License
+,append-only-vec,2023-01-05T17:59:54.000Z,1,NA,true,true,NA
+,Aurora,2022-12-02T13:55:24.000Z,0,NA,true,true,Apache License 2.0
+,BlueNoise,2023-04-29T19:54:24.000Z,0,NA,true,true,MIT License
+,boxen,2019-09-02T17:11:24.000Z,0,D,true,true,NA
+,bvh,2019-02-09T16:10:07.000Z,0,Rust,true,false,MIT License
+,cornell-mcray,2021-12-20T03:02:45.000Z,707,Rust,true,true,Other
+,descent,2022-01-27T22:12:03.000Z,0,NA,true,false,MIT License
+,DirectXShaderCompiler,2023-07-04T16:29:29.000Z,1,C++,true,true,Other
+,dolly,2021-07-16T12:38:16.000Z,436,Rust,true,true,Apache License 2.0
+,doppler,2022-04-11T19:11:33.000Z,1,Rust,true,true,NA
+,dxvk-remix,2023-04-12T19:11:20.000Z,2,C++,true,true,zlib License
+,egui,2023-07-20T23:42:39.000Z,0,NA,true,true,Apache License 2.0
+,egui-glutin-gl,2022-09-23T17:42:32.000Z,4,Rust,true,true,Apache License 2.0
+,embree4-sys,2023-11-10T10:51:59.000Z,0,NA,true,true,MIT License
+,Esoterica,2023-12-04T18:52:05.000Z,0,NA,true,true,MIT License
+,fastnoise,2024-05-03T20:33:07.000Z,1,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,fructure,2019-10-17T13:33:02.000Z,0,NA,true,true,NA
+,fsr-rs,2024-01-03T15:54:43.000Z,0,NA,true,true,Apache License 2.0
+,glsl-atmosphere,2019-11-03T22:15:41.000Z,0,NA,true,true,The Unlicense
+,glslppm,2019-02-09T17:20:13.000Z,0,C,true,true,NA
+,gltf,2021-08-18T16:08:49.000Z,1,Rust,true,true,Apache License 2.0
+,gpu-allocator,2023-07-20T14:40:39.000Z,0,Rust,true,true,Apache License 2.0
+,gpu-profiler,2022-07-03T21:47:12.000Z,26,Rust,true,true,Apache License 2.0
+,grui,2019-09-03T01:09:51.000Z,4,Rust,true,true,NA
+,h3keys3,2018-01-07T00:49:01.000Z,1,Rust,true,true,The Unlicense
+,h3r2tic.github.io,2017-07-03T21:38:52.000Z,0,HTML,false,false,NA
+,hassle-rs,2019-11-20T01:34:39.000Z,0,NA,true,true,MIT License
+,hindranch,2023-12-14T22:55:45.000Z,0,NA,true,true,Apache License 2.0
+,hotwatch,2022-09-09T09:11:46.000Z,0,Rust,true,true,Apache License 2.0
+,input-replay,2022-09-12T21:25:11.000Z,18,Rust,true,true,Apache License 2.0
+,Book_NeuroevolutionThroughErlang,2013-01-28T15:30:49.000Z,0,Erlang,true,true,NA
+,chat_demo,2011-03-18T00:17:40.000Z,43,Erlang,true,true,BSD 2-Clause "Simplified" License
+,cx_runtime,2014-03-20T14:56:28.000Z,0,Erlang,true,true,Other
+,DXNN2,2013-05-14T23:56:46.000Z,0,Erlang,true,true,Apache License 2.0
+,erjang,2010-12-05T21:41:52.000Z,3,Java,true,true,Apache License 2.0
+,ErlangPhone,2016-06-06T09:29:14.000Z,1,Erlang,true,true,NA
+,erlog,2008-08-22T01:51:55.000Z,371,Erlang,true,true,Apache License 2.0
+,Erlvolt,2013-05-10T15:18:55.000Z,0,Erlang,true,true,NA
+,flavors,2015-07-22T23:56:29.000Z,40,Erlang,true,true,Apache License 2.0
+,foobar,2024-08-28T11:19:06.000Z,1,NA,true,true,Apache License 2.0
+,leex,2008-08-25T19:14:16.000Z,115,Erlang,true,true,BSD 2-Clause "Simplified" License
+,luerl,2012-02-11T18:45:15.000Z,1044,Erlang,true,true,Apache License 2.0
+,plan,2015-12-27T11:20:34.000Z,0,CSS,true,true,NA
+,rb,2009-05-07T22:49:04.000Z,33,Erlang,true,true,BSD 2-Clause "Simplified" License
+,ship-demo,2024-06-14T09:43:51.000Z,1,Erlang,true,true,Apache License 2.0
+,spell1,2015-05-12T12:53:35.000Z,42,Erlang,true,true,Apache License 2.0
+,structs,2023-06-29T22:54:00.000Z,9,Erlang,true,true,Apache License 2.0
+,tcp_io_server,2012-01-25T12:57:51.000Z,11,Erlang,true,true,NA
+,aHash,2023-05-08T14:15:32.000Z,1,NA,true,true,Apache License 2.0
+,alkahest,2023-09-12T17:09:06.000Z,0,NA,true,true,Other
+,allocator-api2,2023-09-04T12:41:53.000Z,0,NA,true,true,Apache License 2.0
+,appleseed,2019-03-21T03:32:01.000Z,1,C++,true,true,MIT License
+,appleseed-deps,2019-03-27T06:44:56.000Z,0,C++,true,false,NA
+,asu-cse470,2018-02-24T03:26:44.000Z,0,JavaScript,true,true,NA
+,awesome-embedded-rust,2023-11-16T13:21:54.000Z,1,NA,true,false,Other
+,bevy,2020-09-25T20:55:16.000Z,1,Rust,true,false,MIT License
+,bgcarousel,2017-07-25T22:53:10.000Z,0,Go,true,true,NA
+,brainfood,2015-07-24T18:37:56.000Z,0,JavaScript,true,true,NA
+,cargo-machete,2023-09-21T11:39:53.000Z,0,NA,true,false,MIT License
+,CCBullet3D,2011-07-01T02:11:50.000Z,16,C++,true,true,NA
+,CCBullet3D-Sample,2011-07-02T22:59:24.000Z,5,C++,true,true,NA
+,CheckpointTitler,2022-11-28T18:29:08.000Z,1,AngelScript,true,true,MIT License
+,cint,2021-05-15T01:53:38.000Z,19,Rust,true,true,Apache License 2.0
+,colorgrad-rs,2021-05-19T03:16:01.000Z,0,NA,true,true,Apache License 2.0
+,colstodian,2021-05-09T10:20:17.000Z,34,Rust,true,true,NA
+,csscolorparser-rs,2021-05-19T02:47:51.000Z,0,NA,true,true,Apache License 2.0
+,DemonHacks2017,2017-10-28T01:42:22.000Z,0,JavaScript,true,true,MIT License
+,display-interface,2023-10-19T14:06:50.000Z,0,Rust,true,true,Apache License 2.0
+,dotfiles,2017-07-25T03:07:49.000Z,4,Lua,true,true,NA
+,dsa,2018-10-03T03:43:29.000Z,0,C,true,true,NA
+,egui,2021-05-13T01:06:11.000Z,0,NA,true,true,Apache License 2.0
+,egui-color-picker-oklab,2021-05-13T13:13:46.000Z,3,Rust,true,true,NA
+,embedded-hal,2023-10-19T13:11:27.000Z,0,NA,true,false,Apache License 2.0
+,embedded-sdmmc-rs,2023-10-18T22:10:34.000Z,0,NA,true,true,Apache License 2.0
+,fu5ha,2020-07-30T01:12:43.000Z,2,NA,true,true,NA
+,Game_Rig_Tools,2024-10-29T19:30:36.000Z,0,NA,true,true,GNU General Public License v3.0
+,gfx-hal-tutorial,2018-08-06T07:02:14.000Z,15,Rust,true,true,NA
+,ggez_snake,2018-03-17T10:12:20.000Z,25,Rust,true,true,NA
+,.github,2023-12-26T20:03:39.000Z,1,NA,true,true,NA
+,2015-unsta-class-notes,2015-03-30T22:20:34.000Z,0,NA,true,true,NA
+,2112,2016-01-14T18:57:06.000Z,1,NA,true,true,NA
+,7XX-rfc,2018-07-24T11:50:13.000Z,0,Makefile,true,false,Other
+,aberth,2016-12-08T06:17:42.000Z,0,Erlang,true,true,NA
+,abstractmachines.dev,2020-07-02T21:43:33.000Z,0,HTML,false,false,NA
+,alchemy,2018-07-27T10:57:48.000Z,0,JavaScript,true,true,NA
+,alda,2016-06-05T14:05:45.000Z,0,Clojure,true,true,Other
+,alonzo.js,2017-02-03T10:37:35.000Z,1,JavaScript,true,false,Other
+,anchorman,2016-05-20T06:41:09.000Z,2,Erlang,true,true,Other
+,anchorman.js,2013-06-30T15:35:21.000Z,1,JavaScript,true,true,NA
+,angular-flash,2013-12-22T23:45:20.000Z,0,JavaScript,true,true,MIT License
+,aports,2016-12-03T08:29:46.000Z,0,Shell,true,false,NA
+,asdf,2016-11-12T00:04:17.000Z,4,Idris,true,false,MIT License
+,asdfasdf,2024-09-23T14:21:34.000Z,0,Reason,true,true,MIT License
+,atd,2018-10-09T11:31:56.000Z,0,OCaml,true,true,Other
+,atom,2020-10-11T11:34:32.000Z,0,NA,true,false,MIT License
+,awesome-alt-langs,2021-03-11T15:12:24.000Z,95,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,awesome-reason,2019-02-04T19:13:08.000Z,0,NA,true,true,NA
+,babel,2016-01-14T22:29:27.000Z,0,JavaScript,true,false,MIT License
+,babel-plugin-ramda,2018-05-04T16:58:51.000Z,0,JavaScript,true,true,NA
+,babel-plugin-typecheck,2016-10-30T22:46:06.000Z,0,JavaScript,true,true,MIT License
+,babel-transforms,2017-01-28T12:39:08.000Z,0,JavaScript,true,true,NA
+,Bakery,2012-02-23T18:32:11.000Z,11,JavaScript,true,true,MIT License
+,base16-builder,2016-02-17T07:45:48.000Z,0,HTML,true,false,Other
+,baskell,2016-06-16T15:33:23.000Z,0,Haskell,true,true,BSD 3-Clause "New" or "Revised" License
+,bazaar,2024-01-07T04:50:06.000Z,8,OCaml,true,true,NA
+,bazel-tools,2018-01-16T08:12:13.000Z,0,Java,true,true,Apache License 2.0
+,beam-dashboards,2019-07-21T16:53:04.000Z,0,NA,true,true,Apache License 2.0
+,bench,2016-07-06T07:34:25.000Z,0,NA,true,true,MIT License
+,aria,2022-10-06T15:11:18.000Z,0,NA,true,true,NA
+,atom-react-snippets,2017-04-08T18:59:44.000Z,0,JavaScript,true,true,NA
+,auth0-extension-realtime-logs,2018-06-25T15:59:53.000Z,0,JavaScript,true,true,MIT License
+,auth0-jquery-samples,2017-07-27T19:27:45.000Z,0,JavaScript,true,true,MIT License
+,auth0-react,2019-04-12T18:11:59.000Z,0,JavaScript,true,true,NA
+,auth0-react-native-sample,2019-04-17T12:05:00.000Z,0,Objective-C,true,false,MIT License
+,auth0-react-samples,2019-04-09T20:04:20.000Z,1,JavaScript,true,true,MIT License
+,auth0-spa-js,2019-04-11T16:16:46.000Z,0,TypeScript,true,false,MIT License
+,auth0-vanilla-js-blueprint,2019-04-11T16:19:06.000Z,0,HTML,true,false,MIT License
+,auth0-vue-samples,2019-04-09T20:03:07.000Z,0,Vue,true,true,MIT License
+,awesome-estreamers-coders,2020-09-17T09:11:34.000Z,23,JavaScript,true,true,NA
+,bitbucket-pull-request-webtask,2016-07-11T03:41:18.000Z,1,JavaScript,true,true,NA
+,bun,2022-07-10T16:59:35.000Z,0,NA,true,true,NA
+,cero,2020-08-16T12:21:30.000Z,64,NA,true,true,NA
+,cero-api,2021-02-20T11:33:34.000Z,4,TypeScript,true,true,NA
+,cero-components,2020-09-23T19:40:33.000Z,53,JavaScript,true,true,NA
+,cero-web,2021-02-20T11:33:29.000Z,18,JavaScript,true,true,NA
+,codigo-facilito-curso-profesional-node,2023-04-02T18:00:00.000Z,23,JavaScript,true,false,NA
+,colombiadev-salary-visualization,2023-02-27T14:27:27.000Z,0,NA,true,true,MIT License
+,content,2020-11-02T19:08:25.000Z,0,NA,true,false,Other
+,contentr,2023-08-12T14:06:13.000Z,2,JavaScript,true,true,NA
+,cosmos,2018-02-19T14:38:42.000Z,0,JavaScript,true,true,NA
+,curriculum-vitae,2021-02-27T22:26:28.000Z,7,JavaScript,true,true,NA
+,desafio-twilio-whatsapp,2022-12-05T23:20:48.000Z,0,JavaScript,true,true,NA
+,devs-list,2022-08-09T08:24:59.000Z,0,NA,true,true,NA
+,dlnd-image-classification,2017-03-08T06:43:51.000Z,1,HTML,true,true,NA
+,dlnd-your-first-neural-network,2017-02-09T07:30:58.000Z,0,Jupyter Notebook,true,true,NA
+,docmeti-static-blog,2019-09-15T08:06:44.000Z,1,HTML,true,true,NA
+,docs,2019-04-18T14:23:27.000Z,0,JavaScript,true,false,MIT License
+,dotfiles,2016-10-14T00:50:07.000Z,13,Shell,true,true,NA
+,ammo.js-demos,2011-10-03T11:07:29.000Z,115,JavaScript,true,true,Other
+,bomb-sorting-game,2014-04-11T13:15:16.000Z,3,JavaScript,true,true,NA
+,box2d.js,2014-06-02T09:49:55.000Z,2,C,true,true,NA
+,box2d.ts,2016-07-12T12:20:19.000Z,1,JavaScript,true,true,NA
+,cannon.js,2012-01-04T06:46:35.000Z,4702,JavaScript,true,true,MIT License
+,cannonjs.org,2013-03-20T17:10:36.000Z,0,JavaScript,true,true,NA
+,cartridge.js,2016-10-20T19:34:49.000Z,39,JavaScript,true,true,NA
+,cdnjs,2014-06-22T19:24:21.000Z,0,JavaScript,true,true,MIT License
+,codegif,2017-05-27T13:04:06.000Z,38,JavaScript,true,true,NA
+,CreateForge,2014-12-19T14:26:26.000Z,5,HTML,true,true,NA
+,CRYENGINE,2018-06-08T09:16:41.000Z,1,C++,true,false,Other
+,dansa,2014-10-11T10:18:43.000Z,5,JavaScript,true,true,NA
+,doc.js,2012-04-03T07:59:42.000Z,11,JavaScript,true,true,NA
+,engine,2015-11-27T07:16:04.000Z,7,JavaScript,true,false,MIT License
+,fb-node-issues,2013-04-03T06:53:22.000Z,1,NA,true,false,NA
+,floatcompress.js,2012-06-25T11:26:50.000Z,16,JavaScript,true,true,NA
+,fmusdk,2012-11-26T15:21:52.000Z,2,C,true,false,NA
+,fuffrboxing,2015-08-30T08:55:37.000Z,2,JavaScript,true,true,NA
+,goo-bunnymark,2014-08-15T13:29:44.000Z,3,HTML,true,true,NA
+,goo-cannon-softbody,2016-07-18T08:42:21.000Z,16,JavaScript,true,true,NA
+,goo-p2-platformer,2014-05-23T13:29:46.000Z,4,JavaScript,true,true,NA
+,goomap,2016-07-11T08:56:40.000Z,0,JavaScript,true,true,NA
+,goon-yoga,2014-04-25T09:58:58.000Z,1,JavaScript,true,true,NA
+,gpu-physics.js,2017-04-15T13:15:31.000Z,289,JavaScript,true,true,NA
+,gpu-springs,2014-08-29T13:17:15.000Z,9,JavaScript,true,true,NA
+,hyper-cube,2016-10-05T09:15:38.000Z,4,JavaScript,true,true,NA
+,imgui-wasm,2018-12-20T14:11:30.000Z,43,C++,true,true,NA
+,jox,2013-05-14T15:13:08.000Z,5,JavaScript,true,true,NA
+,js-bson,2012-04-20T09:09:26.000Z,11,JavaScript,true,true,NA
+,LLJS,2013-12-06T15:10:15.000Z,1,JavaScript,true,true,Other
+,10XQC,2017-03-11T07:21:41.000Z,0,HTML,true,true,NA
+,actions-curl,2021-07-06T07:51:59.000Z,0,NA,true,true,MIT License
+,AutoFTP,2019-10-30T12:06:36.000Z,0,Perl,true,true,GNU General Public License v3.0
+,awesome-10x-genomics,2017-06-20T08:15:14.000Z,0,NA,true,true,Other
+,AWS-iGenomes,2017-05-11T08:48:06.000Z,107,HTML,false,false,MIT License
+,BamQC,2015-11-17T15:09:44.000Z,0,Java,true,true,GNU General Public License v3.0
+,BeerClub,2019-05-19T18:48:37.000Z,0,Python,true,true,NA
+,bioconda-recipes,2016-02-26T09:01:34.000Z,1,Shell,false,false,MIT License
+,bionitio-python,2020-07-20T12:31:21.000Z,0,Python,true,true,MIT License
+,Bismark,2016-01-14T14:05:28.000Z,0,HTML,true,false,GNU General Public License v3.0
+,bootstrap-feature-widgets,2014-03-24T22:28:16.000Z,1,PHP,true,true,NA
+,build-push-action,2021-06-29T18:25:28.000Z,0,NA,true,false,Apache License 2.0
+,channels-demo,2024-04-11T14:29:12.000Z,0,Groovy,true,true,Apache License 2.0
+,clusterflow,2014-05-16T09:33:05.000Z,97,Perl,true,false,GNU General Public License v3.0
+,clusterflow-uppmax,2015-04-14T10:04:24.000Z,0,Perl,true,true,GNU General Public License v3.0
+,clusterflow-website,2015-05-26T11:20:08.000Z,0,PHP,true,true,NA
+,colormath-feedstock,2018-01-11T14:57:31.000Z,0,Shell,true,false,BSD 3-Clause "New" or "Revised" License
+,covid-portal,2020-05-12T14:06:55.000Z,0,HTML,false,false,MIT License
+,CPT-Bootstrap-Carousel,2013-04-21T15:09:12.000Z,51,PHP,true,false,GNU General Public License v2.0
+,dds_cli,2021-05-04T15:00:25.000Z,0,Python,true,true,MIT License
+,dds_web,2021-05-20T07:31:17.000Z,0,Python,false,false,Other
+,discourse-category-headers,2023-06-14T09:13:58.000Z,0,HTML,true,true,MIT License
+,discourse-minimal-category-boxes,2023-06-14T08:57:37.000Z,0,Handlebars,true,false,NA
+,discourse-theme-seqera-air,2023-06-13T20:41:16.000Z,0,SCSS,true,false,GNU General Public License v2.0
+,docs,2024-09-13T17:51:17.000Z,0,NA,true,false,Creative Commons Attribution 4.0 International
+,dotfiles,2020-02-21T16:01:38.000Z,1,Shell,true,true,NA
+,EELSdb,2016-11-05T08:54:59.000Z,0,PHP,true,true,MIT License
+,ewels,2023-10-26T08:18:13.000Z,0,NA,true,true,MIT License
+,fastqe,2020-07-21T09:18:46.000Z,0,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,film-finder-db,2014-10-25T20:32:00.000Z,0,PHP,true,true,NA
+,ambient-authority,2023-05-22T19:38:28.000Z,0,NA,true,false,Other
+,assimp-rs,2018-05-31T16:05:08.000Z,0,Rust,true,true,Other
+,cargo,2018-06-19T20:00:14.000Z,0,Rust,true,true,Apache License 2.0
+,cargo-vendor,2018-06-20T20:08:52.000Z,0,Rust,true,true,Apache License 2.0
+,catppuccin,2022-08-29T15:51:36.000Z,1,NA,true,true,MIT License
+,console,2018-01-07T07:55:17.000Z,0,Rust,true,true,MIT License
+,crev-proofs,2018-12-23T15:33:04.000Z,0,NA,true,true,NA
+,docker-dxc,2018-12-23T23:42:55.000Z,0,Makefile,true,true,MIT License
+,docker-shader,2019-11-08T00:02:48.000Z,0,NA,true,true,MIT License
+,dotfiles,2023-04-25T21:57:26.000Z,0,Nushell,true,true,NA
+,glam-rs,2020-05-16T11:45:03.000Z,0,NA,true,true,Apache License 2.0
+,google-poly1,2018-12-13T21:55:14.000Z,1,Rust,true,true,NA
+,grpc-rust,2018-05-12T12:22:52.000Z,0,Rust,true,false,MIT License
+,indexmap,2023-09-01T10:11:32.000Z,0,NA,true,false,Other
+,meowhash-rs,2018-10-22T09:53:11.000Z,0,Rust,true,true,Mozilla Public License 2.0
+,metal-rs,2017-12-23T14:12:20.000Z,0,Rust,true,true,Apache License 2.0
+,metrics,2023-03-11T09:37:06.000Z,0,NA,true,true,MIT License
+,obsidian-book-search-plugin,2024-02-24T16:46:12.000Z,0,NA,true,true,MIT License
+,repi,2020-08-22T12:35:27.000Z,0,NA,true,true,MIT License
+,rust-build-helper,2019-05-24T21:53:05.000Z,0,Rust,true,true,Other
+,rust-data-bench,2020-01-29T16:05:11.000Z,6,Rust,true,true,Mozilla Public License 2.0
+,rust-mingw-docker,2018-08-07T23:43:23.000Z,0,Dockerfile,true,true,NA
+,rust-multibase,2020-05-24T14:08:43.000Z,0,NA,true,true,NA
+,rustc-dev-guide,2021-08-20T21:44:08.000Z,0,NA,true,false,Apache License 2.0
+,shaderc-rs,2018-01-03T13:06:17.000Z,0,Rust,true,false,Apache License 2.0
+,shadertoy-browser,2017-12-27T08:31:20.000Z,205,Rust,true,false,Apache License 2.0
+,smallpt-rs,2018-06-17T10:30:00.000Z,0,Rust,true,true,MIT License
+,smush-rs,2020-05-16T15:38:45.000Z,0,NA,true,true,Apache License 2.0
+,sturdy,2022-04-08T16:04:19.000Z,0,NA,true,false,Other
+,test-action,2019-12-10T20:31:16.000Z,0,Dockerfile,true,true,NA
+,andmyaxe,2011-12-22T16:44:58.000Z,3,Ruby,true,true,NA
+,article_search,2013-08-01T03:37:44.000Z,0,Go,true,true,NA
+,assets-webpack-plugin,2015-01-23T17:26:31.000Z,0,JavaScript,true,true,NA
+,basic-auth,2018-05-31T10:10:07.000Z,0,JavaScript,true,false,MIT License
+,battlefield3.dashboard,2012-01-11T16:00:50.000Z,4,Ruby,true,true,NA
+,better_helpers,2014-03-07T01:10:34.000Z,17,Ruby,true,true,MIT License
+,brcobranca,2010-12-20T10:45:47.000Z,8,Ruby,true,true,MIT License
+,burrow-stats,2016-06-01T08:03:35.000Z,50,JavaScript,true,true,NA
+,caterpillar,2010-05-03T14:29:33.000Z,6,Ruby,true,true,Other
+,component_swarm,2013-10-21T20:12:44.000Z,2,Ruby,true,true,MIT License
+,component_swarm_test,2013-10-21T20:15:10.000Z,1,Ruby,true,true,NA
+,css-color-highlight,2014-03-09T23:12:56.000Z,6,CoffeeScript,true,true,MIT License
+,dashwall,2017-05-15T16:54:15.000Z,1,JavaScript,true,true,MIT License
+,datasync,2010-02-12T23:16:02.000Z,2,Java,true,true,NA
+,data_structures_js,2012-10-30T23:50:47.000Z,0,JavaScript,true,true,NA
+,dmdspec,2012-01-26T02:24:45.000Z,3,D,true,true,NA
+,dojo-brasilia-espiral,2009-05-30T18:46:57.000Z,1,Java,true,true,NA
+,dojo-brasilia-numerotoliteral,2008-11-30T14:05:23.000Z,3,Java,true,true,NA
+,dojo-brasilia-piratas,2009-10-10T16:29:32.000Z,1,Java,true,true,NA
+,dojo-brasilia-placas,2008-12-14T01:15:36.000Z,3,Java,true,true,NA
+,dojo-brasilia-robosexploradores,2009-01-18T22:55:29.000Z,6,Java,true,true,NA
+,dojo-brasilia-sudoku,2008-11-07T17:37:05.000Z,7,Java,true,true,NA
+,dojoCounter,2009-06-20T13:54:08.000Z,1,Java,true,true,NA
+,dorothy,2011-03-24T22:09:11.000Z,2,JavaScript,true,true,NA
+,dot-atom,2014-03-18T00:40:40.000Z,1,JavaScript,true,true,NA
+,dot-vim,2012-09-15T21:23:54.000Z,1,Shell,true,true,NA
+,downloader,2013-08-04T01:46:50.000Z,2,Go,true,true,NA
+,ember-webpack-example,2016-01-19T23:05:35.000Z,27,JavaScript,true,true,NA
+,ember-webpack-loaders,2016-01-21T20:45:25.000Z,13,JavaScript,true,true,MIT License
+,factorio-server,2018-02-20T00:09:13.000Z,0,HCL,true,true,NA
+,AndroidChatClone,2019-02-22T07:23:16.000Z,17,Java,true,true,NA
+,ArmieeGeoApp,2019-10-23T20:03:36.000Z,2,Java,true,true,NA
+,BasicShoppingApp,2020-06-23T11:32:51.000Z,3,Swift,true,true,NA
+,CoffeeFortune,2019-01-16T13:24:31.000Z,2,Swift,true,true,NA
+,Create-Contacts-List,2018-10-05T08:25:00.000Z,3,Java,true,true,NA
+,CryptoTracker,2022-07-03T23:33:19.000Z,2,Swift,true,true,NA
+,DishesApp,2023-01-27T20:50:18.000Z,5,Swift,true,true,NA
+,Distance-Meter,2018-05-23T11:45:23.000Z,4,Swift,true,true,NA
+,E-commerce-App,2021-08-23T15:00:51.000Z,4,Swift,true,true,NA
+,EberryTVShows,2019-09-13T20:15:45.000Z,2,Swift,true,true,NA
+,Electrolux-Combine,2022-05-04T20:41:17.000Z,2,Swift,true,true,NA
+,Electrolux-iOS,2021-07-13T18:14:18.000Z,3,Swift,true,true,NA
+,Financial-APP,2021-05-22T20:10:30.000Z,5,Swift,true,true,NA
+,isveckrali,2022-10-15T15:44:27.000Z,18,NA,true,false,NA
+,JaywayWeatherApp,2019-10-10T20:16:07.000Z,2,Swift,true,true,NA
+,JaywayWeatherAppNew,2019-10-17T21:15:33.000Z,2,Java,true,true,NA
+,Kenny-Game,2017-09-12T08:09:43.000Z,3,Swift,true,true,NA
+,ManivaAndroidAPP,2020-10-14T22:50:12.000Z,3,Java,true,true,NA
+,NewsApp-,2022-02-13T17:37:32.000Z,2,Swift,true,true,NA
+,Number-Guessing-Game,2018-10-03T08:41:03.000Z,2,Java,true,true,NA
+,React-Portfolio,2024-08-23T20:42:35.000Z,2,JavaScript,true,true,NA
+,RichestPeople,2023-01-12T00:03:26.000Z,6,Swift,true,true,NA
+,ScoreIndex,2022-02-21T23:21:01.000Z,2,Swift,true,true,NA
+,StockholmGuider,2022-07-22T12:44:31.000Z,2,Kotlin,true,true,NA
+,SwedenRadioApp,2019-10-26T00:04:45.000Z,2,Java,true,true,NA
+,SwiftChatClone,2019-02-13T09:06:44.000Z,18,Swift,true,true,NA
+,SwiftCovrWeatherApp,2019-07-10T11:49:32.000Z,2,Swift,true,true,NA
+,SwiftSocialMediaProfile,2018-12-30T13:45:41.000Z,2,Swift,true,true,NA
+,SwiftWeatherAppWithMVVM,2019-03-04T06:42:28.000Z,3,Swift,true,true,NA
+,SwiftWeatherForecast,2019-07-05T11:11:55.000Z,4,Swift,true,true,NA
+,animate,2013-07-04T03:22:33.000Z,2,JavaScript,true,true,MIT License
+,astro,2022-01-01T20:28:22.000Z,1,NA,true,false,Other
+,astro-blog-test,2022-01-11T08:47:02.000Z,2,JavaScript,true,true,NA
+,babel,2015-11-12T18:16:40.000Z,0,JavaScript,true,true,MIT License
+,basic-vagrant-rails,2014-04-23T17:42:29.000Z,0,Shell,true,true,NA
+,BasicMathParser.cpp,2012-09-03T02:22:10.000Z,3,C++,true,true,NA
+,blog,2015-01-12T03:39:05.000Z,10,Astro,true,false,BSD 3-Clause "New" or "Revised" License
+,boilerplate,2014-08-25T17:20:21.000Z,0,JavaScript,true,true,NA
+,booking-ux-hackathon,2014-08-23T18:30:25.000Z,1,CSS,true,true,NA
+,bootstrap,2014-05-11T16:37:10.000Z,0,CSS,true,false,MIT License
+,bundlify,2014-08-08T09:42:39.000Z,0,JavaScript,true,true,NA
+,C-graphics,2013-03-18T01:50:59.000Z,2,C,true,true,NA
+,ChakraCore,2016-06-13T14:45:28.000Z,1,JavaScript,true,true,Other
+,code-dragons,2013-06-04T20:17:06.000Z,0,JavaScript,true,true,NA
+,cosmus,2013-07-15T13:38:37.000Z,1,JavaScript,true,true,NA
+,css-layout,2015-04-24T13:12:53.000Z,0,C,true,true,Other
+,dotfiles,2014-12-08T16:48:46.000Z,2,Vim script,true,true,NA
+,esformatter,2014-08-25T05:30:16.000Z,0,NA,true,true,NA
+,facebook-ios-sdk,2014-08-12T21:55:58.000Z,0,NA,true,false,Apache License 2.0
+,factory_girl,2014-04-24T14:34:32.000Z,0,JavaScript,true,true,NA
+,fbjs,2015-11-06T11:54:23.000Z,0,JavaScript,true,true,Other
+,flags-css3,2015-01-08T02:23:26.000Z,0,CSS,true,true,NA
+,flow,2016-06-09T16:23:11.000Z,1,OCaml,true,true,Other
+,FoundationExtension,2013-09-06T12:30:35.000Z,0,Objective-C,true,true,Other
+,friday,2015-09-05T08:21:55.000Z,0,JavaScript,true,true,NA
+,git-tree,2014-05-07T19:47:05.000Z,0,JavaScript,true,true,MIT License
+,github-issue-assignment-extension,2015-05-28T15:57:49.000Z,0,JavaScript,true,true,NA
+,GithubPulse,2014-12-31T13:45:50.000Z,542,JavaScript,true,true,MIT License
+,gitql,2014-04-15T02:20:12.000Z,0,Go,true,true,MIT License
+,hackathon-war,2014-05-20T02:58:54.000Z,2,JavaScript,true,true,MIT License
+,bootstrap-workshop,2013-09-22T20:24:38.000Z,1,CSS,true,true,NA
+,box2d-javascript,2012-02-06T21:02:05.000Z,13,JavaScript,true,true,NA
+,cdnjs,2013-12-02T17:33:50.000Z,0,JavaScript,true,true,MIT License
+,closingweek.com,2014-02-27T09:55:37.000Z,1,HTML,true,true,NA
+,component,2012-12-11T19:55:36.000Z,2,JavaScript,true,true,NA
+,component-test,2012-10-22T21:31:07.000Z,1,JavaScript,true,true,NA
+,data,2014-11-10T13:21:55.000Z,0,NA,true,true,MIT License
+,dropload,2013-01-04T22:06:37.000Z,0,JavaScript,true,true,NA
+,ember-animation-demo,2014-06-04T09:11:54.000Z,0,CoffeeScript,true,true,MIT License
+,ember-select-light,2020-11-03T14:05:29.000Z,0,NA,true,false,Other
+,ember.js,2016-10-02T15:30:46.000Z,0,JavaScript,true,false,MIT License
+,events,2012-12-11T19:55:01.000Z,2,JavaScript,true,true,NA
+,express-pjax-demo,2012-11-13T12:10:52.000Z,0,JavaScript,true,true,NA
+,finalfantasy.se,2016-09-24T06:40:49.000Z,2,CSS,true,true,NA
+,flag.js,2014-02-08T10:02:23.000Z,3,JavaScript,true,true,NA
+,framerjs-workshop,2015-01-18T15:43:40.000Z,12,JavaScript,true,true,NA
+,get-attribute,2012-12-13T20:53:23.000Z,3,JavaScript,true,true,NA
+,get-by-class,2012-12-11T22:26:57.000Z,2,JavaScript,true,true,NA
+,hash.js,2012-02-06T20:51:23.000Z,156,JavaScript,true,true,NA
+,heroku-buildpack-ember-cli,2014-10-15T14:12:48.000Z,0,Shell,true,true,MIT License
+,heroku-repo,2015-02-05T22:00:55.000Z,0,Ruby,true,false,MIT License
+,hop-ons.js,2014-08-12T07:47:47.000Z,0,NA,true,true,NA
+,is-collection,2012-12-11T16:01:22.000Z,1,JavaScript,true,true,NA
+,javve.github.io,2011-12-19T21:15:26.000Z,2,JavaScript,false,false,NA
+,jjexp,2011-09-15T20:17:21.000Z,1,JavaScript,true,true,NA
+,jquery-contextMenu,2012-12-09T12:54:11.000Z,0,JavaScript,true,true,Other
+,jsbin,2013-11-09T09:57:56.000Z,0,JavaScript,true,true,MIT License
+,jsformat-atom,2015-02-18T10:41:35.000Z,0,CoffeeScript,true,true,MIT License
+,ld49,2021-10-03T09:29:16.000Z,0,C#,true,true,NA
+,list-website,2013-11-03T18:20:16.000Z,4,CSS,false,false,NA
+,API-Security-Checklist,2019-04-26T08:21:53.000Z,2,NA,true,true,MIT License
+,awesome-github-profile-readme,2020-07-15T17:14:59.000Z,5,NA,true,true,Creative Commons Zero v1.0 Universal
+,basic_angular_graphql_apollo_mongodb,2018-05-20T11:14:43.000Z,1,TypeScript,true,true,NA
+,break-o-clock,2019-11-17T18:42:56.000Z,1,TypeScript,true,true,MIT License
+,Chrome-Extension-with-React-and-Typescript-Starter-Pack,2019-07-20T16:21:54.000Z,124,TypeScript,true,true,NA
+,config,2018-10-22T20:50:41.000Z,2,NA,true,true,NA
+,cryptocurrency-price-checker,2018-08-25T10:01:19.000Z,1,JavaScript,true,true,NA
+,Discord_bot-Basic-App,2018-05-12T13:54:23.000Z,2,JavaScript,true,true,NA
+,github-actions-for-ci,2020-05-06T19:49:14.000Z,1,JavaScript,true,true,MIT License
+,hello-github-actions,2020-05-06T11:56:12.000Z,1,Dockerfile,true,true,MIT License
+,HTTP-Request-override,2018-06-10T09:35:40.000Z,4,JavaScript,true,true,NA
+,Javascript-to-TypeScript-guide,2019-11-24T17:43:07.000Z,19,JavaScript,true,true,NA
+,knowledge-base,2018-08-09T09:12:12.000Z,1,JavaScript,true,true,Other
+,moneytime.tools,2018-06-02T17:47:03.000Z,1,TypeScript,true,true,NA
+,mostly-adequate-guide,2019-06-14T12:30:14.000Z,1,JavaScript,true,true,Other
+,my-react-component-library,2019-10-18T16:47:31.000Z,16,TypeScript,true,true,MIT License
+,nodejs-typescript-express-apollo-graphql-starter,2019-02-17T16:23:29.000Z,48,TypeScript,true,true,NA
+,NodeJsScan,2019-04-26T08:23:48.000Z,1,Python,true,true,GNU General Public License v3.0
+,PiFrame,2019-08-21T19:53:21.000Z,2,JavaScript,true,true,MIT License
+,react-simple-pull-to-refresh,2019-11-06T18:27:34.000Z,171,TypeScript,true,true,MIT License
+,SavjeeCoin,2018-06-17T17:27:08.000Z,0,JavaScript,true,true,NA
+,simple-icons,2020-08-02T20:30:55.000Z,4,NA,true,false,Creative Commons Zero v1.0 Universal
+,thmsgbrt,2020-07-12T21:50:01.000Z,464,Mustache,true,true,NA
+,web3-chat-powered-by-ethereum-finished-project,2022-05-02T13:28:12.000Z,6,TypeScript,true,true,NA
+,web3-chat-powered-by-ethereum-starter,2022-05-02T13:27:39.000Z,3,TypeScript,true,true,NA
+,accentColor,2011-12-16T23:58:27.000Z,17,PHP,true,true,NA
+,activate-power-mode,2015-11-28T18:03:15.000Z,3584,CoffeeScript,true,true,MIT License
+,api-assets,2018-07-28T18:53:21.000Z,0,NA,true,true,NA
+,cocos2d-x,2017-07-26T15:14:02.000Z,0,C++,true,true,NA
+,directory,2020-05-07T13:43:11.000Z,0,NA,true,true,MIT License
+,domurl,2016-05-25T13:50:45.000Z,0,JavaScript,true,true,NA
+,examples,2018-11-01T11:54:18.000Z,0,NA,true,true,NA
+,gatsby-plugin-modal-routing,2019-10-20T20:02:42.000Z,0,NA,true,true,NA
+,godot,2023-09-06T13:04:27.000Z,0,NA,true,false,MIT License
+,i18n-dts,2020-06-03T15:54:53.000Z,0,NA,true,false,Apache License 2.0
+,Intl.js,2015-06-15T12:24:58.000Z,0,HTML,true,true,Other
+,joelbesada.github.io,2014-03-21T15:27:10.000Z,0,CSS,true,true,MIT License
+,lexical,2023-02-09T15:06:37.000Z,0,NA,true,true,MIT License
+,pasteboard,2012-06-16T21:04:59.000Z,637,CoffeeScript,true,true,NA
+,pasteboard-extension,2013-05-31T14:36:17.000Z,12,JavaScript,true,true,NA
+,peerflix,2014-03-16T01:57:07.000Z,0,JavaScript,true,true,MIT License
+,petaporon-to-midi,2024-01-28T15:25:20.000Z,1,TypeScript,true,true,MIT License
+,polaris-react,2018-11-21T15:17:42.000Z,0,TypeScript,true,false,Other
+,pz-100,2018-06-01T16:23:57.000Z,9,JavaScript,true,false,NA
+,react-native,2019-02-27T13:28:03.000Z,1,JavaScript,true,true,MIT License
+,react-native-otp-input,2020-03-16T13:10:14.000Z,0,NA,true,true,MIT License
+,react-native-video,2018-03-19T12:47:22.000Z,0,Java,true,false,MIT License
+,react-player-controls,2018-07-22T21:19:47.000Z,0,JavaScript,true,true,ISC License
+,reactnative.se,2017-07-20T15:52:07.000Z,0,HTML,true,true,NA
+,scrollpath,2012-02-04T17:39:12.000Z,2782,JavaScript,true,true,NA
+,spacetime,2021-04-30T10:36:51.000Z,12,TypeScript,true,true,ISC License
+,taction,2013-02-01T23:52:26.000Z,1,CoffeeScript,true,true,NA
+,taction-type,2013-03-31T21:10:06.000Z,0,CoffeeScript,true,true,NA
+,tide,2019-03-04T16:13:37.000Z,0,JavaScript,true,true,MIT License
+,use-methods,2019-10-05T21:12:59.000Z,0,TypeScript,true,true,MIT License
+,ApiKit,2023-03-24T06:52:45.000Z,52,Swift,true,true,MIT License
+,BadgeIcon,2023-12-15T09:09:36.000Z,83,Swift,true,true,MIT License
+,BottomSheet,2021-05-11T14:54:52.000Z,189,Swift,true,true,MIT License
+,Cloney,2011-06-23T15:17:30.000Z,24,C#,true,true,MIT License
+,ConfettiSwiftUI,2023-12-13T07:30:35.000Z,0,NA,true,true,MIT License
+,DeckKit,2020-08-31T05:51:52.000Z,688,Swift,true,true,MIT License
+,Documentation,2022-01-05T23:31:12.000Z,0,NA,true,true,MIT License
+,DocumentKit,2023-05-16T11:28:49.000Z,63,Swift,true,true,MIT License
+,EmojiKit,2024-02-22T08:10:28.000Z,91,Swift,true,true,MIT License
+,EnvironmentKit,2024-04-14T15:51:05.000Z,34,Shell,true,true,MIT License
+,GestureButton,2024-09-02T06:38:16.000Z,38,Swift,true,true,MIT License
+,GoogleTranslateSwift,2021-11-15T08:44:16.000Z,12,Swift,true,true,MIT License
+,iExtra,2016-12-04T18:53:02.000Z,17,Swift,true,true,MIT License
+,KeyboardShortcuts,2023-11-22T14:30:33.000Z,0,NA,true,false,MIT License
+,KeyCodes,2023-11-28T14:44:32.000Z,0,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,LaunchAtLogin-Modern,2023-12-25T11:58:48.000Z,1,NA,true,false,MIT License
+,MockingKit,2019-04-14T14:18:09.000Z,87,Swift,true,true,MIT License
+,nextra,2011-09-30T12:43:06.000Z,27,C#,true,true,MIT License
+,Nimble,2021-12-30T09:39:48.000Z,1,Swift,true,false,Apache License 2.0
+,OnboardingKit,2016-08-19T12:40:30.000Z,611,Swift,true,true,MIT License
+,osx,2016-08-29T07:37:29.000Z,28,Shell,true,true,NA
+,PrintingKit,2023-08-21T11:30:53.000Z,97,Swift,true,true,MIT License
+,Quick,2021-12-30T10:01:01.000Z,1,Swift,true,true,Apache License 2.0
+,QuickSearch,2023-12-19T10:59:05.000Z,31,Shell,true,true,MIT License
+,RichTextKit,2022-05-10T18:28:15.000Z,918,Swift,true,true,MIT License
+,ScrollKit,2023-02-04T13:24:58.000Z,725,Swift,true,true,MIT License
+,Sheeeeeeeeet,2017-11-18T10:08:03.000Z,1732,Swift,true,true,MIT License
+,StoreKitPlus,2022-06-20T07:17:36.000Z,84,Swift,true,true,MIT License
+,Swallow,2024-10-16T12:30:22.000Z,0,Swift,true,true,Other
+,SwiftKit,2020-04-28T08:39:48.000Z,58,Swift,true,true,MIT License
+,adalovelace,2014-05-17T19:50:36.000Z,0,JavaScript,true,true,NA
+,aGiro,2011-01-13T18:14:49.000Z,6,Java,true,true,Apache License 2.0
+,agiro-server,2011-01-10T18:12:49.000Z,1,JavaScript,true,true,NA
+,android-actionbar,2010-12-07T21:27:28.000Z,1304,Java,true,true,NA
+,android-integrationdemo,2009-11-14T12:14:00.000Z,7,Java,true,true,NA
+,android-pulltorefresh,2011-01-09T11:12:41.000Z,2470,Java,true,true,NA
+,animatedgif,2014-01-08T21:21:54.000Z,0,Arduino,true,true,NA
+,ao11,2011-06-02T13:56:42.000Z,4,Java,true,true,NA
+,bakery,2013-04-21T11:04:29.000Z,2,Python,true,true,MIT License
+,battery-historian,2014-06-26T13:06:09.000Z,1,Python,true,false,Apache License 2.0
+,benprocessing,2013-04-03T09:23:21.000Z,0,Processing,true,true,NA
+,bottle,2012-06-17T10:31:39.000Z,1,Python,true,true,MIT License
+,citykontrol,2012-09-06T10:31:05.000Z,0,Python,true,true,NA
+,dawn,2014-01-13T10:05:58.000Z,0,JavaScript,true,true,NA
+,DiskLruCache,2014-03-19T18:50:06.000Z,0,Shell,true,false,Apache License 2.0
+,diveintopython3,2011-10-05T07:03:47.000Z,1,JavaScript,true,true,NA
+,django-helpdesk,2018-07-30T13:24:21.000Z,1,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,droidsconnect,2010-07-27T10:44:56.000Z,3,Python,true,true,NA
+,es.js,2016-03-02T09:44:07.000Z,0,JavaScript,true,true,NA
+,foreman,2011-10-05T07:04:51.000Z,1,Ruby,true,false,NA
+,Hackathon2010,2010-09-11T07:33:12.000Z,1,Java,true,true,NA
+,hitempo,2014-03-04T11:30:33.000Z,0,JavaScript,true,true,NA
+,home,2013-11-26T09:00:12.000Z,0,Shell,true,true,NA
+,iglaset,2009-08-23T09:19:26.000Z,16,Java,true,true,NA
+,image-scripts,2013-10-22T12:41:09.000Z,0,Shell,true,true,NA
+,johannilsson.github.com,2011-03-13T20:36:10.000Z,1,HTML,true,true,NA
+,Kvitter,2010-02-16T12:48:34.000Z,1,Python,true,true,NA
+,lastcommit,2011-11-26T09:30:45.000Z,6,JavaScript,true,true,NA
+,lbb,2014-08-29T08:48:50.000Z,2,NA,true,true,NA
+,MCP3017AccelStepper,2013-10-18T07:34:01.000Z,10,C++,true,true,NA
+,advent_of_code,2022-12-04T00:27:44.000Z,4,Dart,true,true,NA
+,app-center,2023-11-20T11:31:33.000Z,0,Dart,true,false,GNU General Public License v3.0
+,appdynamics_flutter_agent,2023-03-06T15:13:01.000Z,0,Dart,true,true,MIT License
+,azure-flutter-tasks,2022-09-29T07:36:31.000Z,1,JavaScript,true,true,MIT License
+,badge_hack,2024-08-24T11:12:17.000Z,1,Dart,false,false,MIT License
+,bike_sensor,2015-05-19T11:33:53.000Z,0,Python,true,true,NA
+,bonfire,2022-12-29T15:01:17.000Z,1,NA,true,true,MIT License
+,box2d.dart,2019-04-02T10:39:48.000Z,0,Dart,true,false,BSD 3-Clause "New" or "Revised" License
+,codelabs,2024-06-24T21:10:28.000Z,0,NA,true,false,BSD 3-Clause "New" or "Revised" License
+,companies_using_flutter,2023-11-13T13:53:13.000Z,2,NA,true,false,NA
+,cv,2020-03-18T19:49:50.000Z,1,TeX,false,false,NA
+,dactyl-keyboard,2020-09-29T14:16:29.000Z,1,NA,true,true,GNU Affero General Public License v3.0
+,dart-cli-utilities,2022-06-09T20:29:15.000Z,0,Dart,true,true,Apache License 2.0
+,dart-pad,2022-05-20T10:32:51.000Z,0,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,dart_edge,2023-04-15T14:49:01.000Z,0,Dart,true,false,Apache License 2.0
+,dashbook,2021-10-26T09:36:31.000Z,0,NA,true,true,MIT License
+,delvian,2016-04-13T13:36:50.000Z,0,Scala,true,true,NA
+,developers-conferences-agenda,2024-06-05T16:14:48.000Z,1,NA,true,true,NA
+,devtools,2024-03-18T22:52:23.000Z,1,NA,true,true,BSD 3-Clause "New" or "Revised" License
+,dictorius,2015-09-07T16:06:44.000Z,0,HTML,true,true,Other
+,dijkstra,2022-12-12T10:01:44.000Z,0,NA,true,true,MIT License
+,distsys-project,2015-03-23T12:01:07.000Z,1,Erlang,true,true,NA
+,elfin,2015-08-19T16:29:43.000Z,0,Scala,true,true,BSD 2-Clause "Simplified" License
+,ember_vs_ice,2021-05-22T22:48:39.000Z,1,Dart,true,true,NA
+,esiade,2012-05-14T11:09:06.000Z,1,Java,true,true,NA
+,feature_flags,2023-08-11T13:48:33.000Z,1,NA,true,true,MIT License
+,fetchur,2015-05-20T18:21:29.000Z,1,Java,true,true,GNU General Public License v2.0
+,firmware-updater,2023-11-17T13:35:04.000Z,0,NA,true,true,GNU General Public License v3.0
+,flame,2019-04-04T15:22:52.000Z,0,Dart,true,true,MIT License
+,flame-docs-site,2022-06-06T19:56:07.000Z,0,NA,true,true,MIT License
+,118100,2013-09-04T07:07:18.000Z,3,NA,true,true,NA
+,active-directory-integration,2014-05-20T08:15:53.000Z,1,PHP,true,true,NA
+,Amplitude-Node,2022-07-28T16:22:40.000Z,0,NA,true,true,MIT License
+,apollo-starter-kit,2016-07-21T10:14:06.000Z,0,JavaScript,true,true,MIT License
+,avatar,2023-05-16T13:41:02.000Z,0,TypeScript,true,false,MIT License
+,awesome-electron,2017-02-18T08:03:29.000Z,1,NA,true,false,NA
+,awesome-openapi,2024-07-05T13:15:31.000Z,1,NA,true,true,MIT License
+,billoapp,2017-04-29T10:32:02.000Z,4,JavaScript,true,true,MIT License
+,Blocks,2013-07-21T16:15:17.000Z,6,PHP,true,true,NA
+,cal.com,2023-10-10T21:13:15.000Z,2,NA,true,false,Other
+,create-platform-colors,2021-01-29T12:46:15.000Z,0,JavaScript,true,true,NA
+,Cups-PHP-library,2013-09-11T07:42:17.000Z,10,PHP,true,true,NA
+,cursor.directory,2024-08-24T12:44:44.000Z,1559,TypeScript,true,true,NA
+,demo,2023-02-15T21:20:09.000Z,0,NA,true,false,MIT License
+,docs,2023-09-08T13:10:25.000Z,0,MDX,true,true,NA
+,electray,2016-04-22T18:58:40.000Z,0,NA,true,true,NA
+,electron.atom.io,2016-04-13T19:22:22.000Z,0,CSS,true,true,MIT License
+,Fastlane,2015-12-22T14:36:34.000Z,248,CSS,true,true,NA
+,flags,2022-11-15T11:49:02.000Z,0,NA,true,false,MIT License
+,formbricks,2024-03-19T15:26:03.000Z,1,NA,true,true,Other
+,fyndiq-php-sdk,2015-01-16T11:17:14.000Z,0,PHP,true,true,NA
+,Google-Auth-For-WordPress,2013-11-21T10:22:32.000Z,1,PHP,true,true,NA
+,graphiql,2016-08-28T12:09:03.000Z,0,JavaScript,true,true,Other
+,graphql-playground,2022-08-04T13:50:18.000Z,1,NA,true,true,MIT License
+,instagram-private-api,2017-03-16T07:29:06.000Z,0,JavaScript,true,true,MIT License
+,keithodell,2013-06-29T09:56:00.000Z,1,PHP,true,true,NA
+,learn-from-open-source,2024-03-21T12:59:53.000Z,16,NA,true,true,MIT License
+,logstash-output-amazon_es,2016-02-25T10:38:20.000Z,0,Ruby,true,false,Apache License 2.0
+,loki,2017-07-16T16:00:45.000Z,0,JavaScript,true,true,MIT License
+,mappersmith,2017-06-08T14:12:58.000Z,0,JavaScript,true,true,MIT License
+,3-sliding-cards,2020-10-23T09:47:19.000Z,0,HTML,true,true,NA
+,Abbreve,2022-10-11T16:36:57.000Z,0,NA,true,true,Apache License 2.0
+,accessible-interactions,2024-02-17T13:58:23.000Z,1,TypeScript,true,true,NA
+,adventOfCode2020,2020-12-02T15:01:35.000Z,0,JavaScript,true,true,NA
+,aoc2021,2021-12-01T08:29:31.000Z,0,JavaScript,true,true,NA
+,backend-project-1,2021-04-20T08:45:44.000Z,0,JavaScript,true,true,NA
+,basic-calculator,2020-07-27T10:11:37.000Z,1,JavaScript,true,true,NA
+,better-first-issues,2021-09-26T20:41:37.000Z,1,TypeScript,true,false,MIT License
+,Checka11y.css,2020-09-30T19:08:24.000Z,0,CSS,true,true,MIT License
+,coach-guide-vue,2021-01-17T15:29:49.000Z,0,Vue,true,true,NA
+,color-picker,2020-10-19T08:37:58.000Z,0,JavaScript,true,true,NA
+,countdown-timer,2020-08-08T11:12:36.000Z,0,JavaScript,true,true,NA
+,deals-for-devs,2024-06-14T08:24:05.000Z,0,TypeScript,true,true,NA
+,ecommerce-site,2020-09-09T09:01:47.000Z,0,JavaScript,true,true,NA
+,EmmaDawsonDev,2022-07-14T12:24:28.000Z,2,NA,true,true,NA
+,fm-article-preview,2020-08-04T20:49:16.000Z,0,CSS,true,true,NA
+,FM-interactive-rating-component,2024-06-14T08:15:50.000Z,0,TypeScript,true,true,NA
+,foretagspoolen,2021-04-09T18:59:27.000Z,0,JavaScript,true,true,NA
+,freeCodeCamp,2022-05-27T18:37:22.000Z,0,TypeScript,true,false,BSD 3-Clause "New" or "Revised" License
+,gq-backend,2021-07-28T10:31:13.000Z,4,JavaScript,true,false,NA
+,gq-frontend,2021-09-27T09:22:38.000Z,3,TypeScript,true,false,NA
+,guide-to-HF,2020-09-27T18:34:50.000Z,23,HTML,true,true,NA
+,hacksquad-website,2022-10-01T17:31:25.000Z,0,JavaScript,true,true,MIT License
+,hacktoberfest-projects,2021-10-02T16:21:25.000Z,0,NA,true,true,NA
+,hauntedhousecyoa,2020-02-25T19:53:26.000Z,0,JavaScript,true,true,NA
+,higher-lower-card-game,2020-10-23T14:01:44.000Z,0,JavaScript,true,true,NA
+,insurance-project,2020-09-07T08:34:55.000Z,0,HTML,true,true,NA
+,interpreter,2020-10-20T15:38:42.000Z,0,JavaScript,true,true,NA
+,iths-airbean,2021-02-16T12:41:12.000Z,0,NA,true,true,NA
+,iths-e-wallet,2020-12-28T10:44:19.000Z,0,Vue,true,true,NA
+,12factor,2014-06-13T09:29:17.000Z,0,CSS,true,true,MIT License
+,almostontop-fish,2020-01-25T15:22:34.000Z,7,Shell,true,true,NA
+,alwaysontop,2015-07-12T09:34:48.000Z,0,Shell,true,true,Other
+,ansible-basic-server,2015-07-12T09:52:02.000Z,0,NA,true,true,MIT License
+,ansible-docker-presentation,2014-05-29T16:50:40.000Z,0,NA,true,true,NA
+,ansible-dotfiles,2015-07-14T14:06:44.000Z,7,NA,true,true,MIT License
+,ansible-git,2015-07-14T05:10:15.000Z,0,NA,true,true,MIT License
+,ansible-nodejs,2015-07-12T19:19:51.000Z,0,Shell,true,true,Apache License 2.0
+,ansible-ohmyzsh,2015-07-13T19:37:42.000Z,37,NA,true,true,NA
+,ansible-ssh,2015-07-12T10:14:35.000Z,0,NA,true,true,MIT License
+,ansible-tmux,2015-07-14T15:14:31.000Z,1,Shell,true,true,Apache License 2.0
+,ansible-tuto,2015-07-13T12:49:42.000Z,0,Shell,true,true,NA
+,ansible-user,2015-07-12T09:52:26.000Z,0,NA,true,true,MIT License
+,ansible-vim,2015-07-14T19:05:07.000Z,0,Shell,true,true,Apache License 2.0
+,aretext,2023-05-10T20:50:34.000Z,0,Go,true,false,NA
+,atlantis,2019-07-10T18:14:33.000Z,0,Go,true,false,Other
+,atlantis-on-gke,2019-07-15T13:24:56.000Z,0,HCL,true,false,Apache License 2.0
+,autocommit-CI,2018-07-19T07:14:39.000Z,0,JavaScript,true,true,MIT License
+,awesome,2014-09-21T17:01:59.000Z,14,NA,true,false,NA
+,awesome-awesomeness,2014-09-24T18:33:23.000Z,1,NA,true,false,NA
+,awesome-docker,2014-09-21T17:01:48.000Z,30285,NA,false,false,Apache License 2.0
+,awesome-eslint,2016-04-14T16:34:11.000Z,0,NA,true,true,Creative Commons Zero v1.0 Universal
+,awesome-fish,2020-01-25T18:16:36.000Z,0,NA,true,false,NA
+,awesome-go,2023-04-12T13:51:41.000Z,0,NA,true,false,MIT License
+,awesome-google-cloud,2021-02-19T22:48:12.000Z,4,NA,true,false,Creative Commons Attribution 4.0 International
+,awesome-javascript,2014-12-08T09:08:20.000Z,0,NA,true,true,NA
+,awesome-selfhosted,2015-10-15T12:00:32.000Z,3,NA,true,true,Other
+,awesome-talks,2014-09-20T14:41:45.000Z,0,NA,true,true,NA
+,awesome-weekly,2014-09-21T16:23:12.000Z,1,NA,true,true,NA
+,backend-auth-boilerplate,2018-02-24T20:33:10.000Z,4,JavaScript,true,true,NA
+,1brc,2024-01-03T14:00:17.000Z,1,NA,true,true,Apache License 2.0
+,aboullaite,2020-07-09T14:23:13.000Z,0,NA,true,true,NA
+,asciidoctor,2016-05-07T12:07:57.000Z,0,Ruby,true,true,Other
+,awesome-morocco,2019-12-30T10:01:47.000Z,0,NA,true,true,NA
+,beats,2017-12-12T21:19:56.000Z,0,Go,true,true,Other
+,blablaconf.com,2020-10-02T13:50:28.000Z,0,JavaScript,true,true,NA
+,blanat,2024-02-16T20:16:54.000Z,1,C++,true,false,NA
+,cdi2-javase,2017-12-29T20:02:21.000Z,10,Java,true,true,NA
+,client-samples,2020-02-18T17:56:51.000Z,0,NA,true,true,Other
+,container,2020-10-12T15:05:25.000Z,0,Dockerfile,true,true,NA
+,covid-19-picocli,2020-05-09T22:09:24.000Z,12,Java,true,true,NA
+,Covid19-MA,2020-03-17T12:01:18.000Z,72,NA,true,true,NA
+,cp-example,2023-11-02T17:23:11.000Z,1,Java,true,true,NA
+,dc,2020-05-04T00:02:14.000Z,14,Go,true,true,NA
+,deeplearning4j-example,2017-06-15T15:40:14.000Z,4,Java,true,true,NA
+,developers-conferences-agenda,2023-11-01T10:57:53.000Z,0,JavaScript,true,true,NA
+,djl-demo,2023-06-11T19:24:53.000Z,3,JavaScript,true,true,NA
+,docker-elk,2017-02-20T00:20:06.000Z,1,HTML,true,true,NA
+,docker-images,2020-04-15T20:24:08.000Z,0,Shell,true,false,Universal Permissive License v1.0
+,docker101-workshop,2019-01-16T17:26:30.000Z,11,PHP,true,true,NA
+,ebpf-demo,2023-09-11T10:23:42.000Z,3,Rust,true,true,NA
+,eclipse-collections,2020-02-21T02:39:00.000Z,0,Java,true,true,NA
+,eunomia-bpf,2023-08-20T14:41:52.000Z,1,Rust,true,true,MIT License
+,fx2048,2019-12-26T15:51:04.000Z,0,Java,true,true,GNU General Public License v3.0
+,guide,2019-06-10T11:38:47.000Z,0,JavaScript,true,true,Creative Commons Attribution Share Alike 4.0 International
+,java-champions,2024-06-10T16:45:13.000Z,0,NA,true,false,NA
+,java-docker,2019-03-30T20:39:52.000Z,47,Java,true,true,NA
+,java-k8s-dev,2019-10-14T20:52:35.000Z,5,Java,true,true,NA
+,java-ml,2023-09-25T00:57:54.000Z,5,Java,true,true,NA
+,java-serverless,2024-03-17T13:33:18.000Z,3,Java,true,false,NA
+,2016-cces-trump-vote,2017-04-28T01:11:13.000Z,2,R,true,true,NA
+,2016-trump-shift,2016-11-24T18:40:02.000Z,0,R,true,true,NA
+,AltaCV,2020-08-19T23:15:09.000Z,0,NA,true,true,Other
+,artclcomp,2023-05-05T13:56:32.000Z,0,NA,true,true,NA
+,bookdown-demo,2017-11-12T15:17:06.000Z,0,CSS,true,true,Creative Commons Zero v1.0 Universal
+,bugs-examples-in-stan,2019-03-09T20:02:09.000Z,0,HTML,true,true,NA
+,cfb-poll-data,2016-08-29T14:13:10.000Z,0,R,true,true,NA
+,clean-greenbook,2013-06-01T20:48:27.000Z,2,R,true,true,NA
+,codename,2021-04-10T16:23:32.000Z,15,R,true,true,NA
+,countrycode,2016-01-30T17:37:21.000Z,0,R,true,true,NA
+,course-website,2018-08-11T16:54:05.000Z,41,CSS,true,true,MIT License
+,data-vis-labs-2018,2018-08-04T20:27:17.000Z,1,HTML,true,true,NA
+,dfp-white-discrimination,2018-10-24T18:41:39.000Z,0,R,true,true,NA
+,dragracer,2019-02-17T16:36:32.000Z,20,R,true,true,NA
+,drat,2021-10-11T18:44:00.000Z,0,NA,true,true,NA
+,drat-package,2021-03-12T22:20:25.000Z,0,NA,true,true,NA
+,dross,2015-07-15T00:07:30.000Z,0,NA,true,true,NA
+,earr,2018-07-05T17:37:28.000Z,5,R,true,true,NA
+,EC525S19,2020-09-08T23:30:38.000Z,0,NA,true,true,NA
+,eh6105,2022-11-14T10:18:31.000Z,2,HTML,true,true,MIT License
+,eh6127,2024-04-26T07:15:55.000Z,0,R,true,true,MIT License
+,empty,2015-08-16T16:55:38.000Z,0,NA,true,true,NA
+,etjc,2017-05-24T13:52:04.000Z,2,TeX,true,true,NA
+,etst,2016-09-03T00:29:26.000Z,2,R,true,true,NA
+,gesis-48-bayesian-multilevel,2019-03-25T16:08:18.000Z,1,TeX,true,true,NA
+,get-some-WB-data,2014-08-08T01:42:24.000Z,4,R,true,true,NA
+,gml-mid-data,2017-09-17T17:36:30.000Z,0,NA,true,true,NA
+,grad-student-steve-jekyll-template,2022-04-21T18:39:27.000Z,0,SCSS,true,true,NA
+,grad-student-website,2022-04-20T17:21:47.000Z,2,HTML,true,true,NA
+,gss-guns,2015-12-07T17:35:44.000Z,2,R,true,true,NA
+,5monkeys.github.io,2014-12-12T13:13:02.000Z,0,CSS,true,true,NA
+,about-blank-webext,2018-08-24T21:16:55.000Z,0,HTML,true,true,NA
+,advent-of-code,2023-01-15T21:31:09.000Z,1,Elm,false,false,NA
+,adventofcode2017,2017-12-02T12:24:18.000Z,0,Elm,true,true,NA
+,after-brunch,2013-10-05T10:40:13.000Z,0,CoffeeScript,true,true,NA
+,anishtro,2014-11-01T16:35:04.000Z,16,JavaScript,true,true,NA
+,aoc2021,2021-12-01T08:19:17.000Z,0,Shell,false,false,NA
+,apollo-codegen,2017-08-30T12:32:57.000Z,0,TypeScript,true,true,MIT License
+,atom-vim-mode-plus,2018-02-17T20:27:21.000Z,0,CoffeeScript,true,true,MIT License
+,autoprefixer,2013-09-11T19:48:53.000Z,2,CoffeeScript,true,false,MIT License
+,autoprefixer-brunch,2013-10-04T16:13:25.000Z,4,CoffeeScript,true,true,MIT License
+,awesome-typescript-loader,2018-01-01T11:57:41.000Z,0,TypeScript,true,true,Other
+,awesomplete,2015-08-06T07:24:28.000Z,0,HTML,true,true,MIT License
+,azimutt,2022-03-12T09:21:05.000Z,1,Elm,true,true,MIT License
+,babel,2015-02-21T20:22:09.000Z,0,JavaScript,true,true,MIT License
+,babel-brunch,2016-06-28T14:40:37.000Z,0,JavaScript,true,true,ISC License
+,babel-eslint-flow-import-issue,2019-06-24T15:23:42.000Z,0,JavaScript,true,true,NA
+,babel-plugin-minify-dead-code-elimination-bug,2017-09-19T11:38:31.000Z,0,JavaScript,true,true,NA
+,binwrap,2020-05-30T13:11:00.000Z,0,NA,true,false,NA
+,blog,2017-09-17T09:25:51.000Z,3,NA,false,false,Creative Commons Attribution 4.0 International
+,blues,2017-02-23T16:31:35.000Z,0,Python,true,true,MIT License
+,browser,2024-07-19T22:17:53.000Z,0,NA,true,false,BSD 3-Clause "New" or "Revised" License
+,browser-tweaks,2019-01-06T09:01:26.000Z,3,JavaScript,true,true,MIT License
+,broz,2022-10-13T10:15:54.000Z,0,NA,true,true,NA
+,brunch,2016-06-29T06:03:33.000Z,0,JavaScript,true,false,NA
+,brunch-module-name-bug,2017-02-21T18:59:23.000Z,0,JavaScript,true,true,NA
+,brunch-notification-bug,2016-12-29T12:08:21.000Z,0,JavaScript,true,true,NA
+,brunch-notification-overflow,2016-12-29T12:28:41.000Z,0,JavaScript,true,true,NA
+,brunch-npm-static-bug,2017-01-10T13:02:49.000Z,0,JavaScript,true,true,NA
+,brunch-sources-content-bug,2017-01-19T20:11:34.000Z,0,JavaScript,true,true,NA
+,Dx11Base,2017-04-16T14:09:53.000Z,87,C++,true,true,MIT License
+,Dx12Base,2017-09-16T14:42:39.000Z,48,C++,true,true,MIT License
+,HLSL-Spherical-Harmonics,2018-10-27T14:22:02.000Z,249,Mathematica,true,true,MIT License
+,QuakeIIDXXII,2021-07-06T18:09:43.000Z,29,C,true,true,NA
+,sebh.github.io,2018-04-02T07:45:39.000Z,1,HTML,true,true,Other
+,TileableVolumeNoise,2017-03-19T15:00:58.000Z,337,C++,true,true,MIT License
+,UnrealEngineSkyAtmosphere,2020-06-02T20:05:37.000Z,710,C++,true,true,MIT License
+,chunky,2015-02-18T20:09:41.000Z,0,Java,true,false,NA
+,ctg,2022-04-17T21:46:26.000Z,5,mcfunction,true,true,Other
+,disco,2019-12-19T15:56:47.000Z,0,Python,true,true,NA
+,Distancing,2020-04-07T22:45:42.000Z,9,mcfunction,true,true,NA
+,Entrapment,2017-08-18T10:26:09.000Z,6,mcfunction,true,true,NA
+,EpicWeapons,2020-12-22T23:33:24.000Z,15,mcfunction,true,true,NA
+,examples,2020-07-06T22:21:21.000Z,186,mcfunction,true,false,NA
+,fetchr,2023-01-31T22:35:39.000Z,0,NA,true,true,Other
+,HalfHearted,2021-03-13T02:42:16.000Z,7,mcfunction,true,true,NA
+,Heartless,2021-09-19T23:11:44.000Z,1,NA,true,true,NA
+,LimesAdvancements,2020-01-25T18:09:13.000Z,19,mcfunction,true,true,NA
+,lwjgl3,2019-09-24T08:35:44.000Z,0,NA,true,false,BSD 3-Clause "New" or "Revised" License
+,MobDash,2021-02-09T22:53:14.000Z,12,mcfunction,true,true,NA
+,NoHit,2021-09-19T23:08:50.000Z,2,mcfunction,true,true,NA
+,pigmap,2012-10-26T20:27:17.000Z,0,C++,true,true,GNU General Public License v3.0
+,Sacrifice,2017-08-18T12:35:08.000Z,27,mcfunction,true,true,NA
+,seasons,2023-02-11T18:06:11.000Z,185,mcfunction,true,true,BSD 3-Clause "New" or "Revised" License
+,streamer.bot-actions,2024-03-25T19:06:02.000Z,1,JavaScript,true,true,NA
+,tinkering,2021-03-16T23:56:16.000Z,5,NA,true,true,NA
+,WanderingTraderTests,2021-07-23T22:56:17.000Z,3,Java,true,true,GNU General Public License v3.0
+,YouFools,2021-06-21T18:13:05.000Z,3,mcfunction,true,true,NA
+,airflow,2022-01-24T16:59:15.000Z,0,NA,true,false,Apache License 2.0
+,berry-workspace-alias-deps,2020-08-06T16:11:07.000Z,0,JavaScript,true,true,NA
+,cimg-puppeteer,2020-07-04T22:33:57.000Z,1,JavaScript,true,true,MIT License
+,circleci-teams-notifications,2020-02-14T08:08:03.000Z,2,TypeScript,true,true,MIT License
+,currency-convert,2020-08-11T15:45:56.000Z,1,TypeScript,true,true,NA
+,del,2024-06-10T11:53:23.000Z,0,NA,true,false,MIT License
+,dotfiles,2020-09-15T20:40:53.000Z,11,Shell,true,true,MIT License
+,ec2-bot,2021-01-08T01:31:23.000Z,0,JavaScript,false,false,NA
+,fast-refresh-bug-reproduction,2021-11-12T23:50:58.000Z,0,JavaScript,true,true,NA
+,fastify-formbody,2021-11-12T15:53:18.000Z,0,NA,true,true,MIT License
+,got,2019-11-13T18:25:52.000Z,0,TypeScript,true,false,MIT License
+,lighthouse-ci,2023-01-11T15:06:35.000Z,0,NA,true,false,Apache License 2.0
+,maki,2022-01-30T15:33:47.000Z,0,NA,true,false,Creative Commons Zero v1.0 Universal
+,mx-puppet-twitter,2021-04-14T00:25:31.000Z,0,TypeScript,true,true,Apache License 2.0
+,poke-riddle,2023-11-29T18:43:56.000Z,0,TypeScript,true,true,NA
+,puppeteer,2022-02-15T04:08:39.000Z,1,NA,true,false,Apache License 2.0
+,pydantic-bigquery,2024-03-26T00:54:25.000Z,0,Python,true,true,NA
+,raw.macro,2024-06-22T23:07:53.000Z,0,JavaScript,true,false,MIT License
+,react-polyglot-hooks,2019-08-26T17:28:52.000Z,26,TypeScript,false,false,MIT License
+,react-refresh-webpack-plugin,2019-09-12T21:27:04.000Z,3143,JavaScript,false,false,MIT License
+,refresh-cycle-repro,2020-06-08T10:36:57.000Z,0,JavaScript,true,false,NA
+,rimraf,2024-07-13T19:10:25.000Z,0,NA,true,true,ISC License
+,signxml,2022-06-14T18:35:57.000Z,0,NA,true,true,Apache License 2.0
+,staledeps,2022-01-11T08:24:55.000Z,9,JavaScript,false,false,MIT License
+,tghisakurabot,2016-06-06T19:33:41.000Z,0,Python,true,true,Apache License 2.0
+,upptime,2021-08-24T18:30:52.000Z,0,Markdown,false,false,MIT License
+,WebMail,2021-01-08T01:27:11.000Z,0,HTML,false,false,NA
+,webpack-dev-server,2022-02-20T23:05:50.000Z,1,NA,true,false,MIT License
+,blast_tracker,2020-03-12T12:54:30.000Z,10,C,true,true,NA
+,clubhouse-crashsite,2024-01-14T13:10:04.000Z,1,HTML,true,false,NA
+,crtview,2020-07-04T20:09:38.000Z,292,C,true,true,NA
+,docgen,2023-07-26T15:18:32.000Z,5,C,true,false,NA
+,doom-crt,2024-03-07T08:13:04.000Z,121,C,true,false,GNU General Public License v2.0
+,doom-for-dos-like,2021-11-28T16:49:37.000Z,49,C,true,true,NA
+,dos-like,2021-10-08T14:38:40.000Z,1003,C,true,true,Other
+,dosbox-crt,2018-01-21T09:47:25.000Z,105,C++,true,true,GNU General Public License v2.0
+,dos_menu_system,2019-02-23T08:12:20.000Z,2,Pascal,true,true,Other
+,i-love-music,2021-10-17T19:48:56.000Z,45,C,true,true,Other
+,libs,2015-11-15T09:44:06.000Z,1673,C,true,true,NA
+,newpixie,2019-10-12T13:04:01.000Z,77,C,true,true,NA
+,no-sunshine-hd,2024-01-09T06:56:33.000Z,1,NA,true,false,NA
+,no_sunshine,2022-06-15T16:47:02.000Z,13,NA,true,true,NA
+,oldpixie,2023-08-02T17:45:49.000Z,2,C,true,false,The Unlicense
+,pixie,2018-01-21T15:28:56.000Z,149,C,true,true,Other
+,print-effect,2023-07-03T16:36:23.000Z,20,C,true,false,NA
+,repair-rearm,2022-07-26T20:01:22.000Z,18,C,true,true,NA
+,steem-crt,2020-04-23T05:36:55.000Z,20,C++,true,true,GNU General Public License v3.0
+,svgs,2020-07-02T07:45:56.000Z,8,C,true,true,NA
+,tcc-build,2021-11-30T14:41:04.000Z,16,NA,true,true,NA
+,template_project,2022-05-28T15:49:39.000Z,72,C,true,true,NA
+,yarnspin,2022-05-28T10:30:06.000Z,133,C,true,true,Other
+,3DCanvas,2015-11-23T11:58:37.000Z,0,TypeScript,true,true,NA
+,abcdef,2022-04-14T13:13:57.000Z,0,NA,true,true,Apache License 2.0
+,ActorBenchmarks,2017-03-13T19:23:12.000Z,0,C#,true,true,NA
+,akka,2014-01-19T13:07:17.000Z,0,Scala,true,false,Other
+,Akka.Persistence.ServiceFabric,2015-06-19T06:37:30.000Z,0,C#,true,true,Apache License 2.0
+,Akka.ServiceFabric.Seed,2015-10-09T08:14:22.000Z,0,C#,true,true,Apache License 2.0
+,AkkaFsMud,2015-09-22T18:00:20.000Z,3,F#,true,true,Apache License 2.0
+,alexballex,2022-07-17T10:45:35.000Z,0,NA,true,true,NA
+,alsing,2015-03-13T06:27:43.000Z,4,C#,true,false,NA
+,AngularCQRS,2013-12-07T12:42:10.000Z,0,NA,true,true,NA
+,ansiart,2020-12-04T09:46:18.000Z,2,C#,true,true,MIT License
+,aspnetcore,2022-05-13T09:55:53.000Z,0,NA,true,true,MIT License
+,aspnetcoredemo,2016-04-06T13:29:10.000Z,0,HTML,true,true,NA
+,AspNetCoreDiagnosticScenarios,2021-09-24T19:46:54.000Z,0,NA,true,true,NA
+,AutoMapper,2013-11-26T18:49:06.000Z,0,C#,true,true,MIT License
+,AzureWiki,2015-12-23T20:38:04.000Z,0,NA,true,true,NA
+,Beacon,2015-06-30T17:51:31.000Z,5,C#,true,true,Apache License 2.0
+,Better,2016-11-11T13:15:45.000Z,0,Go,true,true,Apache License 2.0
+,bootstrap-social-buttons,2013-08-21T07:44:06.000Z,0,CSS,true,true,Other
+,BufferingIO,2023-02-22T17:49:58.000Z,0,C#,true,true,NA
+,CodeSearchTree,2015-12-04T09:37:58.000Z,0,C#,true,true,NA
+,com.docker.devenvironments.code,2021-10-17T19:07:45.000Z,0,Python,true,true,NA
+,ConsulCluster,2016-10-02T11:21:02.000Z,0,Shell,true,true,NA
+,consuldotnet,2015-10-16T08:50:21.000Z,0,C#,true,true,Apache License 2.0
+,CSharp2Go,2021-12-18T09:00:04.000Z,0,C#,true,true,Apache License 2.0
+,DedicatedThreadPool,2015-03-16T18:20:47.000Z,0,C#,true,true,Apache License 2.0
+,DistributedDesignPatterns,2016-11-27T10:58:10.000Z,1,NA,true,false,Apache License 2.0
+,DockerWiki,2016-02-21T18:27:00.000Z,0,NA,true,true,NA
+,DotNetty,2015-07-24T19:04:34.000Z,0,C#,true,true,Other
+,EfRest,2013-09-11T11:38:59.000Z,5,C#,true,true,NA
+,korthaj.github.io,2015-02-25T18:07:37.000Z,16,HTML,true,false,NA
+,pallinda21,2021-10-26T11:34:06.000Z,0,Go,true,true,NA
+,aavegotchi-contracts,2021-08-29T14:44:02.000Z,0,NA,true,true,MIT License
+,ailyrics,2016-12-04T19:51:52.000Z,20,Python,true,true,NA
+,ArtificialNeuralNetworks,2016-01-25T08:53:01.000Z,0,Mercury,true,true,NA
+,CanvasMicrophoneRecorder,2015-05-18T11:47:07.000Z,1,JavaScript,true,true,NA
+,cellimination,2016-04-03T16:12:05.000Z,0,Lua,true,true,NA
+,Computer-Organization-and-Components,2015-09-07T08:24:02.000Z,1,C,true,true,NA
+,cryptochat,2021-08-19T15:10:36.000Z,6,HTML,true,true,NA
+,d3,2015-07-05T16:32:36.000Z,0,HTML,true,true,NA
+,DefoldSanFran,2015-11-13T02:46:40.000Z,0,Go,true,true,NA
+,DGElasticPullToRefresh,2016-10-02T13:48:04.000Z,0,Swift,true,true,MIT License
+,DOFavoriteButton,2016-10-02T13:46:22.000Z,0,Swift,true,true,MIT License
+,fave-button,2016-10-02T13:47:36.000Z,0,Swift,true,true,MIT License
+,GavakaiNode,2016-05-09T11:28:22.000Z,0,JavaScript,true,true,NA
+,Haskell,2015-08-31T12:02:34.000Z,2,Haskell,true,true,NA
+,HodorCoinWeb,2017-07-20T19:25:38.000Z,0,NA,true,true,NA
+,ivan.ai,2016-04-05T13:24:46.000Z,1,JavaScript,true,true,NA
+,jsonfeed,2017-06-20T18:14:46.000Z,0,Swift,true,true,NA
+,LESS-and-gulp.-Learning.,2015-07-10T08:32:04.000Z,1,JavaScript,true,true,NA
+,MachineLearningFun,2016-07-05T06:19:38.000Z,0,Python,true,true,NA
+,Map-Visualisation,2015-07-07T20:11:52.000Z,1,JavaScript,true,true,NA
+,moralis-demo-app,2024-05-04T09:08:40.000Z,0,NA,true,false,NA
+,Muzikk,2015-05-07T07:47:35.000Z,1,Java,true,true,NA
+,parity,2017-07-23T10:57:46.000Z,1,Rust,true,true,GNU General Public License v3.0
+,parse-server,2016-01-29T05:35:53.000Z,0,JavaScript,true,true,Other
+,react-webpack-boilerplate,2017-02-12T19:34:24.000Z,1,JavaScript,true,true,NA
+,ReverseShell,2015-12-15T19:48:28.000Z,1,Python,true,true,NA
+,SimpleBlockchain,2017-08-31T17:04:47.000Z,75,Java,true,true,NA
+,SmartContractsEth,2016-03-12T15:52:03.000Z,0,JavaScript,true,true,NA
+,smashysmash,2018-07-22T17:15:42.000Z,3,NA,true,true,NA
+,stream-ios-coinmarketcap,2017-08-20T20:32:29.000Z,1,Swift,true,true,NA
+,Absolute-Series-Scanner,2017-05-18T11:10:04.000Z,0,Python,true,true,NA
+,AlwaysSpawn,2015-01-13T19:12:46.000Z,0,PHP,true,true,Other
+,android-maven-example,2014-03-30T12:18:26.000Z,0,Java,true,true,MIT License
+,anime-lists,2017-05-18T11:03:36.000Z,0,XSLT,true,false,NA
+,autotorrent,2020-09-28T17:05:17.000Z,0,Python,true,true,MIT License
+,BanHammer,2015-01-13T19:37:09.000Z,3,PHP,true,true,NA
+,BFC,2014-12-02T23:59:09.000Z,2,PHP,true,true,NA
+,BigBrother,2014-06-24T16:24:33.000Z,115,PHP,true,false,GNU Lesser General Public License v3.0
+,bitcoinops.github.io,2021-07-01T08:57:02.000Z,0,NA,true,true,MIT License
+,botbot-plugins,2015-06-06T16:45:00.000Z,1,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,btcd,2020-02-08T20:27:51.000Z,0,NA,true,true,ISC License
+,Bukkit,2014-03-02T01:06:07.000Z,0,Java,true,false,GNU General Public License v3.0
+,BurgerVitrine,2013-08-17T23:26:28.000Z,0,Python,true,true,NA
+,c-SURF,2017-01-22T14:08:31.000Z,3,JavaScript,true,false,NA
+,ceph-scripts,2017-11-17T10:06:55.000Z,0,Python,true,true,GNU General Public License v2.0
+,ceph_exporter,2017-12-25T12:02:10.000Z,0,Go,true,true,Apache License 2.0
+,ChatFilter,2014-05-19T14:35:04.000Z,2,PHP,true,true,NA
+,coinwidget.com,2014-01-14T20:43:50.000Z,0,PHP,true,true,MIT License
+,crunchyroll_marathon_ass,2017-09-22T09:17:54.000Z,3,NA,true,true,NA
+,docker-bitcoind,2020-05-07T09:48:47.000Z,0,Shell,true,true,MIT License
+,docker-netatalk,2019-12-05T22:35:22.000Z,0,Dockerfile,true,false,MIT License
+,EasyRank,2015-01-13T19:09:13.000Z,0,PHP,true,true,NA
+,EconomyS,2015-01-13T19:25:04.000Z,0,PHP,true,true,NA
+,EPAReader,2010-12-20T17:30:08.000Z,1,PHP,true,false,GNU Lesser General Public License v3.0
+,FastTransfer,2015-04-21T18:47:49.000Z,27,PHP,true,false,GNU Lesser General Public License v3.0
+,Full-Plot,2015-01-13T19:45:34.000Z,1,PHP,true,true,NA
+,gammalab,2019-12-08T21:27:16.000Z,0,NA,true,true,GNU General Public License v3.0
+,gitea,2020-12-13T01:51:52.000Z,0,NA,true,false,MIT License
+,GoldenTools,2015-05-12T15:15:01.000Z,3,PHP,true,false,NA
+,Hama.bundle,2017-12-29T17:34:58.000Z,0,Python,true,true,GNU General Public License v3.0
+,Astrobot,2023-03-29T08:55:18.000Z,0,NA,true,true,MIT License
+,Codable-DIY-Kit,2020-03-30T00:36:33.000Z,0,NA,true,false,MIT License
+,color-lightness-test,2017-04-21T09:47:03.000Z,0,CSS,false,false,MIT License
+,custom-UIButton,2012-10-07T15:59:53.000Z,92,Objective-C,true,true,NA
+,danniehakansson.com,2020-12-08T16:19:08.000Z,0,NA,true,true,MIT License
+,decodable-routes,2020-04-07T08:39:34.000Z,0,Swift,true,false,MIT License
+,documentation,2020-11-15T15:04:12.000Z,0,NA,true,true,NA
+,dotfiles,2012-08-08T14:40:56.000Z,6,Shell,true,true,NA
+,gatsby-awesome-pagination,2021-03-07T23:09:26.000Z,0,NA,true,true,MIT License
+,gatsby-remark-vscode,2021-10-31T11:35:47.000Z,0,JavaScript,true,true,MIT License
+,generator-moule,2014-06-07T18:06:28.000Z,5,JavaScript,true,false,NA
+,Gifu,2014-09-07T21:46:51.000Z,3090,Swift,true,false,Other
+,github-notifications-bitbar,2018-01-21T21:25:14.000Z,10,Swift,true,false,NA
+,Glyfons,2012-03-09T14:50:53.000Z,2,JavaScript,true,true,NA
+,GRDB.swift,2021-07-12T00:10:11.000Z,1,NA,true,true,MIT License
+,HTMLKit,2019-12-29T19:23:39.000Z,0,Swift,true,true,MIT License
+,ImageScout,2014-10-11T11:57:09.000Z,975,Swift,false,false,MIT License
+,ipinator-landing,2015-02-03T00:37:12.000Z,0,CSS,true,true,NA
+,jekyll-theme-appcast,2017-05-21T18:31:52.000Z,3,HTML,true,true,MIT License
+,json-feed-jekyll,2017-06-06T20:36:55.000Z,1,NA,true,true,MIT License
+,jwt-decode,2020-01-28T14:36:49.000Z,0,Swift,true,false,MIT License
+,kaishin-gamelab-ticker,2019-03-20T21:31:08.000Z,0,HTML,false,false,NA
+,Karabiner-Elements,2018-03-01T21:03:35.000Z,0,C++,true,false,The Unlicense
+,Kroma,2021-02-06T15:50:03.000Z,22,Swift,true,true,Other
+,MacIconPreviewer,2015-10-12T09:56:19.000Z,34,Swift,true,true,ISC License
+,markoff,2015-09-01T18:47:19.000Z,793,Swift,true,true,ISC License
+,meilisearch-nio,2023-02-10T12:49:02.000Z,0,Swift,false,true,NA
+,meilisearch-swift,2024-01-25T21:54:31.000Z,0,NA,true,false,MIT License
+,MongoFluent,2019-08-30T16:03:14.000Z,0,Swift,true,true,NA
+,NetNewsWire,2020-02-22T09:59:23.000Z,0,NA,true,true,MIT License
+,Advent-Of-Code-2021,2021-12-03T07:40:05.000Z,2,C#,true,true,MIT License
+,Bitcoin-price-visualization,2023-05-15T11:44:25.000Z,6,NA,true,false,MIT License
+,Computational-geometry,2019-05-08T11:25:44.000Z,1248,C#,true,true,MIT License
+,Copypasta,2023-05-26T07:15:06.000Z,10,C#,true,false,MIT License
+,Earthquake-Simulator,2022-01-18T18:41:48.000Z,11,C#,true,true,MIT License
+,Habrador,2022-01-25T09:12:11.000Z,2,NA,true,true,NA
+,Kaggle-competitions,2012-12-27T10:07:09.000Z,2,Python,true,true,NA
+,Malik-Bendjellouls-Speech,2022-01-23T14:15:44.000Z,0,NA,true,true,NA
+,programming-collective-intelligence-php,2012-07-17T07:35:09.000Z,2,PHP,true,true,NA
+,Random-Terrain,2013-05-06T08:00:30.000Z,13,Python,true,true,NA
+,Self-driving-vehicle,2019-05-11T08:00:57.000Z,407,C#,true,true,MIT License
+,Ten-Minute-Physics-Unity,2022-05-20T05:52:24.000Z,250,C#,true,true,MIT License
+,Unity-Advanced-Shaders-Tutorial,2022-10-19T11:57:59.000Z,53,ShaderLab,true,true,MIT License
+,Unity-Ballistics-Tutorial,2020-02-15T13:14:17.000Z,60,C#,true,true,MIT License
+,Unity-Boat-physics-Tutorial,2020-02-15T13:29:57.000Z,101,C#,true,true,MIT License
+,Unity-Control-systems-Tutorial,2020-02-15T11:12:05.000Z,18,C#,true,true,MIT License
+,Unity-Custom-Tools-Tutorial,2020-05-08T08:17:28.000Z,33,C#,true,true,MIT License
+,Unity-Programming-Patterns,2020-06-14T12:53:46.000Z,1918,C#,true,true,MIT License
+,Unity-Rope-Tutorial,2020-02-15T10:20:32.000Z,66,C#,true,true,MIT License
+,Unity-Select-Units-Within-Rectangle-Tutorial,2020-04-20T07:48:59.000Z,26,C#,true,true,MIT License
+,Unity-Stuff-on-grid-Tutorial,2020-02-15T10:45:47.000Z,12,C#,true,true,MIT License
+,Unity-Tornado-Simulator,2021-11-29T09:06:42.000Z,27,C#,true,true,MIT License
+,ActorModel,2021-01-22T15:44:49.000Z,0,C#,true,true,NA
+,Alikhll,2020-08-24T19:58:56.000Z,0,NA,true,true,NA
+,alikhll.github.io,2019-04-25T09:52:37.000Z,0,HTML,true,true,NA
+,Angular-1.x-Sample,2017-04-12T19:17:37.000Z,8,NA,true,true,NA
+,Angular-1.x-systemjs,2016-12-25T07:55:58.000Z,3,HTML,true,true,NA
+,AspNet5MultipleProject,2016-11-08T10:01:20.000Z,2,C#,true,true,NA
+,AspNetComparison,2020-08-12T11:58:31.000Z,1,JavaScript,true,true,NA
+,AspNetCoreAppWithOwinHttpListenerServer,2016-12-04T09:58:01.000Z,5,C#,true,true,NA
+,AspNetCoreMigration,2020-05-25T18:11:20.000Z,1,C#,true,true,NA
+,AsyncAwaitBestPractices,2019-12-24T13:50:09.000Z,0,NA,true,true,NA
+,AutoMapper-comparison,2017-01-01T07:47:26.000Z,12,C#,true,true,NA
+,badge,2016-10-19T15:39:30.000Z,2,NA,true,true,NA
+,BecomingDeveloper,2023-10-01T14:38:07.000Z,0,C#,true,true,NA
+,bit-framework,2016-12-28T15:31:51.000Z,3,C#,true,true,MIT License
+,core-micro-services,2018-01-30T09:28:58.000Z,19,C#,true,true,NA
+,Cqrs-Pattern,2017-04-11T14:10:11.000Z,15,C#,true,true,NA
+,CSharp-MongoDb-Driver-Repository,2016-11-25T11:08:55.000Z,8,C#,true,true,NA
+,DebugCreator,2017-02-19T18:43:44.000Z,4,TypeScript,true,true,NA
+,devops-lab,2018-09-02T12:22:12.000Z,2,JavaScript,true,true,NA
+,DistributedApp,2020-04-16T17:01:23.000Z,0,C#,true,true,NA
+,dotnet-openshift,2018-05-15T17:18:55.000Z,1,C#,true,true,NA
+,Easy-EfCore-Postgresql,2016-11-08T11:38:53.000Z,13,C#,true,true,NA
+,Electron,2017-04-06T16:08:46.000Z,6,TypeScript,true,true,NA
+,eShopOnContainers,2017-06-25T15:49:24.000Z,1,C#,true,true,MIT License
+,go-journey,2019-03-20T15:11:42.000Z,2,Go,true,true,NA
+,golang-developer-roadmap,2019-04-15T10:14:22.000Z,17965,NA,true,true,NA
+,grm,2018-10-07T18:26:28.000Z,6,Go,true,true,NA
+,gRPC,2022-05-28T17:48:24.000Z,0,JavaScript,true,true,NA
+,Implement-Odata-JayData,2016-09-11T19:14:24.000Z,6,JavaScript,true,true,NA
+,intro.js,2016-03-16T19:52:51.000Z,2,JavaScript,true,true,Other
+,a7ul.github.io,2015-08-07T17:42:18.000Z,4,TypeScript,true,true,NA
+,aframe,2016-06-04T12:23:00.000Z,0,JavaScript,true,true,MIT License
+,aframe-component-boilerplate,2016-05-25T12:42:25.000Z,0,JavaScript,true,true,MIT License
+,AframeVR-Example,2016-04-14T11:42:31.000Z,3,JavaScript,true,true,NA
+,AndroidManager,2017-01-09T04:51:29.000Z,3,JavaScript,true,true,Creative Commons Zero v1.0 Universal
+,appcenter-cli,2020-08-10T12:55:09.000Z,0,JavaScript,true,false,MIT License
+,AsteroidsTheGame,2018-11-15T08:25:02.000Z,1,CSS,true,true,NA
+,aurora.js,2016-02-25T12:47:49.000Z,0,CoffeeScript,true,true,NA
+,awesome-bigtable,2022-05-26T12:57:17.000Z,0,NA,true,false,MIT License
+,awesome-react-renderer,2018-10-23T07:23:29.000Z,0,NA,true,true,NA
+,basic-node-addon,2018-07-04T14:01:42.000Z,14,C++,true,true,NA
+,blender3js,2015-08-13T09:37:51.000Z,12,JavaScript,true,true,NA
+,blog,2018-07-28T14:32:26.000Z,0,TypeScript,true,true,MIT License
+,blog-addons-example,2018-06-13T06:33:25.000Z,84,C++,true,true,NA
+,blog-custom-renderer,2018-10-15T22:30:49.000Z,18,JavaScript,true,true,NA
+,blog-docker-dev-environment-example,2019-03-25T23:11:40.000Z,55,JavaScript,true,true,NA
+,blog-graphql-auth-example,2022-06-12T22:34:33.000Z,7,JavaScript,true,true,NA
+,blog-same-docker-local-prod-example,2021-07-28T16:46:40.000Z,4,Dockerfile,true,true,NA
+,byeanyfin,2023-01-29T22:04:23.000Z,2,JavaScript,true,true,NA
+,byeiz,2019-03-07T19:03:22.000Z,1,JavaScript,true,true,NA
+,byemck,2018-07-14T19:52:59.000Z,23,JavaScript,true,true,NA
+,child-replace-with-polyfill,2019-01-26T13:20:19.000Z,0,JavaScript,true,true,MIT License
+,connect,2018-12-21T09:26:11.000Z,0,JavaScript,true,true,MIT License
+,console-web-ui,2018-07-14T20:54:49.000Z,31,JavaScript,true,true,NA
+,DadJokes,2020-04-13T16:03:23.000Z,5,TypeScript,true,true,NA
+,denode,2017-03-21T15:44:44.000Z,0,JavaScript,true,true,MIT License
+,devin-meme-generator,2024-05-16T16:58:05.000Z,0,Python,true,true,NA
+,electron,2016-05-27T05:32:44.000Z,0,C++,true,false,MIT License
+,electron-quick-start,2018-12-21T08:40:22.000Z,0,JavaScript,true,true,Creative Commons Zero v1.0 Universal
+,electron-react-boilerplate,2016-07-30T12:27:45.000Z,1,JavaScript,true,true,NA
+,608.js,2014-04-03T13:12:00.000Z,1,JavaScript,true,true,NA
+,a11y-api,2016-08-16T15:10:28.000Z,0,NA,true,true,NA
+,accelerometer,2018-03-02T20:38:49.000Z,0,HTML,true,true,Other
+,ad-hoc-wpt-results-editing,2019-10-30T13:21:56.000Z,0,JavaScript,true,true,NA
+,addrelease,2013-07-24T09:10:53.000Z,1,Python,true,true,NA
+,admin,2017-09-25T20:45:34.000Z,0,HTML,true,true,NA
+,anchors,2021-04-01T10:46:22.000Z,0,NA,true,true,Other
+,animation-worklet,2018-06-08T14:20:30.000Z,0,HTML,true,true,Other
+,background-fetch,2020-06-02T10:28:44.000Z,0,NA,true,true,Apache License 2.0
+,baseline-calculator,2023-06-02T15:49:23.000Z,1,NA,true,true,NA
+,battery,2018-06-12T09:18:49.000Z,0,HTML,true,true,Other
+,bikeshed,2019-12-06T22:34:52.000Z,0,NA,true,false,NA
+,bikeshed-action,2020-06-01T07:40:46.000Z,0,JavaScript,true,true,MIT License
+,bikeshed-data,2019-08-29T07:56:36.000Z,0,Python,true,true,MIT License
+,blog2md,2019-11-30T18:49:56.000Z,0,NA,true,true,NA
+,browser-compat-data,2018-02-14T12:54:41.000Z,2,JavaScript,true,true,Creative Commons Zero v1.0 Universal
+,budget-api,2017-04-12T05:59:49.000Z,0,HTML,true,true,Other
+,caniuse,2021-03-19T10:41:02.000Z,0,NA,true,true,Creative Commons Attribution 4.0 International
+,caniuse-embed,2021-06-04T09:15:58.000Z,0,NA,true,true,NA
+,chariotsforapollo,2013-04-10T01:21:25.000Z,6,Python,true,true,NA
+,chromium-bidi,2021-06-16T11:24:58.000Z,0,NA,true,false,Apache License 2.0
+,chromium-dashboard,2017-10-10T09:55:01.000Z,0,Python,true,true,Apache License 2.0
+,client-hints-infrastructure,2019-06-04T16:39:35.000Z,0,NA,true,true,NA
+,clipboard-apis,2017-05-15T15:15:30.000Z,0,HTML,true,true,Other
+,color-theme-sanityinc-tomorrow,2015-07-23T18:50:35.000Z,0,Emacs Lisp,true,true,NA
+,construct-stylesheets,2021-04-01T10:49:15.000Z,0,NA,true,true,Other
+,contact-api,2021-02-15T20:31:28.000Z,0,NA,true,true,Other
+,content,2020-12-15T22:28:07.000Z,1,NA,true,false,Other
+,content-index,2021-02-16T19:57:08.000Z,0,NA,true,true,Other
+,cookie-store,2020-06-10T10:26:22.000Z,0,NA,true,false,Apache License 2.0
+,2D_detection,2017-08-07T16:57:24.000Z,131,Python,true,true,MIT License
+,3DOD_thesis,2018-06-07T16:12:34.000Z,282,Python,true,true,MIT License
+,3D_detection,2017-09-02T14:24:20.000Z,0,Python,true,true,NA
+,AA203_project,2017-04-25T04:03:42.000Z,0,Makefile,true,true,NA
+,AA273_project,2017-04-25T20:23:52.000Z,0,Makefile,true,true,NA
+,academic-kickstart,2019-02-08T10:07:37.000Z,0,TeX,true,true,MIT License
+,Autopilot-TensorFlow,2017-07-24T13:45:33.000Z,0,Python,true,true,MIT License
+,Awesome-CV,2016-12-23T22:10:09.000Z,0,TeX,true,true,NA
+,bayes-by-backprop,2019-01-28T12:09:51.000Z,0,Jupyter Notebook,true,true,NA
+,blog,2019-02-13T17:57:47.000Z,0,NA,true,true,MIT License
+,c,2017-11-06T07:33:43.000Z,0,C,true,true,NA
+,CNN-LSTM-Caption-Generator,2017-02-06T00:42:23.000Z,0,Python,true,true,NA
+,cpp,2017-10-07T13:07:10.000Z,0,C++,true,true,NA
+,CS-229,2016-11-21T22:43:56.000Z,3,Python,true,true,NA
+,CS224n_project,2017-01-31T19:02:21.000Z,65,Jupyter Notebook,true,true,MIT License
+,darknet,2017-08-04T12:07:54.000Z,0,C,true,true,Other
+,dashboards,2016-07-30T14:59:03.000Z,0,JavaScript,true,true,MIT License
+,deeplabv3,2018-09-23T07:17:02.000Z,768,Python,true,true,MIT License
+,deep_RL,2017-03-11T02:13:54.000Z,0,Python,true,true,NA
+,ebms_3dod,2020-12-08T09:51:42.000Z,59,Python,true,true,MIT License
+,ebms_proposals,2021-10-22T11:36:37.000Z,11,Python,true,true,MIT License
+,ebms_regression,2020-05-01T11:17:23.000Z,96,Jupyter Notebook,true,true,MIT License
+,enet-keras,2017-07-30T18:26:43.000Z,0,Python,true,true,MIT License
+,evaluating_bdl,2019-05-28T07:12:06.000Z,132,Python,true,true,MIT License
+,flownet2,2017-08-08T10:28:48.000Z,0,C++,true,false,Other
+,fregu856.github.io,2017-03-05T19:22:54.000Z,3,JavaScript,true,true,NA
+,hector_slam,2017-07-20T18:41:26.000Z,0,C++,true,false,NA
+,hls_lfcd_lds_driver,2017-07-19T19:08:40.000Z,0,C++,true,true,BSD 3-Clause "New" or "Revised" License
+,Kandidatprojekt,2016-04-19T20:54:39.000Z,0,C,true,true,NA
+,ml_intro,2019-01-03T14:29:24.000Z,0,Python,true,true,NA
+,6502_IMU,2020-05-21T11:47:33.000Z,2,Assembly,true,true,MIT License
+,ADNS3080,2015-09-07T15:44:53.000Z,52,Python,true,true,NA
+,agent,2018-05-06T19:17:05.000Z,0,TypeScript,true,false,GNU General Public License v3.0
+,Android-ViewPagerIndicator,2013-07-30T09:35:37.000Z,2,Java,true,false,NA
+,Arduino,2016-10-26T06:01:51.000Z,0,C++,true,true,GNU Lesser General Public License v2.1
+,Arduino-PID-Library,2013-07-19T12:41:25.000Z,0,C++,true,true,NA
+,ArduinoBlinkLED,2012-10-16T22:12:12.000Z,9,Java,true,true,NA
+,ArduinoVendingMachine,2013-10-27T01:59:19.000Z,22,Arduino,true,false,NA
+,Arduino_Makefile_master,2013-10-05T00:31:11.000Z,0,NA,true,true,NA
+,Assignments02102,2013-03-19T13:53:52.000Z,1,Java,true,false,NA
+,AutonomousRobotSystems31385,2014-01-23T12:56:47.000Z,1,C,true,true,NA
+,BalancingRobotFullSize,2014-05-29T16:17:20.000Z,58,C++,true,true,NA
+,BalancingRobotFullSizeAndroid,2014-06-10T22:01:14.000Z,12,Java,true,true,NA
+,Basys2,2013-04-01T18:36:32.000Z,3,VHDL,true,true,NA
+,beocreate-tools,2018-08-09T12:09:09.000Z,0,Shell,true,true,NA
+,bldc,2024-05-15T13:26:22.000Z,0,NA,true,true,NA
+,blhost,2018-02-14T09:43:14.000Z,13,C++,true,true,Other
+,bootloader,2018-02-14T08:32:45.000Z,0,C,true,true,Other
+,can-utils,2021-03-22T23:14:16.000Z,0,C,true,true,NA
+,clang-format-wheel,2024-09-11T11:07:06.000Z,0,NA,true,false,Apache License 2.0
+,DigitalSystemsDesignENGR378,2015-04-02T15:59:31.000Z,1,Verilog,true,true,NA
+,DIY_OSD,2014-03-01T18:39:31.000Z,1,C++,true,true,NA
+,DroneDraw,2016-09-07T03:32:46.000Z,2,Java,true,true,NA
+,FaceRecognitionApp,2016-10-27T20:23:42.000Z,506,Java,true,false,GNU General Public License v2.0
+,FaceRecognitionLib,2016-10-15T14:42:03.000Z,70,C++,true,false,GNU General Public License v2.0
+,fftw3-android,2016-09-27T01:04:34.000Z,45,C,true,true,NA
+,firmware,2018-02-10T23:40:51.000Z,0,C,true,true,GNU General Public License v3.0
+,garden.mapview,2019-02-06T21:53:25.000Z,0,Python,true,false,MIT License
+,GraphView,2013-01-13T16:48:36.000Z,2,Java,true,false,GNU Lesser General Public License v3.0
+,GSMSIM300,2013-06-18T22:45:19.000Z,5,C++,true,true,NA
+,ansible,2016-03-04T15:44:47.000Z,2,Python,true,false,GNU General Public License v3.0
+,ansible_demo,2015-03-12T20:26:04.000Z,27,Python,true,true,Apache License 2.0
+,awesome-network-automation,2018-05-22T14:40:14.000Z,3,NA,true,true,Other
+,awesome-networking-papers-presos,2019-06-29T10:35:36.000Z,33,Makefile,true,true,Apache License 2.0
+,black,2018-04-02T20:52:42.000Z,0,Python,true,true,MIT License
+,bluetooth,2021-10-10T18:12:09.000Z,0,NA,true,true,Other
+,click,2018-01-15T13:19:41.000Z,0,Python,true,false,Other
+,cors,2022-11-17T10:09:56.000Z,0,NA,true,true,MIT License
+,dbarrosop.github.io,2014-10-24T16:28:49.000Z,1,HTML,true,true,NA
+,docker-build-gha-issue,2024-03-05T19:35:00.000Z,0,Nix,true,true,NA
+,docker-nix,2022-02-04T14:55:02.000Z,0,Dockerfile,true,true,Apache License 2.0
+,docker-pgbouncer,2022-02-10T08:25:53.000Z,0,NA,true,true,MIT License
+,evans,2020-03-30T09:04:48.000Z,0,Go,true,false,MIT License
+,formatter.nvim,2021-10-07T15:24:37.000Z,0,Lua,true,true,MIT License
+,go-clamav,2023-07-27T17:53:53.000Z,0,NA,true,true,GNU General Public License v2.0
+,go-grpc-middleware,2019-08-20T14:38:13.000Z,0,Go,true,true,Apache License 2.0
+,go-grpc-prometheus,2019-08-20T14:49:39.000Z,0,Go,true,true,Apache License 2.0
+,go-toml,2023-06-03T14:40:13.000Z,0,NA,true,false,MIT License
+,goarista,2016-06-07T09:06:35.000Z,0,Go,true,true,Apache License 2.0
+,gobgp,2018-04-25T12:54:50.000Z,0,Go,true,false,Apache License 2.0
+,gobgp-grpc-demo,2017-04-17T13:20:35.000Z,14,Python,true,true,Apache License 2.0
+,golines,2022-10-07T16:39:53.000Z,0,Go,true,true,MIT License
+,govips,2022-05-06T07:40:22.000Z,1,NA,true,false,MIT License
+,gowarm,2021-10-13T17:58:24.000Z,0,NA,true,true,Apache License 2.0
+,gqlgenc,2022-09-21T13:06:19.000Z,0,Go,true,true,MIT License
+,hkcam,2020-11-14T11:51:21.000Z,1,NA,true,true,Apache License 2.0
+,hubot-stackstorm,2016-04-24T18:23:26.000Z,0,JavaScript,true,false,Apache License 2.0
+,hush,2021-06-25T10:11:04.000Z,0,NA,true,false,MIT License
+,inboxer,2018-05-24T17:42:27.000Z,0,JavaScript,true,false,MIT License
+,jetconf,2018-11-30T09:52:22.000Z,0,Python,true,true,GNU General Public License v3.0
+,a11y-2013,2013-02-22T05:10:57.000Z,2,JavaScript,true,false,NA
+,adventofcode2018,2018-12-01T18:04:23.000Z,1,Clojure,true,true,NA
+,angular-slick,2014-11-19T20:27:03.000Z,0,JavaScript,true,true,MIT License
+,Another-Typography-Tool,2013-03-17T11:36:04.000Z,5,HTML,true,true,NA
+,article-data,2015-06-11T23:46:27.000Z,3,JavaScript,true,false,NA
+,ava,2016-04-08T12:43:01.000Z,0,JavaScript,true,false,MIT License
+,awesome-atom,2016-01-29T11:49:11.000Z,1,NA,true,true,Creative Commons Zero v1.0 Universal
+,awesome-collective-twitters,2015-07-30T01:27:42.000Z,150,NA,true,true,NA
+,awesome-javascript,2014-07-28T19:34:57.000Z,1,NA,true,true,NA
+,awesome-react-hooks,2018-10-31T01:23:38.000Z,2,NA,true,false,NA
+,awesome-zeit,2016-11-30T19:01:26.000Z,0,NA,true,false,MIT License
+,babel,2015-06-22T09:58:35.000Z,0,JavaScript,true,true,MIT License
+,babel-ignore-bug-demo,2018-05-14T19:59:16.000Z,1,JavaScript,true,true,NA
+,babel-plugin-webpack-loaders,2017-01-31T09:53:42.000Z,0,JavaScript,true,true,NA
+,babel-preset-env,2018-06-25T10:24:11.000Z,0,JavaScript,true,false,MIT License
+,babel-watch,2018-11-08T13:08:35.000Z,1,JavaScript,true,true,MIT License
+,bem-base-bh,2014-08-24T08:22:00.000Z,1,JavaScript,true,false,NA
+,bem-bootstrap,2014-09-06T19:56:21.000Z,43,CSS,true,true,NA
+,bem-bootstrap-strict,2014-12-17T04:40:30.000Z,0,CSS,true,true,MIT License
+,bem-deps,2015-04-15T10:57:06.000Z,0,JavaScript,true,true,NA
+,bem-jade-gauges,2014-10-19T21:47:16.000Z,0,NA,true,true,MIT License
+,bem-method,2015-01-15T11:24:14.000Z,0,NA,true,true,NA
+,bh,2013-09-10T06:43:44.000Z,0,JavaScript,true,true,MIT License
+,bignum-dec,2015-11-10T23:59:21.000Z,1,JavaScript,true,true,NA
+,bignum-inc,2015-11-11T20:36:49.000Z,1,JavaScript,true,true,NA
+,binded,2016-04-05T15:24:35.000Z,2,JavaScript,true,true,NA
+,blns,2015-08-11T09:20:00.000Z,0,JavaScript,true,true,MIT License
+,Blog,2024-04-10T20:52:41.000Z,0,NA,true,true,NA
+,bochar,2013-10-04T22:44:40.000Z,8,JavaScript,true,false,NA
+,buildbranch,2014-08-20T20:42:20.000Z,0,JavaScript,true,true,MIT License
+,alice,2017-12-18T13:33:56.000Z,0,JavaScript,true,true,NA
+,amber,2013-03-03T17:43:10.000Z,5,JavaScript,true,true,Other
+,amber-skeleton,2012-10-18T13:29:34.000Z,0,JavaScript,true,true,NA
+,amd-mode.el,2014-04-20T19:10:16.000Z,9,Emacs Lisp,true,true,NA
+,apollo-icons,2013-05-15T19:18:09.000Z,1,NA,true,true,Other
+,apps,2016-11-15T12:46:29.000Z,0,Python,true,false,GNU General Public License v3.0
+,ardour,2024-01-03T15:02:24.000Z,0,NA,true,false,Other
+,assess,2016-10-07T16:58:07.000Z,0,Emacs Lisp,true,true,NA
+,auth-password-store,2015-06-07T21:21:56.000Z,0,Emacs Lisp,true,true,GNU General Public License v3.0
+,beacon,2015-10-28T09:18:12.000Z,1,Emacs Lisp,true,true,GNU General Public License v3.0
+,buffer-watcher,2017-01-31T08:59:09.000Z,6,Emacs Lisp,true,true,GNU General Public License v3.0
+,cider,2016-03-25T14:46:21.000Z,0,Emacs Lisp,true,true,NA
+,counsel-projectile,2017-07-10T09:14:48.000Z,0,Emacs Lisp,true,true,NA
+,DevDocs.el,2017-07-31T08:17:53.000Z,0,Emacs Lisp,true,true,NA
+,discover-js2-refactor,2014-01-27T12:26:20.000Z,13,Emacs Lisp,true,true,GNU General Public License v3.0
+,doc,2016-11-07T22:50:19.000Z,0,Shell,true,false,NA
+,dreamedaway.com,2022-11-19T09:51:43.000Z,3,Makefile,true,true,GNU Affero General Public License v3.0
+,drone_ynh,2016-11-05T20:12:32.000Z,1,Shell,true,true,GNU Affero General Public License v3.0
+,el2markdown,2015-09-10T11:56:13.000Z,0,Emacs Lisp,true,true,GNU General Public License v3.0
+,elbank,2017-11-22T14:49:01.000Z,93,Emacs Lisp,true,true,GNU General Public License v3.0
+,elisp-maintainers,2017-10-25T13:48:29.000Z,0,NA,true,false,NA
+,emacs,2014-11-24T17:29:31.000Z,4,Emacs Lisp,true,true,GNU General Public License v3.0
+,emacs-docker,2018-02-19T16:55:19.000Z,2,Dockerfile,true,true,NA
+,emacs-gdscript-mode,2024-04-17T08:32:04.000Z,0,Emacs Lisp,true,true,GNU General Public License v3.0
+,emacs-nodejs-docker,2018-02-20T08:51:02.000Z,2,Makefile,true,true,NA
+,emacs-sourcemap,2017-07-10T13:55:30.000Z,0,Emacs Lisp,true,true,NA
+,emacs-website,2016-01-08T11:08:17.000Z,4,Emacs Lisp,true,true,NA
+,emacs.d,2012-01-15T15:28:51.000Z,34,Emacs Lisp,true,true,NA
+,emacs.d-1,2017-06-20T13:15:38.000Z,0,Emacs Lisp,true,true,GNU General Public License v3.0
+,emacs.g,2017-06-14T20:45:47.000Z,0,Emacs Lisp,true,false,NA
+,awesome-flutter-desktop,2022-04-11T13:11:06.000Z,0,NA,true,false,MIT License
+,CCBReader,2013-01-25T00:32:54.000Z,0,Objective-C,true,true,NA
+,CCControlExtension,2012-03-23T14:58:15.000Z,5,Objective-C,true,false,Other
+,CCSimpleJoy,2014-10-31T23:40:17.000Z,0,Objective-C,true,true,MIT License
+,cocos2d-iphone-ui,2013-09-03T00:11:59.000Z,0,Objective-C,true,true,NA
+,cocos2d-js-tests,2012-11-28T01:14:08.000Z,0,JavaScript,true,true,NA
+,cocos2d-swift,2014-09-18T22:36:16.000Z,0,NA,true,true,Other
+,CocosBuilder-tests,2013-05-16T22:37:24.000Z,0,JavaScript,true,true,NA
+,CocosDragon,2012-09-10T09:34:18.000Z,70,Objective-C,true,true,NA
+,CocosDragonJS,2012-10-10T23:28:03.000Z,8,JavaScript,true,true,NA
+,complex_layout,2016-03-31T19:31:21.000Z,1,Dart,true,true,NA
+,CrystalCraze,2012-12-03T04:30:35.000Z,12,JavaScript,true,true,NA
+,dart-hotreloader,2022-03-03T20:15:02.000Z,1,NA,true,false,Apache License 2.0
+,device_simulator,2019-10-27T17:30:42.000Z,133,Dart,true,true,BSD 3-Clause "New" or "Revised" License
+,engine,2020-11-07T22:50:28.000Z,0,NA,true,false,BSD 3-Clause "New" or "Revised" License
+,firechat-flutter,2016-02-26T21:29:03.000Z,1,Dart,true,true,BSD 3-Clause "New" or "Revised" License
+,flutter,2015-11-19T21:35:17.000Z,0,Dart,true,true,BSD 3-Clause "New" or "Revised" License
+,flutter-conferences,2024-01-23T16:21:38.000Z,1,HTML,true,false,NA
+,fluttercon_serverpod,2023-06-18T10:06:43.000Z,2,Dart,true,true,NA
+,fluttermarkdown,2016-02-19T18:56:29.000Z,4,Dart,true,true,NA
+,flutter_bugs,2017-04-13T11:37:17.000Z,1,Dart,true,true,NA
+,flutter_bug_alpha,2017-06-14T08:55:07.000Z,1,Dart,true,true,NA
+,flutter_bug_scroll,2017-05-31T22:26:54.000Z,1,Dart,true,true,NA
+,flutter_charts,2018-06-11T21:07:18.000Z,2,Dart,true,true,Other
+,flutter_clock,2020-01-19T17:41:20.000Z,12,Dart,true,true,BSD 3-Clause "New" or "Revised" License
+,flutter_conferences,2024-01-23T16:26:59.000Z,1,NA,true,true,NA
+,flutter_mdi_icons,2017-03-11T11:10:40.000Z,1,Dart,true,true,NA
+,flutter_sprites,2017-03-23T14:22:26.000Z,30,Dart,true,true,BSD 3-Clause "New" or "Revised" License
+,Fragaria,2012-07-12T09:32:52.000Z,2,C,true,true,NA
+,furry_feathers,2015-10-29T20:50:21.000Z,2,Dart,true,true,NA
+,AmazonS3RequestManager,2015-11-29T19:29:15.000Z,4,Swift,true,true,MIT License
+,Buffer,2016-05-24T13:26:37.000Z,350,Swift,true,true,Other
+,CoreRender,2018-12-04T13:15:45.000Z,25,Objective-C++,true,true,NA
+,cxx_tutorials,2020-04-22T07:40:13.000Z,3,C++,true,true,NA
+,DataStructures,2015-12-29T11:27:21.000Z,49,Swift,true,true,NA
+,DesignSystemTemplate,2018-12-27T18:59:37.000Z,4,Swift,true,true,NA
+,Emit,2018-05-21T09:15:06.000Z,10,Swift,true,true,MIT License
+,firebase_utils_deprecated,2017-05-14T19:08:20.000Z,2,Swift,true,true,MIT License
+,flexboxobjc_deprecated,2015-05-10T12:33:22.000Z,397,Objective-C,true,true,Other
+,flexboxswfit_deprecated,2016-03-04T16:06:07.000Z,305,Swift,true,true,Other
+,FontCustom,2013-12-10T21:02:55.000Z,2,Objective-C,true,true,NA
+,GuruMeditation,2016-08-16T13:19:31.000Z,4,Swift,true,true,NA
+,ios-fontawesome,2012-12-30T14:55:43.000Z,1741,Objective-C,true,true,NA
+,ios-realtimeblur,2013-07-03T12:28:18.000Z,951,Objective-C,true,true,MIT License
+,itu_algorithms,2015-02-03T21:42:16.000Z,2,Ruby,true,true,NA
+,itu_pku_eventregexp,2011-03-16T09:27:29.000Z,5,Java,true,true,NA
+,libbuffer,2016-12-26T10:21:52.000Z,4,C++,true,true,NA
+,Multi.kt,2019-05-20T18:54:39.000Z,3,Kotlin,true,true,NA
+,Multipeer,2020-03-22T09:26:21.000Z,3,Swift,true,true,BSD 2-Clause "Simplified" License
+,ObjCTrait,2013-08-25T18:56:12.000Z,9,Objective-C,true,true,NA
+,objc_latte_uikit_deprecated,2012-07-13T16:01:11.000Z,1,NA,true,true,NA
+,PatchComposer,2021-08-02T07:40:41.000Z,8,Swift,true,true,NA
+,Pbtxt,2020-05-14T12:01:37.000Z,5,Swift,true,true,NA
+,Primer,2019-07-23T13:03:00.000Z,33,Swift,true,true,NA
+,PushID,2017-05-14T15:25:08.000Z,17,Swift,true,true,MIT License
+,Render,2016-04-13T08:39:19.000Z,2162,Swift,true,true,NA
+,S.swift,2016-02-26T13:44:50.000Z,25,Swift,true,true,BSD 3-Clause "New" or "Revised" License
+,Store,2017-03-21T17:46:10.000Z,503,Swift,true,true,NA
+,Surface,2020-01-12T08:25:48.000Z,18,Swift,true,true,NA
+,swift1_rune_game,2014-08-02T11:41:43.000Z,2,Objective-C,true,true,NA
+,.tmux,2023-12-21T09:32:53.000Z,0,NA,true,false,MIT License
+,4DMOS,2022-10-02T18:09:25.000Z,0,NA,true,true,MIT License
+,av2-api,2023-07-31T21:44:20.000Z,0,NA,true,false,MIT License
+,bearkoutgame_3d,2021-05-18T09:28:15.000Z,0,JavaScript,true,true,MIT License
+,carla-expert,2022-06-19T01:11:21.000Z,116,Python,false,false,NA
+,carla-roach,2022-06-17T09:20:43.000Z,1,Python,true,true,Other
+,core_perception,2021-03-08T13:15:10.000Z,0,NA,true,false,Apache License 2.0
+,dufomap,2024-04-18T11:28:31.000Z,8,C++,false,false,BSD 3-Clause "New" or "Revised" License
+,dynablox,2023-05-01T21:05:49.000Z,3,C++,false,false,BSD 3-Clause "New" or "Revised" License
+,DynamicMap_Benchmark,2023-07-17T08:52:37.000Z,1,Jupyter Notebook,true,false,BSD 3-Clause "New" or "Revised" License
+,elevation_mapping_cupy,2022-06-28T15:09:15.000Z,0,C++,true,true,MIT License
+,emergent-occ-forecasting,2022-12-05T13:22:10.000Z,0,NA,true,true,MIT License
+,ERASOR,2022-12-02T19:09:21.000Z,24,C++,true,true,GNU General Public License v3.0
+,FAST_LIO,2022-11-30T19:28:38.000Z,13,C++,false,false,GNU General Public License v2.0
+,gpir,2022-03-29T10:49:12.000Z,0,C++,true,true,MIT License
+,gtsam-examples,2022-04-07T15:04:01.000Z,0,Jupyter Notebook,true,true,Other
+,Kin-Zhang,2022-05-02T02:36:46.000Z,0,Python,false,true,NA
+,LAV,2022-03-23T03:50:33.000Z,5,Python,true,false,Apache License 2.0
+,leaderboard,2022-06-18T16:37:51.000Z,0,NA,true,true,MIT License
+,linefit,2024-02-14T17:07:50.000Z,13,C++,false,false,BSD 3-Clause "New" or "Revised" License
+,mmfn,2022-03-06T16:18:51.000Z,93,Python,false,false,MIT License
+,nvblox,2022-10-25T12:27:30.000Z,0,C++,true,true,Apache License 2.0
+,nways_accelerated_programming,2024-04-05T21:12:58.000Z,6,Jupyter Notebook,false,true,Apache License 2.0
+,oblam_deskew,2022-12-23T18:24:33.000Z,0,C++,true,true,NA
+,oblam_pgo,2022-12-21T22:44:24.000Z,4,C++,false,false,NA
+,octomap,2023-04-05T21:10:07.000Z,12,C++,false,false,BSD 3-Clause "New" or "Revised" License
+,OpenPCDet,2022-12-23T13:13:15.000Z,4,Python,true,true,Apache License 2.0
+,OpenPCDet_ros,2022-12-23T22:08:57.000Z,82,Python,false,false,MIT License
+,ORB_SLAM3,2022-05-13T16:43:40.000Z,6,NA,true,true,GNU General Public License v3.0
+,patchwork-plusplus,2023-01-07T17:21:07.000Z,1,C++,true,true,GNU General Public License v3.0
+,android-manifest-merger,2019-11-11T10:12:45.000Z,0,NA,true,true,NA
+,Android-WizardPager,2013-10-27T14:51:53.000Z,0,Java,true,true,Apache License 2.0
+,androidutils,2013-01-29T07:08:16.000Z,6,Java,true,true,NA
+,awesome-gamedev,2017-11-27T11:14:40.000Z,2,NA,true,false,Creative Commons Attribution Share Alike 4.0 International
+,awesome-lua,2016-10-14T23:17:43.000Z,4,NA,true,true,NA
+,aws-sdk-lua,2017-06-29T11:43:51.000Z,39,Lua,true,true,Apache License 2.0
+,bitmapfontcreator,2014-03-29T18:23:40.000Z,2,Java,true,true,Apache License 2.0
+,blip,2017-10-10T05:19:37.000Z,19,C++,true,true,MIT License
+,block-it,2022-10-11T10:43:51.000Z,1,Lua,true,true,NA
+,bob-archive-encryption,2022-03-25T14:27:48.000Z,0,C++,true,true,MIT License
+,boom,2023-02-24T22:33:49.000Z,27,Lua,true,true,MIT License
+,breakout,2017-03-16T21:24:26.000Z,7,Go,true,true,NA
+,britzl.github.io,2016-08-20T22:45:12.000Z,0,JavaScript,true,true,NA
+,broadsock,2017-07-26T18:15:32.000Z,3,Lua,true,true,MIT License
+,bythesword,2018-07-27T06:02:17.000Z,2,Go,true,true,NA
+,captaincapture,2018-04-17T10:14:08.000Z,0,Objective-C++,true,true,MIT License
+,cards,2020-03-27T13:15:32.000Z,4,NA,true,true,NA
+,cgajam-2017,2017-06-06T13:14:47.000Z,3,Go,true,true,NA
+,chipmunk2d-defold,2018-04-26T18:37:51.000Z,9,C,true,true,NA
+,cmdline,2014-10-02T09:05:17.000Z,2,Lua,true,true,MIT License
+,combochamp,2019-07-03T16:45:35.000Z,3,Go,true,true,NA
+,comingtolife,2016-08-14T19:48:48.000Z,1,Go,true,true,NA
+,coverallsemma,2013-11-26T00:28:13.000Z,2,Java,true,true,NA
+,crashtool,2022-01-20T16:05:59.000Z,4,JavaScript,true,true,MIT License
+,cucumber-defold,2017-02-16T13:24:32.000Z,2,Lua,true,true,MIT License
+,cucumber-lua,2015-01-14T06:45:35.000Z,0,Lua,true,true,MIT License
+,cyan-builder,2024-04-22T14:08:58.000Z,0,NA,true,false,MIT License
+,Dash-User-Contributions,2016-08-17T08:29:58.000Z,2,Python,true,true,NA
+,def-diags,2021-01-12T19:23:39.000Z,1,C++,true,true,NA
+,def-mnu,2021-01-12T19:24:11.000Z,1,NA,true,true,NA
+,11302-core,2021-01-21T16:39:31.000Z,1,NA,true,true,NA
+,a11y-dialog,2020-04-01T13:56:57.000Z,1,NA,true,true,MIT License
+,a11y-theme-unit-test,2020-11-13T04:28:08.000Z,0,NA,true,true,NA
+,Aaron,2016-11-19T12:17:39.000Z,1,PHP,true,true,GNU General Public License v2.0
+,Aaron-child-theme,2016-03-26T03:33:57.000Z,0,PHP,true,true,NA
+,accessibility-statement-plugin,2020-12-18T06:28:07.000Z,3,NA,true,true,NA
+,accessible-menu,2020-06-18T09:03:17.000Z,2,NA,true,true,ISC License
+,accessible-menus,2016-12-29T18:27:54.000Z,0,PHP,true,true,NA
+,ACRT,2020-06-16T02:05:25.000Z,1,NA,true,true,MIT License
+,ai-for-cross-stitching,2023-03-17T04:06:40.000Z,0,NA,true,true,MIT License
+,aino-blocks,2021-07-31T03:17:22.000Z,2,NA,true,true,GNU General Public License v2.0
+,archived-themes,2023-08-08T05:43:39.000Z,0,HTML,true,true,NA
+,Armando,2023-05-06T09:05:49.000Z,2,PHP,true,true,NA
+,automatic-theme-plugin-update,2020-02-23T08:18:24.000Z,0,NA,true,true,NA
+,awps,2019-12-15T16:41:47.000Z,1,NA,true,true,GNU General Public License v3.0
+,Billie,2017-01-22T06:51:53.000Z,3,CSS,true,true,GNU General Public License v2.0
+,block-experiment,2020-02-12T15:42:38.000Z,2,CSS,true,true,GNU General Public License v2.0
+,block-fragments,2022-10-21T07:31:14.000Z,0,NA,true,true,NA
+,block-markup-snippets,2021-05-06T05:53:57.000Z,9,TypeScript,true,true,GNU General Public License v2.0
+,block-patterns,2020-06-13T07:43:58.000Z,1,NA,true,true,NA
+,Block-test-data,2024-02-16T13:37:57.000Z,1,HTML,true,false,GNU General Public License v2.0
+,block-unit-test,2022-05-27T19:05:45.000Z,0,NA,true,false,GNU General Public License v3.0
+,blocks-everywhere,2023-01-14T09:09:03.000Z,0,NA,true,true,GNU General Public License v3.0
+,boldgrid-theme-framework,2021-01-20T06:43:36.000Z,1,NA,true,true,GNU General Public License v3.0
+,Bunny,2016-12-15T05:02:09.000Z,2,CSS,true,true,MIT License
+,burgers,2019-12-04T05:54:43.000Z,1,PHP,true,true,GNU General Public License v2.0
+,carolinan,2020-07-09T10:54:39.000Z,1,NA,true,true,NA
+,Cherish,2020-08-16T06:06:04.000Z,1,PHP,true,true,GNU General Public License v2.0
+,christmas-sweets,2020-08-16T04:37:35.000Z,1,PHP,true,true,GNU General Public License v2.0
+,classic-blank,2023-05-20T11:32:41.000Z,0,PHP,true,true,GNU General Public License v2.0
+,acr122u,2018-10-21T21:03:38.000Z,37,Go,true,true,MIT License
+,adventofcode,2017-12-10T12:34:40.000Z,0,Go,true,true,NA
+,adventure,2015-07-12T12:52:33.000Z,6,Go,true,true,NA
+,api-blueprint,2014-10-07T11:06:51.000Z,0,NA,true,true,MIT License
+,art,2024-10-07T10:07:27.000Z,7,Zig,false,false,Other
+,art-init,2024-09-02T14:19:48.000Z,1,Go,false,false,Other
+,beats,2014-09-02T09:27:22.000Z,5,Go,true,true,NA
+,brandy,2014-10-26T10:13:21.000Z,9,C,true,true,GNU General Public License v2.0
+,brickcolor,2018-12-09T20:37:57.000Z,1,Go,true,true,MIT License
+,bugsnag-data,2017-02-22T15:56:15.000Z,0,Go,true,true,MIT License
+,caddy,2015-05-08T21:19:33.000Z,0,Go,true,true,Apache License 2.0
+,check-ssh-chat,2014-12-17T22:53:31.000Z,5,Go,true,true,NA
+,clone,2024-10-02T17:01:27.000Z,0,Go,false,false,Other
+,cloudmailin,2015-01-25T22:18:01.000Z,0,Go,true,true,NA
+,code_year,2011-12-31T01:34:52.000Z,1,Ruby,true,true,NA
+,coffeescript-cookbook.github.com,2011-05-09T18:38:42.000Z,2,CSS,true,true,Other
+,dino,2013-05-21T20:54:53.000Z,0,Ruby,true,false,MIT License
+,dircolors-jellybeans,2013-12-31T14:27:37.000Z,28,Shell,true,true,MIT License
+,dotfiles,2009-11-26T13:19:14.000Z,11,Vim Script,true,true,NA
+,duration,2015-06-13T13:12:42.000Z,29,Go,true,true,MIT License
+,elasticsearch-icu,2015-12-04T11:36:46.000Z,0,NA,true,true,NA
+,emojilib,2015-07-15T01:41:14.000Z,12,Go,true,true,MIT License
+,env,2015-04-24T21:30:11.000Z,15,Go,true,true,MIT License
+,expvarmon,2015-08-21T19:05:05.000Z,4,Go,true,true,NA
+,extism-init,2024-01-16T12:30:02.000Z,0,Go,true,true,Other
+,filmtipset,2013-08-23T01:48:09.000Z,1,Ruby,true,true,MIT License
+,fixer,2017-05-24T19:57:30.000Z,17,Go,true,true,MIT License
+,flip,2014-11-22T23:41:43.000Z,18,Go,true,true,MIT License
+,fuzz,2015-07-28T14:22:31.000Z,1,Go,true,true,NA
+,gc15,2015-01-22T22:00:17.000Z,0,CSS,true,true,NA
+,AdvancedExampleProject,2020-05-02T19:08:09.000Z,5,NA,true,true,MIT License
+,alltwincat.com-oscat-basic,2018-01-19T07:17:02.000Z,20,NA,true,true,Other
+,alltwincat.com-TcMath,2019-01-12T12:10:51.000Z,4,NA,true,true,MIT License
+,beckhoff-ipc-management-ansible,2023-11-20T08:33:27.000Z,1,NA,true,true,MIT License
+,EventLoggerConnector,2022-04-05T06:40:27.000Z,5,NA,true,true,MIT License
+,gitignore,2019-06-22T12:24:11.000Z,7,NA,true,false,Creative Commons Zero v1.0 Universal
+,highlight-pointer,2024-08-22T05:31:25.000Z,0,NA,true,false,MIT License
+,lcls-twincat-general,2024-01-17T06:28:50.000Z,1,NA,true,true,Other
+,log4TC,2022-05-11T12:31:11.000Z,3,NA,true,false,Apache License 2.0
+,PML_Base_PLC,2022-10-21T07:17:59.000Z,1,NA,true,true,Other
+,RaspberryPi-EtherCAT-Slave,2023-11-01T09:42:17.000Z,1,NA,true,true,NA
+,rplc,2023-11-18T13:56:04.000Z,2,NA,true,false,MIT License
+,sagatowski,2022-11-19T20:03:16.000Z,11,NA,true,true,NA
+,TcLog,2023-11-18T13:57:21.000Z,1,NA,true,true,MIT License
+,TcStaticAnalysisLoader,2018-08-10T18:55:15.000Z,27,C#,true,true,MIT License
+,TcUnit-VsTestAdapter,2023-07-20T07:45:29.000Z,1,C#,true,true,MIT License
+,twincat-ads-webservice-exporter,2021-10-21T13:26:02.000Z,1,NA,true,true,MIT License
+,TwinCAT-LibraryCategories,2018-07-29T15:59:37.000Z,20,NA,true,true,MIT License
+,Twinpack,2023-08-21T19:36:46.000Z,2,NA,true,false,MIT License
+,ADBView,2012-01-29T14:02:34.000Z,87,Python,true,false,NA
+,angelscript,2012-07-23T09:10:08.000Z,5,C++,true,false,NA
+,ARM-ASM-Sublime,2014-02-14T16:29:17.000Z,0,NA,true,true,NA
+,asaot,2012-07-21T15:43:16.000Z,25,C,true,false,NA
+,asarmjit,2011-12-30T10:20:24.000Z,3,C++,true,false,NA
+,asgenbindings,2012-07-28T13:50:08.000Z,2,C,true,false,NA
+,boll,2012-02-04T10:21:00.000Z,7,C++,true,false,NA
+,boxeebox-intel-sdk,2015-05-03T10:16:33.000Z,2,C,true,true,NA
+,boxeebox-xbmc,2013-08-22T08:56:19.000Z,118,C++,true,true,Other
+,boxeehack,2013-08-17T08:46:34.000Z,2,Python,true,true,MIT License
+,c.tmbundle,2012-03-22T12:09:46.000Z,1,Ruby,true,true,NA
+,CGCOnSave,2012-03-31T16:31:16.000Z,1,Python,true,false,NA
+,CMake,2012-09-14T08:39:29.000Z,0,C++,true,false,Other
+,CompleteSharp,2012-05-05T10:19:29.000Z,81,C#,true,false,NA
+,completion,2013-02-22T14:34:15.000Z,670,Go,true,true,Other
+,Cura,2023-10-21T10:16:20.000Z,0,Python,true,true,GNU Lesser General Public License v3.0
+,dcintros,2012-02-04T10:39:07.000Z,5,Assembly,true,false,NA
+,dolphin,2014-05-15T14:31:09.000Z,1,C++,true,false,GNU General Public License v2.0
+,emu-ex-plus-alpha,2012-06-28T18:45:50.000Z,8,C,true,false,NA
+,ff6,2014-05-19T09:18:23.000Z,8,Go,true,true,BSD 2-Clause "Simplified" License
+,freetype-gl,2012-11-16T06:20:32.000Z,1,C,true,false,Other
+,gitsqlite,2023-12-31T18:55:35.000Z,0,Go,true,false,BSD 2-Clause "Simplified" License
+,glfw,2012-04-16T09:32:31.000Z,2,C,true,true,zlib License
+,go,2015-07-21T09:26:43.000Z,0,Go,true,true,BSD 3-Clause "New" or "Revised" License
+,go-airplay,2015-04-23T10:07:16.000Z,2,Go,true,true,NA
+,go-clang,2013-07-03T11:43:32.000Z,0,Go,true,true,Other
+,go-ffi,2013-05-17T10:07:00.000Z,0,Go,true,true,Other
+,go-plist,2014-06-27T07:22:47.000Z,1,Go,true,true,Other
+,go-qt5,2013-04-14T12:21:47.000Z,0,Lua,true,true,BSD 2-Clause "Simplified" License
+,goandroid,2013-06-30T14:54:42.000Z,1,Go,true,true,NA
+,alarmo,2021-03-05T08:43:32.000Z,0,NA,true,true,NA
+,Angular2assignment,2017-02-11T11:03:11.000Z,0,TypeScript,true,true,NA
+,Arbetsprov-FE,2021-10-11T10:22:57.000Z,0,JavaScript,true,true,NA
+,awesome-home-assistant,2018-11-10T11:37:39.000Z,2,Shell,true,false,Creative Commons Attribution 4.0 International
+,BengansBowling,2017-10-17T11:52:06.000Z,0,C#,true,true,NA
+,blueprint,2019-07-30T16:01:37.000Z,0,Python,true,false,MIT License
+,brands,2022-03-18T10:36:31.000Z,0,NA,true,false,NA
+,core,2020-08-13T11:10:45.000Z,0,NA,true,false,Apache License 2.0
+,custom-lovelace,2018-08-16T18:58:35.000Z,2,JavaScript,true,false,Apache License 2.0
+,customjson,2019-04-10T07:51:41.000Z,0,Python,true,false,MIT License
+,default,2020-03-17T11:56:13.000Z,0,NA,true,false,MIT License
+,developers.home-assistant,2019-06-02T18:12:43.000Z,1,JavaScript,true,true,Other
+,docs,2020-03-17T07:07:04.000Z,0,NA,true,true,MIT License
+,grocy,2020-09-05T12:16:04.000Z,0,NA,true,true,NA
+,hacs,2019-06-16T08:44:29.000Z,0,Python,true,false,MIT License
+,Hass-Custom-Alarm,2020-03-18T19:13:30.000Z,0,NA,true,false,NA
+,HASS-Deepstack-object,2024-08-28T14:52:14.000Z,1,NA,true,true,MIT License
+,HASS-Machinebox-Classificationbox,2018-08-09T14:03:04.000Z,0,Jupyter Notebook,true,true,MIT License
+,HassBot,2018-09-29T09:43:15.000Z,0,C#,true,true,NA
+,hassio-add-ons,2020-03-19T14:11:33.000Z,0,NA,true,true,MIT License
+,hass_rpi_slave,2018-03-09T21:36:07.000Z,0,Python,true,true,NA
+,home-assistant-config,2019-07-20T11:39:05.000Z,254,C#,true,true,NA
+,home-assistant-pollenkoll,2019-04-07T13:10:37.000Z,2,Python,true,true,NA
+,home-assistant-polymer,2019-04-07T18:19:23.000Z,0,TypeScript,true,true,Other
+,home-assistant.github.io,2017-11-21T14:45:56.000Z,0,HTML,true,false,Other
+,Home-AssistantConfig,2017-04-09T20:24:57.000Z,1,Python,true,true,NA
+,homeassistant-lovelace-gen,2018-08-07T12:55:43.000Z,0,Python,true,true,NA
+,homeassistant-volkswagencarnet,2020-06-16T14:57:41.000Z,1,Python,true,true,Apache License 2.0
+,HomeAssistant.AppStarter,2018-03-09T22:41:26.000Z,0,C#,true,true,Apache License 2.0
+,isabellaalstrom.github.io,2019-02-05T15:10:36.000Z,2,HTML,true,true,NA
+,algorithm,2016-03-15T12:02:52.000Z,38,NA,true,true,MIT License
+,cncnet-yr-client-package,2024-03-11T17:54:08.000Z,0,Inno Setup,true,true,GNU General Public License v3.0
+,dotnet-extensions,2024-03-20T16:34:03.000Z,0,NA,true,true,MIT License
+,dotnet-utils,2024-03-20T16:34:25.000Z,0,NA,true,true,MIT License
+,douban,2016-07-13T07:44:09.000Z,0,JavaScript,true,true,MIT License
+,eocky,2017-11-17T03:52:29.000Z,10,JavaScript,true,false,MIT License
+,Grunt_in_Action,2015-04-08T12:38:01.000Z,0,JavaScript,true,true,NA
+,ife-task-9-react,2016-03-15T05:29:50.000Z,0,JavaScript,true,true,MIT License
+,javascript-code-collection,2016-03-02T08:55:08.000Z,0,JavaScript,true,true,MIT License
+,language-fbp,2018-12-19T11:20:39.000Z,0,NA,true,true,MIT License
+,LeetCodeTest,2015-04-28T11:10:20.000Z,0,JavaScript,true,true,MIT License
+,leuisken.github.io,2014-11-21T15:04:39.000Z,246,HTML,true,true,MIT License
+,locaStorage-demo,2015-10-22T12:14:00.000Z,0,HTML,true,true,MIT License
+,md2json2html,2017-10-23T10:24:23.000Z,10,JavaScript,true,true,MIT License
+,mix-loader,2018-03-21T09:26:19.000Z,4,JavaScript,true,true,MIT License
+,mobile-polyfill,2017-12-22T08:56:28.000Z,5,JavaScript,true,true,MIT License
+,Node.js_in_Action,2015-04-06T12:45:20.000Z,0,JavaScript,true,true,NA
+,oawidget-cli,2017-12-11T03:58:59.000Z,2,JavaScript,true,true,NA
+,OTLPGrpcWeb,2024-10-24T17:53:14.000Z,0,C#,true,true,NA
+,PHPExcel_in_Action,2015-03-28T16:52:27.000Z,0,PHP,true,true,NA
+,postcss-test,2016-08-11T04:12:49.000Z,1,JavaScript,true,true,MIT License
+,react-collection,2016-03-07T02:34:56.000Z,112,NA,true,true,MIT License
+,react-redux-intro,2016-02-24T06:55:01.000Z,33,CSS,true,true,MIT License
+,react-vsc-treeview,2019-12-16T09:23:36.000Z,24,TypeScript,true,true,MIT License
+,Realtime-Web-Apps-with-HTML5-WebSocket-PHP-and-jQuery,2014-11-27T17:36:00.000Z,0,CSS,true,true,NA
+,san-awesome,2018-05-02T10:22:08.000Z,3,JavaScript,true,true,MIT License
+,simple-note,2016-11-28T06:47:54.000Z,0,JavaScript,true,true,MIT License
+,skolverket-api,2024-07-10T13:26:39.000Z,0,JavaScript,true,true,MIT License
+,stepByStep,2015-09-04T03:38:24.000Z,3,NA,true,true,NA
+,tapable,2019-02-14T03:16:17.000Z,0,JavaScript,true,true,MIT License
+,action,2024-02-19T23:51:18.000Z,0,NA,true,false,MIT License
+,aeiou,2024-06-12T11:08:34.000Z,0,NA,true,true,Apache License 2.0
+,ai-audio-startups,2022-06-15T08:38:32.000Z,2,NA,true,true,Apache License 2.0
+,ai-platform-samples,2020-01-28T13:35:13.000Z,0,NA,true,true,Apache License 2.0
+,aiSFX,2022-11-25T13:12:54.000Z,0,NA,true,true,Creative Commons Attribution 4.0 International
+,AlignmentDuration,2016-11-26T14:54:40.000Z,1,Python,true,true,NA
+,apt-cache-action,2024-09-22T10:26:52.000Z,0,NA,true,false,MIT License
+,audio-gallery,2024-02-13T22:51:22.000Z,0,NA,true,true,MIT License
+,audiocraft,2023-06-11T12:11:38.000Z,1,NA,true,false,MIT License
+,AudioLDM2,2024-01-09T15:11:37.000Z,0,NA,true,false,Other
+,audioread,2017-02-01T09:53:33.000Z,0,Python,true,true,NA
+,audioscrape,2016-08-09T10:07:17.000Z,84,Python,false,false,GNU Affero General Public License v3.0
+,audiotools,2024-07-22T14:05:05.000Z,0,Python,true,true,MIT License
+,automatic-differentiation-example,2023-08-27T12:45:47.000Z,0,NA,true,true,GNU Affero General Public License v3.0
+,bark-example,2023-05-24T22:45:53.000Z,1,Python,true,true,NA
+,beam,2022-06-29T21:52:45.000Z,0,NA,true,false,Apache License 2.0
+,Beat-Transformer,2024-02-05T14:48:46.000Z,0,NA,true,true,MIT License
+,BeatNet,2023-11-16T12:35:22.000Z,0,NA,true,true,Creative Commons Attribution 4.0 International
+,blog,2018-06-25T16:07:44.000Z,0,CSS,false,false,GNU General Public License v3.0
+,bnlstm,2017-01-04T23:30:19.000Z,2,Python,true,true,NA
+,carlthome,2021-08-08T15:46:28.000Z,0,NA,true,true,NA
+,carlthome.github.io,2018-05-28T13:26:43.000Z,0,NA,false,false,NA
+,ceruleancrayons,2018-09-09T14:05:41.000Z,0,HTML,true,true,NA
+,clap,2022-06-18T13:57:24.000Z,0,NA,true,false,MIT License
+,CLAP-1,2024-09-22T12:27:26.000Z,0,NA,true,true,Creative Commons Zero v1.0 Universal
+,cloud-functions-example,2022-12-22T21:31:23.000Z,0,Python,true,true,NA
+,cloudml-samples,2018-05-30T12:21:57.000Z,0,Python,true,true,Other
+,CLR,2017-06-27T00:44:07.000Z,0,Jupyter Notebook,true,true,MIT License
+,competitive-programming-solutions,2015-11-22T20:51:27.000Z,0,C++,true,false,NA
+,cukiverb,2022-06-23T08:37:27.000Z,0,Python,true,true,NA
+,3dmodel-format-proposal,2019-06-11T07:39:09.000Z,0,NA,true,true,NA
+,3d_sdl2_fiddle,2016-06-12T19:56:46.000Z,0,C++,true,true,NA
+,abc,2021-03-16T13:42:22.000Z,0,NA,true,true,NA
+,abstraction-paint,2021-09-06T09:39:28.000Z,0,Python,true,true,NA
+,advent-of-code-2018,2018-12-01T16:30:42.000Z,1,C,true,true,NA
+,akit,2022-08-20T19:33:11.000Z,1,C,true,true,GNU General Public License v3.0
+,angry-happy-theme-css-example,2021-04-13T09:16:24.000Z,0,CSS,true,true,NA
+,animated-css-grid,2021-04-09T09:32:58.000Z,0,HTML,true,true,NA
+,animated-layouts-css-grid-flex,2021-04-13T12:42:14.000Z,0,CSS,true,true,NA
+,ansible-nginx-example,2021-03-24T07:03:57.000Z,0,Python,true,true,NA
+,apollon,2019-06-02T18:43:50.000Z,0,C,true,true,NA
+,appendchild-03-jun-2021,2021-06-03T07:31:20.000Z,0,JavaScript,true,true,NA
+,archlinux-help,2015-11-16T08:31:49.000Z,0,NA,true,true,NA
+,arena,2022-11-24T19:16:21.000Z,0,C,true,true,NA
+,assembly,2020-10-03T11:31:48.000Z,2,Assembly,true,true,NA
+,async,2021-06-10T09:12:33.000Z,0,JavaScript,true,true,NA
+,athena,2019-07-23T13:37:04.000Z,0,C,true,true,NA
+,avelunch,2018-04-10T08:06:28.000Z,0,CSS,true,true,NA
+,avenyn-lunch,2018-04-09T13:10:36.000Z,0,Python,true,true,NA
+,awesomecode,2020-02-08T10:43:49.000Z,0,Python,true,true,NA
+,b64,2021-12-11T12:34:08.000Z,3,C,true,true,NA
+,BAD_DONT_USE_PIVBS,2016-12-13T20:48:07.000Z,1,C++,true,true,NA
+,BAD_DONT_USE_VBScript,2018-03-14T07:28:12.000Z,2,C++,true,true,NA
+,bankapplication,2021-01-20T13:51:03.000Z,0,HTML,true,true,NA
+,bethins,2016-04-25T19:14:40.000Z,0,CSS,true,true,NA
+,biblehash,2020-06-29T18:55:15.000Z,1,Python,true,true,NA
+,biglist-vs-flatlist,2021-11-25T13:13:33.000Z,0,Java,true,true,NA
+,bigspace,2014-10-06T19:35:10.000Z,1,Java,true,true,NA
+,BlockBlocks,2015-01-13T19:40:47.000Z,1,Java,true,true,NA
+,blogr-frontendmentor,2021-04-13T07:30:30.000Z,0,NA,true,true,NA
+,actions,2022-07-04T13:13:48.000Z,0,NA,true,true,Apache License 2.0
+,AndroidMTBenchmark,2013-12-07T01:41:52.000Z,0,Java,true,true,Other
+,aoc-2023,2023-12-06T11:59:23.000Z,11,TypeScript,true,true,NA
+,api-extractor-repro,2021-08-05T08:09:08.000Z,0,TypeScript,true,true,NA
+,automation-experiments,2022-05-06T10:11:16.000Z,0,NA,true,true,NA
+,awesome-advent-of-code,2023-12-07T22:42:44.000Z,0,NA,true,true,NA
+,backstage,2020-03-27T15:07:01.000Z,0,NA,true,false,Apache License 2.0
+,backstage-api-exploration,2020-05-31T18:10:56.000Z,0,TypeScript,true,true,NA
+,backstage-example-template,2020-10-15T16:24:23.000Z,0,NA,true,true,NA
+,backstage-graphql-template,2020-06-20T02:46:10.000Z,1,JavaScript,true,true,NA
+,backstage-prod-diff,2022-03-24T14:05:31.000Z,0,TypeScript,true,true,NA
+,backstage-proxy-poc,2020-04-15T10:58:13.000Z,1,TypeScript,true,true,NA
+,backstage-renovate-poc,2022-03-22T08:04:44.000Z,0,TypeScript,true,true,NA
+,backstage-secure-context-poc,2020-05-21T10:39:22.000Z,1,TypeScript,true,true,NA
+,blob,2021-03-01T16:48:57.000Z,0,NA,true,true,MIT License
+,bootstrap-datepicker,2019-05-04T21:55:24.000Z,0,JavaScript,true,false,Apache License 2.0
+,bullettime,2015-09-18T09:51:58.000Z,3,Go,true,true,Apache License 2.0
+,c3-meet,2017-08-29T12:59:34.000Z,0,JavaScript,true,true,Apache License 2.0
+,cerbero,2015-03-25T13:33:36.000Z,0,Python,true,true,GNU Lesser General Public License v2.1
+,changesets,2022-02-10T21:28:49.000Z,0,TypeScript,true,true,MIT License
+,CowboyPhone,2014-02-15T10:44:30.000Z,1,Erlang,true,true,NA
+,cross-fetch,2023-03-09T13:56:52.000Z,0,NA,true,false,MIT License
+,CWing,2014-02-08T19:43:59.000Z,0,C,true,true,NA
+,docusaurus,2020-09-05T08:54:17.000Z,0,NA,true,false,MIT License
+,envoy,2021-06-03T11:31:23.000Z,0,NA,true,true,Apache License 2.0
+,external-dns,2019-03-23T15:04:43.000Z,0,Go,true,true,Apache License 2.0
+,github-sync-helper,2023-05-12T12:07:06.000Z,0,NA,true,true,NA
+,graphiql,2021-01-07T19:49:44.000Z,0,TypeScript,true,false,MIT License
+,lerna-publish-experiment,2020-03-24T12:42:45.000Z,0,JavaScript,true,true,MIT License
+,matrix-angular-sdk,2015-05-06T08:38:35.000Z,0,JavaScript,true,true,Apache License 2.0
+,beacon-wordpress,2010-04-16T15:01:07.000Z,6,PHP,true,true,NA
+,celery,2009-09-02T16:00:52.000Z,2,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,circle-flags,2022-01-16T16:23:33.000Z,0,NA,true,true,MIT License
+,django,2012-11-17T19:04:14.000Z,0,Python,true,false,BSD 3-Clause "New" or "Revised" License
+,django-assets,2015-05-11T22:30:34.000Z,0,Python,true,false,BSD 2-Clause "Simplified" License
+,django-assume,2014-03-06T14:25:54.000Z,0,Python,true,true,Do What The F*ck You Want To Public License
+,django-debug-toolbar-mongo,2011-10-31T09:00:47.000Z,1,Python,true,true,MIT License
+,django-dynamic-fixture,2016-08-05T11:10:08.000Z,0,Python,true,true,Other
+,django-extensions,2015-12-17T21:11:22.000Z,0,Python,true,true,MIT License
+,django-importmap,2023-01-31T11:28:09.000Z,0,NA,true,false,MIT License
+,django-mstats,2014-07-10T10:24:01.000Z,2,Python,true,true,NA
+,django-redis-metrics,2013-03-01T10:51:29.000Z,0,Python,true,true,MIT License
+,django-sentry,2011-11-17T10:58:59.000Z,1,Python,true,true,BSD 3-Clause "New" or "Revised" License
+,django-socialregistration,2012-08-13T10:46:54.000Z,0,Python,true,false,MIT License
+,django-viewlet,2013-05-24T17:03:24.000Z,1,Python,true,true,MIT License
+,django-xsession,2014-12-03T11:30:29.000Z,0,Python,true,true,Other
+,docker-backup-to-s3,2018-08-21T06:07:57.000Z,0,Shell,true,true,MIT License
+,docker-postgis,2018-10-31T15:26:34.000Z,0,Shell,true,true,MIT License
+,docker-postgres-upgrade,2023-03-26T11:53:31.000Z,0,NA,true,false,MIT License
+,docker-run-action,2021-01-28T15:07:10.000Z,0,Shell,true,true,MIT License
+,dockerfiles,2014-10-12T10:11:25.000Z,0,Shell,true,true,NA
+,dotfiles,2011-12-05T22:36:32.000Z,1,Shell,true,true,NA
+,elevation-service,2018-09-06T13:35:31.000Z,0,JavaScript,true,true,MIT License
+,fabric3,2022-04-07T13:04:10.000Z,0,NA,true,false,BSD 2-Clause "Simplified" License
+,fabtools,2023-09-06T09:57:46.000Z,0,Python,true,true,BSD 2-Clause "Simplified" License
+,filtered-port-forward,2022-12-21T07:23:52.000Z,0,Dockerfile,true,true,NA
+,geolocation-throttle,2013-04-01T22:43:17.000Z,17,JavaScript,true,true,NA
+,geventhttpclient,2017-12-19T19:25:11.000Z,0,Python,true,true,Other
+,graphite_docker,2015-04-16T15:52:31.000Z,1,Python,true,true,NA
+,heynote,2022-12-28T11:49:43.000Z,3997,JavaScript,true,true,Other
+,beautiful-web-type,2012-01-12T05:23:14.000Z,7266,HTML,false,false,MIT License
+,bokehdelic,2012-09-26T13:46:19.000Z,11,CSS,true,true,MIT License
+,css3-buttons,2010-05-31T01:16:00.000Z,1299,CSS,false,false,MIT License
+,jekyll-starter-kit,2010-08-26T14:34:16.000Z,25,CSS,true,true,NA
+,tecmogeek,2013-02-06T01:07:36.000Z,2,HTML,false,false,NA
+,tecmogeek-production,2013-03-06T20:59:42.000Z,1,HTML,false,false,NA
+,0xVim,2012-04-13T22:51:40.000Z,12,DCPU-16 ASM,true,true,NA
+,Alarmify,2014-01-22T22:33:20.000Z,2,CSS,true,true,NA
+,cat-filter,2021-09-19T13:33:08.000Z,11,JavaScript,true,true,NA
+,cdnjs,2012-10-13T14:16:57.000Z,0,JavaScript,true,true,NA
+,cnn-gol,2015-09-27T16:34:39.000Z,50,JavaScript,true,true,NA
+,doppler,2015-03-08T18:21:59.000Z,2388,JavaScript,true,true,MIT License
+,dotfiles,2012-07-24T01:14:31.000Z,0,VimL,true,true,NA
+,fragment.js,2013-03-23T12:17:21.000Z,521,JavaScript,true,true,MIT License
+,incrementor.js,2013-03-16T10:55:04.000Z,6,JavaScript,true,true,MIT License
+,Leaf,2011-03-31T23:15:28.000Z,0,JavaScript,true,true,NA
+,lecture-notes,2013-01-24T19:15:27.000Z,1,TeX,true,true,NA
+,liu-exam-analysis,2013-02-22T21:38:52.000Z,2,Python,true,true,NA
+,mcstats-analysis,2013-02-09T20:33:08.000Z,2,R,true,true,NA
+,mia-helper,2014-01-30T16:03:00.000Z,1,Python,true,true,NA
+,morph,2015-09-21T18:25:25.000Z,36,JavaScript,true,true,MIT License
+,Noisy,2011-02-26T00:23:41.000Z,687,JavaScript,true,true,MIT License
+,Plums,2011-09-04T12:25:25.000Z,1,JavaScript,true,true,NA
+,Quizzle,2012-01-06T17:19:07.000Z,2,JavaScript,true,true,NA
+,Randomizer,2012-01-04T21:44:38.000Z,2,JavaScript,true,true,NA
+,rnn-spectral-radius,2015-10-31T17:58:20.000Z,4,HTML,true,true,NA
+,simple-ioc,2013-04-08T15:55:05.000Z,0,JavaScript,true,true,Other
+,spectroface,2014-10-23T23:23:15.000Z,89,JavaScript,true,true,MIT License
+,twss.js,2011-10-13T12:55:57.000Z,694,JavaScript,true,true,MIT License
+,aetherstats,2022-04-18T15:51:47.000Z,0,C++,true,true,NA
+,AFNetworking,2015-12-13T00:13:23.000Z,0,Objective-C,true,true,MIT License
+,allo-cloud-generator,2021-11-12T10:03:16.000Z,0,Lua,true,true,NA
+,allocle,2023-05-15T14:35:43.000Z,0,Python,true,true,NA
+,allosaber,2022-02-05T19:49:12.000Z,0,Lua,true,true,NA
+,AmbienceBoard,2012-02-12T22:58:30.000Z,2,Objective-C,true,true,NA
+,Antenna,2013-09-02T21:52:15.000Z,0,Objective-C,true,true,NA
+,Arduino-Dioder-Playground,2011-09-27T21:12:39.000Z,1,Objective-C,true,true,NA
+,atime,2010-03-14T20:42:13.000Z,5,Objective-C,true,true,NA
+,aurality,2009-04-15T17:52:10.000Z,3,NA,true,true,NA
+,Aurality2,2009-12-27T12:20:36.000Z,3,Objective-C,true,true,NA
+,backtolife,2014-01-11T18:29:09.000Z,0,JavaScript,true,true,NA
+,BitCraft,2010-05-14T18:38:36.000Z,4,Objective-C,true,true,NA
+,bitshift,2009-01-10T18:21:13.000Z,2,NA,true,true,NA
+,blippygrid,2020-12-20T09:17:16.000Z,0,C++,true,true,NA
+,C3LineGraph,2009-07-05T18:43:42.000Z,10,Objective-C,true,true,NA
+,Cartridge,2019-07-04T14:34:21.000Z,0,C++,true,true,GNU General Public License v3.0
+,cavesave,2009-02-27T08:50:56.000Z,2,Objective-C,true,true,NA
+,Cerfing,2011-12-28T22:03:25.000Z,17,Objective-C,true,true,BSD 2-Clause "Simplified" License
+,cfxr,2010-06-01T15:01:23.000Z,350,Objective-C,true,true,NA
+,ch100-metal-primer,2019-05-26T22:01:40.000Z,2,Rich Text Format,true,true,NA
+,CimmerianPurple,2015-01-24T19:04:25.000Z,1,Swift,true,true,NA
+,CMake,2012-02-21T13:02:27.000Z,1,C++,true,true,Other
+,CoCA,2011-05-04T20:08:40.000Z,5,Objective-C,true,true,NA
+,CocoaPods,2013-01-09T17:13:32.000Z,0,Ruby,true,true,MIT License
+,cominecraft,2010-11-10T23:15:11.000Z,3,Objective-C,true,true,NA
+,Concertion,2014-10-04T08:10:12.000Z,1,Objective-C,true,true,NA
+,contribtastic,2013-03-02T22:46:12.000Z,1,Objective-C,true,false,GNU General Public License v2.0
+,core-plot,2011-11-01T16:34:07.000Z,1,Objective-C,true,false,BSD 3-Clause "New" or "Revised" License
+,CoreDragon,2014-04-07T10:55:09.000Z,670,Objective-C,true,true,Apache License 2.0
+,cd,2018-06-20T13:22:12.000Z,7,HTML,false,false,NA
+,corba,2018-06-05T07:45:29.000Z,14,Erlang,true,true,Apache License 2.0
+,docker-erlang-example,2017-02-16T09:24:19.000Z,165,Erlang,true,false,NA
+,docker-erlang-otp,2015-09-23T18:08:52.000Z,183,Dockerfile,true,true,Apache License 2.0
+,eep,2010-03-22T14:24:12.000Z,265,Perl,true,true,NA
+,egd,2016-11-10T13:23:29.000Z,20,Erlang,true,false,Apache License 2.0
+,epmd,2016-03-23T00:23:56.000Z,46,Erlang,true,true,Apache License 2.0
+,erlang-org,2016-12-05T14:20:52.000Z,74,HTML,true,true,Apache License 2.0
+,erlang.github.io,2018-03-21T12:41:38.000Z,12,HTML,true,true,NA
+,erlide_eclipse,2009-10-25T21:03:07.000Z,202,Java,true,true,NA
+,erlide_kernel,2016-02-10T21:19:19.000Z,17,Erlang,true,true,NA
+,otp,2009-11-16T17:17:57.000Z,11366,Erlang,true,true,Apache License 2.0
+,percept,2016-11-10T11:29:50.000Z,20,Erlang,true,false,Apache License 2.0
+,pmod_transform,2013-01-30T14:18:05.000Z,51,Erlang,true,true,NA
+,rebar3,2014-11-13T22:02:03.000Z,1697,Erlang,true,true,Apache License 2.0
+,rebar3_otpdoc_plugin,2016-10-06T09:04:41.000Z,0,Erlang,true,false,Other
+,rebar3_otp_install_plugin,2017-03-16T14:30:04.000Z,4,Erlang,true,false,Apache License 2.0
+,sourcer,2015-10-19T20:10:43.000Z,122,Erlang,true,true,Apache License 2.0
+,spec,2017-11-30T11:11:35.000Z,48,TeX,false,true,Apache License 2.0
+,wxWidgets,2021-04-23T08:56:16.000Z,0,NA,true,false,NA
+,28,2024-09-20T22:01:57.000Z,0,HTML,true,true,NA
+,AaltoTLS,2014-12-18T09:03:34.000Z,0,C#,true,true,NA
+,Accord.Net,2015-10-27T16:31:22.000Z,0,C#,true,true,Other
+,ActiveLogin.Authentication,2019-02-21T12:22:32.000Z,0,C#,true,false,MIT License
+,albathor,2011-06-30T09:16:12.000Z,0,Ruby,true,true,NA
+,AleaGPUTutorial,2015-10-03T12:10:20.000Z,14,F#,true,true,Apache License 2.0
+,ansible-kafka,2017-01-18T15:09:54.000Z,1,Shell,true,true,MIT License
+,ansible-zookeeper,2017-01-18T15:10:59.000Z,0,Shell,true,true,MIT License
+,Apollo,2015-05-16T12:06:18.000Z,0,Python,true,true,MIT License
+,aports,2015-04-25T19:48:11.000Z,0,C,true,false,NA
+,argtrust,2015-11-10T12:10:06.000Z,0,Python,true,true,NA
+,Argu,2016-12-07T14:14:01.000Z,0,F#,true,true,MIT License
+,Aside,2017-04-09T11:57:11.000Z,0,F#,true,true,NA
+,Automatonymous,2012-02-16T10:07:33.000Z,5,C#,true,false,NA
+,avow-ci,2014-04-14T14:56:40.000Z,0,JavaScript,true,true,NA
+,awesome-dotnet,2015-04-24T12:45:41.000Z,0,NA,true,true,NA
+,awesome-fsharp,2016-10-24T10:56:05.000Z,2,NA,true,true,Other
+,bazel,2017-05-13T11:46:29.000Z,0,Java,true,true,Apache License 2.0
+,bazel_rules_fsharp,2017-11-13T16:06:43.000Z,0,Python,true,true,Apache License 2.0
+,bc-csharp,2013-12-30T15:50:26.000Z,0,C#,true,true,NA
+,bimg,2017-08-21T17:07:58.000Z,0,Go,true,true,MIT License
+,blog-HelloWorldSuave,2014-11-19T10:58:21.000Z,0,JavaScript,true,true,NA
+,buf-breaking-action,2021-08-26T13:58:41.000Z,0,NA,true,true,Apache License 2.0
+,buf-dup-file,2021-08-25T15:55:38.000Z,0,Shell,true,true,NA
+,BuildWithRuby,2011-08-15T20:30:49.000Z,0,Ruby,true,true,NA
+,canopy,2018-03-05T18:45:01.000Z,0,JavaScript,true,true,MIT License
+,canopy-fsx,2014-05-02T16:50:48.000Z,0,F#,true,true,NA
+,Castle.Facilities.NHibernate,2011-04-18T07:44:22.000Z,15,C#,true,true,Apache License 2.0
+,Castle.Releases,2011-04-28T17:38:13.000Z,0,Ruby,true,true,NA
+,Castle.Transactions,2010-02-28T18:38:38.000Z,5,C#,true,true,Apache License 2.0
+,1password-teams-open-source,2022-06-07T16:00:49.000Z,0,NA,true,false,NA
+,4clojure,2019-09-23T15:12:48.000Z,0,NA,true,true,Eclipse Public License 1.0
+,4clojure-sandbox,2020-01-03T16:15:59.000Z,0,Clojure,true,true,Eclipse Public License 1.0
+,a-quil-workflow,2022-01-04T16:44:21.000Z,3,Clojure,false,false,MIT License
+,accountant,2016-03-17T08:40:50.000Z,0,Clojure,true,true,Eclipse Public License 1.0
+,ALToastView,2012-04-30T12:54:16.000Z,2,Objective-C,true,true,MIT License
+,AndroidCljsrnHotreloadFreeze,2021-07-06T17:14:25.000Z,0,Clojure,true,false,NA
+,aoc2018,2019-06-24T11:29:25.000Z,0,Clojure,true,true,NA
+,appirater,2011-01-18T19:16:02.000Z,1,Objective-C,true,true,NA
+,AREPL-vscode,2019-04-03T14:21:47.000Z,0,TypeScript,true,true,MIT License
+,arkiv-skolplattformen,2021-04-09T11:29:11.000Z,1,TypeScript,true,true,Apache License 2.0
+,asparagus,2019-10-25T06:49:34.000Z,0,Clojure,true,true,NA
+,awesome-sket.ch,2015-02-10T13:33:01.000Z,0,CSS,true,true,MIT License
+,babashka,2020-03-23T07:04:28.000Z,0,Clojure,true,true,Eclipse Public License 1.0
+,backseat-driver,2024-01-13T15:51:51.000Z,8,Clojure,true,true,MIT License
+,bencoder,2023-12-21T21:39:58.000Z,0,TypeScript,false,false,NA
+,black-and-gold,2024-01-28T09:38:11.000Z,2,Rust,true,true,MIT License
+,boodle,2019-08-27T07:50:24.000Z,0,Clojure,true,false,Eclipse Public License 1.0
+,Bootstrap-Skin,2011-12-10T14:30:40.000Z,3,JavaScript,true,true,NA
+,Bots,2011-10-29T20:55:38.000Z,6,Java,true,true,NA
+,calva-clojurescript-usage,2021-11-18T12:21:51.000Z,0,Clojure,true,true,NA
+,calva-legacy,2019-06-05T11:37:51.000Z,0,TypeScript,true,true,Other
+,cherry,2023-12-05T10:20:45.000Z,1,Clojure,true,true,NA
+,chromium-crash-mystery,2022-06-02T14:37:28.000Z,0,HTML,true,true,NA
+,cider,2018-04-28T10:01:51.000Z,0,Emacs Lisp,true,false,NA
+,cider-nrepl,2019-06-09T19:04:24.000Z,0,Clojure,true,false,NA
+,cider-nrepl-debugger-issues,2024-04-10T07:45:27.000Z,0,Clojure,true,true,NA
+,clerk,2018-10-20T06:09:03.000Z,75,Clojure,true,true,Eclipse Public License 1.0
+,clerk-demo,2018-10-22T19:33:00.000Z,0,HTML,true,true,NA
+,clj-3df,2019-10-17T10:05:15.000Z,0,NA,true,true,Eclipse Public License 2.0
+,blam,2012-10-02T09:11:22.000Z,646,Python,true,true,GNU General Public License v3.0
+,chebyshev-calculator,2024-09-02T14:36:45.000Z,86,TypeScript,true,false,MIT License
+,fSpy,2018-06-15T11:02:37.000Z,2239,TypeScript,true,true,GNU General Public License v3.0
+,fSpy-Blender,2018-11-12T15:22:15.000Z,1213,Python,true,true,GNU General Public License v3.0
+,kicad-boards,2022-08-17T20:43:40.000Z,0,NA,true,true,Creative Commons Attribution Share Alike 4.0 International
+,microcheby,2024-07-28T06:20:02.000Z,8,Rust,true,false,MIT License
+,microdsp,2020-09-14T13:18:50.000Z,14,Rust,true,true,MIT License
+,microdsp-zephyr-demos,2022-11-18T11:27:06.000Z,6,C,true,true,NA
+,midi-msg,2022-12-09T11:22:15.000Z,0,Rust,true,true,NA
+,start-audio-worklet,2021-10-29T06:50:36.000Z,5,JavaScript,true,true,MIT License
+,stuffmatic.github.io,2022-10-07T11:50:00.000Z,0,JavaScript,true,true,NA
+,tilecam,2012-09-28T11:45:08.000Z,65,Python,true,false,NA
+,zephyr-ble-midi,2023-01-16T10:15:21.000Z,4,C,true,true,MIT License
+,zephyr-usb-midi,2022-12-31T10:38:52.000Z,15,C,true,true,MIT License
+,zephyr_add_rust_library,2022-12-19T20:57:58.000Z,1,CMake,true,true,NA
+,altTrackSimulation,2019-04-07T13:29:33.000Z,0,C#,false,false,NA
+,api-management-developer-portal,2020-06-25T08:00:50.000Z,0,NA,true,true,MIT License
+,api-skeleton,2018-06-11T19:07:11.000Z,0,C#,true,true,NA
+,ardacetinkaya,2020-07-12T18:45:18.000Z,1,NA,true,true,NA
+,ardacetinkaya.github.io,2022-09-15T08:29:10.000Z,2,CSS,false,false,NA
+,argocd-example-apps,2021-09-30T09:52:32.000Z,1,Jsonnet,true,true,NA
+,asp-net-core-rate-limiting,2022-08-13T14:28:36.000Z,10,C#,false,false,MIT License
+,aspnet.core-Samples,2015-11-10T21:23:14.000Z,0,C#,true,true,NA
+,aspnetcore,2021-02-14T17:14:42.000Z,0,C#,true,true,MIT License
+,Azure-CostAnalysisNotificationFunction,2020-01-16T17:31:48.000Z,4,C#,false,false,NA
+,azure-devops-powershell,2020-05-23T15:39:52.000Z,0,PowerShell,false,false,MIT License
+,azure-docs,2021-11-04T17:36:03.000Z,0,PowerShell,true,false,Creative Commons Attribution 4.0 International
+,azure-k8s-service,2020-08-09T08:07:28.000Z,13,C#,false,false,MIT License
+,Azure-Media-Services-AssetManager,2019-01-21T18:10:05.000Z,0,C#,true,true,GNU General Public License v3.0
+,azure-sdk-for-net,2022-06-04T07:29:26.000Z,0,NA,true,true,MIT License
+,AzureRestAPI-Demos,2020-01-15T18:49:22.000Z,0,C#,true,true,NA
+,backstage,2020-03-16T17:36:06.000Z,0,NA,true,false,Apache License 2.0
+,blazor-workshop,2020-01-10T18:01:14.000Z,0,C#,true,true,MIT License
+,Blazor.Console,2019-11-14T17:49:04.000Z,68,C#,false,false,MIT License
+,Blazor.GoogleMap,2019-10-13T19:31:06.000Z,2,C#,true,false,NA
+,bugun-ne-oluyor,2020-04-12T09:41:57.000Z,1,Python,true,true,MIT License
+,CodeConversations,2020-05-19T19:02:33.000Z,0,NA,true,true,MIT License
+,CognitiveServicePlayGround,2018-05-19T11:51:16.000Z,1,Python,true,false,NA
+,command-line-api,2020-01-28T18:02:06.000Z,0,NA,true,true,MIT License
+,CommandLineBuilder-Demo,2019-07-25T17:11:19.000Z,1,C#,true,true,NA
+,Communication,2020-09-23T10:04:49.000Z,0,NA,true,true,MIT License
+,communication-services-teams-interoperability-demo,2021-04-10T15:45:44.000Z,4,JavaScript,false,false,MIT License
+,coreclr,2015-11-03T18:11:58.000Z,0,C#,true,true,MIT License
+,CoreUI-Vue,2018-02-11T16:23:27.000Z,0,Vue,true,true,MIT License
+,dapr,2019-10-18T08:15:37.000Z,0,NA,true,true,MIT License
+,activerecord-import,2011-08-23T12:06:45.000Z,2,Ruby,true,true,NA
+,activerecord-sqlserver-adapter,2011-03-18T18:05:50.000Z,1,Ruby,true,true,MIT License
+,backbone,2011-05-06T14:26:10.000Z,1,JavaScript,true,true,MIT License
+,backbone-accessorize,2013-04-27T14:30:47.000Z,3,JavaScript,true,true,NA
+,backbone-getsome,2013-04-28T20:50:49.000Z,4,JavaScript,true,true,NA
+,backbone_coffeescript_simple_use_cases,2011-05-12T17:35:51.000Z,1,JavaScript,true,true,NA
+,blog-custom-renderer,2020-02-12T11:03:45.000Z,0,NA,true,true,NA
+,bovespa_historical,2011-08-09T04:05:48.000Z,4,Ruby,true,true,MIT License
+,clipmeme,2011-10-15T05:46:43.000Z,1,Ruby,true,true,NA
+,commander.js,2014-09-10T22:24:16.000Z,0,JavaScript,true,true,NA
+,coreos-digital-ocean-hello-world,2015-06-13T19:38:41.000Z,4,Shell,true,true,NA
+,create-react-app,2016-07-22T17:11:34.000Z,1,JavaScript,true,true,Other
+,delayed_job,2011-10-05T18:33:32.000Z,1,Ruby,true,true,MIT License
+,docker-dropbox,2016-01-16T17:04:46.000Z,0,Shell,true,true,NA
+,easy-ssb-pub,2017-11-12T14:36:38.000Z,0,TypeScript,true,true,GNU Affero General Public License v3.0
+,ecsy,2020-08-08T11:48:53.000Z,0,NA,true,true,MIT License
+,ecsy-talk,2020-08-08T11:06:53.000Z,2,TypeScript,false,false,NA
+,generator-react,2014-05-02T19:57:10.000Z,0,JavaScript,true,true,NA
+,generator-react-webpack-component,2014-12-23T00:42:52.000Z,44,JavaScript,true,true,NA
+,git-revision-webpack-plugin,2016-02-15T18:34:05.000Z,358,TypeScript,false,false,MIT License
+,git-x,2015-03-28T19:05:24.000Z,8,Shell,true,true,NA
+,gonp,2010-07-20T01:09:50.000Z,1,Java,true,true,NA
+,grunt-contrib-jasmine-requirejs-template,2013-07-04T00:18:05.000Z,0,NA,true,true,NA
+,grunt-contrib-watch,2013-09-18T03:03:20.000Z,0,JavaScript,true,true,MIT License
+,haml-js,2011-04-28T12:55:25.000Z,1,JavaScript,true,true,MIT License
+,html-webpack-plugin,2016-01-31T17:53:28.000Z,0,JavaScript,true,true,MIT License
+,image-maxsize-webpack-loader,2019-05-09T10:49:45.000Z,0,JavaScript,true,true,NA
+,jasmine-standalone-requirejs,2013-05-14T22:49:09.000Z,4,JavaScript,true,true,NA
+,jasmine-standalone-webpack,2015-02-28T21:21:53.000Z,5,JavaScript,true,true,NA
+,jasmine-testing-example,2013-05-17T17:45:14.000Z,9,JavaScript,true,true,NA
+,.emacs.d,2017-12-24T11:34:30.000Z,0,Emacs Lisp,true,true,NA
+,101simplejava,2013-04-25T06:18:14.000Z,0,Java,true,true,NA
+,Advent-of-code-2017,2017-12-01T13:08:21.000Z,0,Rust,true,true,NA
+,ale,2017-06-07T13:27:00.000Z,0,Vim script,true,true,BSD 2-Clause "Simplified" License
+,alis,2019-11-07T18:50:15.000Z,0,NA,true,false,GNU General Public License v3.0
+,aoc-2018,2018-12-02T14:02:11.000Z,0,Rust,true,true,NA
+,ash-portability,2019-04-20T05:11:57.000Z,0,Rust,true,true,NA
+,assimp-rs,2013-09-28T14:19:32.000Z,1,Rust,true,true,NA
+,becs,2017-02-23T12:05:59.000Z,1,Rust,true,true,NA
+,bench_defense,2018-10-30T18:45:47.000Z,7,Rust,true,true,NA
+,bench_mutex,2016-12-17T19:00:44.000Z,0,Rust,true,true,NA
+,bevy,2021-07-15T10:45:12.000Z,0,NA,true,false,MIT License
+,blog,2016-03-08T14:41:58.000Z,0,HTML,true,true,NA
+,blogtest,2020-08-01T09:40:31.000Z,0,HTML,true,true,NA
+,bootstrap,2012-07-20T16:38:00.000Z,1,JavaScript,true,true,Apache License 2.0
+,box2d,2014-12-23T20:01:02.000Z,0,C++,true,true,NA
+,bspwm,2016-04-04T11:19:11.000Z,0,C,true,true,BSD 2-Clause "Simplified" License
+,buildtimes,2017-05-06T11:34:15.000Z,0,Rust,true,true,NA
+,CacheBenchmark,2016-02-12T14:15:34.000Z,0,D,true,true,NA
+,cargo-workspace,2017-06-15T07:38:37.000Z,1,Rust,true,true,NA
+,cgmath,2013-10-06T15:15:52.000Z,0,Rust,true,true,Apache License 2.0
+,compile-test,2018-02-17T09:05:44.000Z,0,Rust,true,true,NA
+,coroutine-rs,2016-06-12T17:49:41.000Z,0,Rust,true,true,MIT License
+,cpp-talk,2014-08-22T10:59:59.000Z,1,JavaScript,true,true,MIT License
+,crates.io,2018-11-22T08:53:14.000Z,0,Rust,true,true,Apache License 2.0
+,csgo-pro-nades,2019-08-08T14:17:04.000Z,0,NA,true,true,MIT License
+,dotfiles,2013-10-25T12:44:45.000Z,3,Python,true,true,NA
+,ecs_bench,2017-02-23T12:07:11.000Z,1,Rust,true,false,NA
+,ecs_bench_suite,2020-08-22T17:58:02.000Z,0,NA,true,true,NA
+,enumflags,2017-02-09T23:50:22.000Z,24,Rust,true,true,NA
+,99-problems,2023-01-03T13:51:24.000Z,0,Swift,true,true,MIT License
+,advanced-react-hooks,2021-10-25T14:06:43.000Z,1,NA,true,false,Other
+,advent-of-code,2019-12-02T11:01:37.000Z,3,TypeScript,true,true,NA
+,aoc_rank,2020-12-17T10:53:44.000Z,1,JavaScript,true,true,NA
+,array-scan,2020-07-28T11:26:25.000Z,1,TypeScript,true,true,MIT License
+,async-ops,2018-07-07T08:52:52.000Z,1,JavaScript,true,true,NA
+,async-redux-saga,2019-04-03T10:40:00.000Z,1,JavaScript,true,true,NA
+,bitcoin-nextjs,2018-10-20T18:38:38.000Z,0,JavaScript,true,true,NA
+,character-creator,2021-10-22T11:21:58.000Z,1,JavaScript,true,true,Other
+,chat-room,2018-10-28T21:13:23.000Z,0,JavaScript,true,true,NA
+,code-wars,2020-03-04T16:54:49.000Z,1,Rust,true,true,NA
+,codeJam,2018-03-19T07:03:07.000Z,0,Python,true,true,NA
+,codejam-js,2019-03-16T07:16:19.000Z,8,Rust,true,true,NA
+,codejam2018,2018-04-10T08:58:43.000Z,0,Python,true,true,NA
+,colorpicker,2018-05-11T05:41:38.000Z,3,JavaScript,true,true,NA
+,concurrent-mode-experiments,2019-10-29T06:09:00.000Z,1,JavaScript,true,true,NA
+,context-hook-provider,2019-04-23T23:27:06.000Z,1,JavaScript,true,true,MIT License
+,create-phaser-app,2018-08-24T14:21:45.000Z,0,JavaScript,true,true,Other
+,crowdpath,2017-10-07T08:02:53.000Z,0,JavaScript,true,true,MIT License
+,daybook,2021-05-09T08:04:49.000Z,2,TypeScript,true,true,Mozilla Public License 2.0
+,effecto,2019-05-09T14:09:39.000Z,1,JavaScript,true,true,NA
+,encrypt-with-deno,2020-05-27T12:47:38.000Z,1,TypeScript,true,true,NA
+,eslint-plugin-fp,2019-02-20T20:15:27.000Z,1,JavaScript,true,true,MIT License
+,exercism-solutions,2019-07-23T18:07:33.000Z,1,Rust,true,true,NA
+,fitness,2017-12-05T18:09:22.000Z,3,JavaScript,true,true,NA
+,flashcards,2017-12-28T23:07:02.000Z,2,JavaScript,true,true,NA
+,flashlight,2018-10-17T16:20:38.000Z,1,JavaScript,true,true,NA
+,forza,2018-09-27T17:22:01.000Z,1,JavaScript,true,true,NA
+,gbgtraffic,2018-01-23T16:53:14.000Z,1,JavaScript,true,true,NA
+,giftsList,2018-01-02T13:16:47.000Z,1,JavaScript,true,true,NA
+,Achtung2,2016-07-25T01:32:52.000Z,29,C#,true,true,MIT License
+,ApparelX,2017-10-19T21:39:25.000Z,1,C#,true,true,MIT License
+,CameraPlus,2017-01-13T21:33:56.000Z,28,C#,true,true,MIT License
+,CarefulRaids,2017-02-15T17:15:53.000Z,3,C#,true,true,MIT License
+,com.athom.homeyscript,2018-12-15T15:01:16.000Z,0,JavaScript,true,true,GNU General Public License v3.0
+,com.mill,2018-12-21T15:26:48.000Z,0,JavaScript,true,true,GNU General Public License v3.0
+,DebugWindow,2018-09-07T10:06:00.000Z,0,C#,true,true,NA
+,discord-open-source,2019-03-26T13:42:29.000Z,0,JavaScript,true,true,NA
+,DualPresenter,2022-06-04T15:55:14.000Z,1,Swift,true,true,NA
+,Firebaser,2018-09-04T11:48:46.000Z,1,C#,true,true,MIT License
+,fluid-menu-bar-extra,2023-08-07T11:51:02.000Z,0,Swift,true,false,MIT License
+,GooseGun,2020-06-17T23:06:24.000Z,0,C#,true,true,MIT License
+,greet-grpc,2021-05-12T14:30:07.000Z,1,JavaScript,true,true,NA
+,grpc-swift,2020-11-17T12:50:00.000Z,0,NA,true,true,Apache License 2.0
+,Harmony,2017-01-04T09:43:16.000Z,5274,C#,true,true,MIT License
+,harmonycheck,2017-03-17T00:17:34.000Z,3,C#,true,true,MIT License
+,HarmonyRimWorld,2020-02-28T18:03:50.000Z,138,C#,true,true,MIT License
+,HelloChat,2021-09-12T21:11:48.000Z,1,C#,true,true,NA
+,ICSharpCode.TreeView,2019-07-25T16:18:47.000Z,0,C#,true,false,GNU Lesser General Public License v2.1
+,JustIgnoreMePassing,2017-12-14T22:30:36.000Z,5,C#,true,true,MIT License
+,LineOfSightFix,2021-11-25T01:56:39.000Z,3,C#,true,true,MIT License
+,MagicTutor,2021-11-07T20:46:48.000Z,2,C#,true,true,MIT License
+,Mattworld,2023-12-29T22:14:26.000Z,0,C#,true,true,MIT License
+,MemCheck,2023-11-01T23:05:04.000Z,1,C#,true,true,MIT License
+,MOD-E,2017-06-27T15:03:50.000Z,1,C#,true,true,MIT License
+,ModBuilder,2018-10-08T06:19:05.000Z,1,C#,true,true,NA
+,MultiAim,2024-01-09T21:40:51.000Z,2,Lua,true,true,MIT License
+,NoPauseChallenge,2018-09-19T23:33:16.000Z,1,C#,true,true,MIT License
+,PolySlinger,2021-01-11T03:32:20.000Z,1,C#,true,true,GNU General Public License v2.0
+,popremote,2015-05-14T06:34:46.000Z,1,JavaScript,true,true,NA
